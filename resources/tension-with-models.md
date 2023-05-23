@@ -1,7 +1,6 @@
 ## Observations at tension with cosmological models
 
 **By Louis Marmet**<br/>
-© 2020–2022 Louis Marmet
 
 These observations might indicate new physics or deficient methodology. Some examples are:
 
@@ -21,11 +20,11 @@ This article is updated with the publications of new results.
 
 ###  Dark Energy is not seen by the 'Dark Energy Survey'
 
-- The analysis results in a 2.4σ tension with the DES Y1 3x2pt results, and in 5.6σ with the Planck CMB analysis; [arXiv:2002.11124](https://arxiv.org/abs/2002.11124).
+- The analysis results in a 2.4σ tension with the DES Y1 3x2pt results, and in 5.6σ with the Planck CMB analysis; [`arXiv:2002.11124`](https://arxiv.org/abs/2002.11124).
 
 ### The Hubble tension: disagreement at 4σ significance
 
-- There is a tension between the Hubble value predicted from the cosmological model using measurements of the early Universe, and the value  more directly measured from the late Universe; [<span class="arxivid"></span>](https://arxiv.org/abs/2001.03624)[arXiv:2001.03624](https://arxiv.org/abs/2001.03624).
+- There is a tension between the Hubble value predicted from the cosmological model using measurements of the early Universe, and the value more directly measured from the late Universe; [`arXiv:2001.03624`](https://arxiv.org/abs/2001.03624).
 
 ### Axis of Evil
 
@@ -49,7 +48,7 @@ This article is updated with the publications of new results.
 
 ### Matter-antimatter asymmetry
 
-- There is as of yet no consensus theory to explain <span class="js-about-item-abstr">the baryon asymmetry problem</span>.   There is no observation of antimatter or evidence for CP violation.
+- There is as of yet no consensus theory to explain the baryon asymmetry problem. There is no observation of antimatter or evidence for CP violation.
 
   The gap between prediction and observation is attributed to an unknown process that produced baryon number non-conservation - more baryons than anti-baryons.  Such processes have never been observed in any experiments on earth.
 
@@ -84,15 +83,15 @@ Be, <sup>3</sup>He.
 
 - Companion galaxies have redshifts averaging 122±34 km/s higher than that of the dominant galaxy in clusters. \[Arp, H. Ap.J. 256 (1982): 54-74.\]
 
-- ΛCDM fails the Tolman test: the surface brightness signal does not follow (1 + z)<sup>-4</sup>; Lubin and Sandage, "The Tolman Surface Brightness Test for the Reality of the Expansion. IV. A Measurement of the Tolman Signal and the Luminosity Evolution of Early-Type Galaxies," The Astronomical Journal **122**, no. 3, p. 1084, Sep. 2001, <http://stacks.iop.org/1538-3881/122/i=3/a=1084>, [arXiv:astro-ph/0106566](https://arxiv.org/abs/astro-ph/0106566)
+- ΛCDM fails the Tolman test: the surface brightness signal does not follow (1 + z)<sup>-4</sup>; Lubin and Sandage, "The Tolman Surface Brightness Test for the Reality of the Expansion. IV. A Measurement of the Tolman Signal and the Luminosity Evolution of Early-Type Galaxies," The Astronomical Journal **122**, no. 3, p. 1084, Sep. 2001, <http://stacks.iop.org/1538-3881/122/i=3/a=1084>, [`arXiv:astro-ph/0106566`](https://arxiv.org/abs/astro-ph/0106566)
 
-- There is no evidence of time dilation in the duration of gamma-ray bursts [arXiv:0901.4169](https://arxiv.org/abs/0901.4169).
+- There is no evidence of time dilation in the duration of gamma-ray bursts [`arXiv:0901.4169`](https://arxiv.org/abs/0901.4169).
 
-- Intergalactic medium temperature independent of redshift; <span class="arxivid">[arXiv:1009.0953](https://arxiv.org/abs/1009.0953)</span>.
+- Intergalactic medium temperature independent of redshift; [`arXiv:1009.0953`](https://arxiv.org/abs/1009.0953).
 
-- Quasars don't show time dilation with redshift; "Time Dilation and Quasar Variability," The Astrophysical Journal Letters **553**, No. 2, L97, 2010, <http://stacks.iop.org/1538-4357/553/i=2/a=L97>, [arXiv:astro-ph/0105073](https://arxiv.org/abs/astro-ph/0105073).
+- Quasars don't show time dilation with redshift; "Time Dilation and Quasar Variability," The Astrophysical Journal Letters **553**, No. 2, L97, 2010, <http://stacks.iop.org/1538-4357/553/i=2/a=L97>, [`arXiv:astro-ph/0105073`](https://arxiv.org/abs/astro-ph/0105073).
 
-  > This work is often dismissed by citing a paper published two years later which claims to show time dilation in quasar light curves \["Using quasars as standard clocks for measuring cosmological redshift," [Phys. Rev. Lett 108, 231302](https://doi.org/10.1103/PhysRevLett.108.231302), 2012, [arXiv:1204.5191](https://arxiv.org/abs/1204.5191)\]. However, the paper is not convincing for the following reasons.
+  > This work is often dismissed by citing a paper published two years later which claims to show time dilation in quasar light curves \["Using quasars as standard clocks for measuring cosmological redshift," [Phys. Rev. Lett 108, 231302](https://doi.org/10.1103/PhysRevLett.108.231302), 2012, [`arXiv:1204.5191`](https://arxiv.org/abs/1204.5191)\]. However, the paper is not convincing for the following reasons.
   >
   > The luminous flux of quasars is analyzed manually: "We pick several straight line light curve segments \[...\] for more reliable identification (or rejection) of the observed patterns.  \[...\]  We identify five segments from its light curve that appear straight \[...\]  We take each of those segments, discarding the rest of the light curve \[...\]"  No criterion is given on how to pick the segments.  No rejection criterion is given concerning the patterns.  No objective definition of "appear straight" is given.  There is also no mention of the fraction of the data that was discarded.  Since the light curves patterns are never straight, this procedure is completely subjective and prone to cherry picking.
   >
@@ -157,7 +156,7 @@ substructure within galactic halos" The Astrophysical Journal Letters
 
 - To fix the above two problems, large amounts of feedback are invoked which results in more energy being used to prevent stars forming early than in forming them under gravity at later times.
 
-- Milky Way Galaxy not well understood; The Fermi Galactic Center GeV Excess [arxiv:1704.03910](https://arxiv.org/abs/1704.03910), and the Fermi Bubbles <span class="arxivid">[arXiv:1802.03890](https://arxiv.org/abs/1802.03890)</span>.
+- Milky Way Galaxy not well understood; The Fermi Galactic Center GeV Excess [`arxiv:1704.03910`](https://arxiv.org/abs/1704.03910), and the Fermi Bubbles [`arXiv:1802.03890`](https://arxiv.org/abs/1802.03890).
 
 #### From: M. López-Corredoira, "Non-standard models and the sociology of cosmology," <https://doi.org/10.1016/j.shpsb.2013.11.005>:
 
@@ -169,3 +168,7 @@ expected.
 - Dark energy in excess of theoretical models by a factor 10<sup>120</sup>.
 
 - Problems in understanding inflation.
+
+---
+
+© 2020–2022 Louis Marmet
