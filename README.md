@@ -1,1 +1,1 @@
-# acg
+# A Cosmology Group
