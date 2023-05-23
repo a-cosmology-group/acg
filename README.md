@@ -1,5 +1,7 @@
 # A Cosmology Group
 
+![header.jpg](assets/header.jpg)
+
 Despite of its remarkable successes the Standard Model of Cosmology is plagued with [profound theoretical and observational difficulties](https://arxiv.org/abs/2105.05208) such as the Hubble and σ8 tensions.  The tensions are serious enough to warrant a drastic [rethinking of cosmology](https://www.google.com/search?q=%22rethinking+cosmology%22).
 
 Has the JWST broken ΛCDM cosmology?  A Cosmology Group seeks to understand why the Standard Model of Cosmology (ΛCDM) and alternative models have not reached the status of a stable theory, like quantum mechanics and relativity have in the past hundred years.  The Group's astronomers and philosophers ponder why the many hypotheses used in cosmology have remained unsatisfying and in constant need of revision.  ACG does not endorse any cosmological model or statement from its members.  Instead, its role is to foster a scientific discussion that will allow a systematic exploration of the universe.
