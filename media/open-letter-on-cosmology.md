@@ -25,11 +25,11 @@
 ---
 
 **Signed by,** Institutions for identification only, Country<br>
-(Highlighted names are linked to related web pages. Original links are given even if they are now broken.)
+*Highlighted names are linked to related web pages (original links are given even if they are now broken).*
 
-**Halton Arp,** Max-Planck-Institute Für Astrophysik (Germany)<br>
-**Andre Koch Torres Assis,** State University of Campinas (Brazil)<br>
-**Yuri Baryshev,** Astronomical Institute, St. Petersburg State University (Russia)<br>
+[**Halton Arp,**](http://haltonarp.com/) Max-Planck-Institute Für Astrophysik (Germany)<br>
+[**Andre Koch Torres Assis,**](https://www.ifi.unicamp.br/~assis/) State University of Campinas (Brazil)<br>
+[**Yuri Baryshev,**](http://www.astro.spbu.ru/staff/baryshev/index.htm) Astronomical Institute, St. Petersburg State University (Russia)<br>
 **Ari Brynjolfsson,** Applied Radiation Industries (USA)<br>
 **Hermann Bondi,** Churchill College, University of Cambridge (UK)<br>
 **Timothy Eastman,** Plasmas International (USA)<br>
@@ -47,7 +47,7 @@
 **Gregory Meholic,** The Aerospace Corporation (USA)<br>
 **Jacques Moret-Bailly,** Université Dijon (retired) (France)<br>
 **Jayant Narlikar,** IUCAA(emeritus) and College de France (India, France)<br>
-**Marcos Cesar Danhoni Neves,** State University of Maringá (Brazil)<br>
+[**Marcos Cesar Danhoni Neves,**](http://www.pcm.uem.br/docente/3/marcos-cesar-danhoni-neves) State University of Maringá (Brazil)<br>
 **Charles D. Orth,** Lawrence Livermore National Laboratory (USA)<br>
 **R. David Pace,** Lyon College (USA)<br>
 **Georges Paturel,** Observatoire de Lyon (France)<br>
@@ -58,7 +58,7 @@
 **Malabika Roy,** George Mason University (USA)<br>
 **Sisir Roy,** George Mason University (USA)<br>
 **Konrad Rudnicki,** Jagiellonian University (Poland)<br>
-**Domingos S.L. Soares,** Federal University of Minas Gerais (Brazil)<br>
+[**Domingos S.L. Soares,**](http://lilith.fisica.ufmg.br/~dsoares/) Federal University of Minas Gerais (Brazil)<br>
 **John L. West,** Jet Propulsion Laboratory, California Institute of Technology (USA)<br>
 **James F. Woodward,** California State University, Fullerton (USA)<br>
 
