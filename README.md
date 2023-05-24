@@ -18,8 +18,9 @@ After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% o
 
 ---
 
-A Cosmology Group maintains this repository and its [Discussions](https://github.com/a-cosmology-group/acg/discussions) forum, and publishes the ACG Newsletter. Observational data and work of interest to ACG are listed in
-Resources.
+A Cosmology Group maintains this repository and its [Discussions](https://github.com/a-cosmology-group/acg/discussions) forum, and publishes the ACG Newsletter. Observational data and work of interest to ACG are listed in Resources.
+
+👉 if you are new to github, please read the [HOWTO](assets/HOWTO.md).
 
 *— Louis Marmet*
 
