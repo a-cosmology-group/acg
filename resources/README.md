@@ -56,7 +56,7 @@ The limitations of the existing cosmological models are no secret. The problems 
 By Mark Anderson - Nautilus - 2014 Jul. 31
 A professor of astrophysics at the University of Bonn in Germany, he has taken a stand against nearly the entire field of cosmology by claiming that the diffuse glow of background microwave radiation which bathes the sky is not a distant echo of the Big Bang.
 
-[Dark Matter, Dark Energy and Modern Cosmology: The Case For a Kuhnian Paradigm Shift](https://www.cosmosandhistory.org/index.php/journal/article/view/161)<br>
+[Dark Matter, Dark Energy and Modern Cosmology: The Case For a Kuhnian Paradigm Shift](https://cosmosandhistory.org/index.php/journal/article/view/161)<br>
 By Jorge Horvath - Cosmos and History - 2009 Nov. 27
 Either we are faced to accept the ignorance of at least 95% of the content of the universe or consider a deep change of the conceptual framework. Dark matter and dark energy may be considered as the neo-ether of contemporary physics.
 
