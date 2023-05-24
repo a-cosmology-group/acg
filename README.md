@@ -22,6 +22,6 @@ A Cosmology Group maintains this repository and its [Discussions](https://github
 
 👉 if you are new to github, please read the [HOWTO](assets/HOWTO.md).
 
-*— Louis Marmet*
+_**— Louis Marmet**_
 
-**© 2018–2023 ACG**
+© 2018–2023 ACG
