@@ -14,7 +14,7 @@ While technological progress has made possible observations of the cosmos in gre
 - discussions with established astrophysicists and philosophers,
 - examination of the methodology used for modeling and interpreting data.
 
-After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% of its content under some unknown newphysics, a situation that [has been qualified as “embarrassing”](https://www.cosmosandhistory.org/index.php/journal/article/view/161) by leading cosmologists. Astronomers and cosmologistssuch as Edwin Hubble, Fritz Zwicky, Fred Hoyle, Chip Arp, Alan Guth and Adam Riess have failed to create a consistentcosmology. ACG encourages a dialogue with every scientist, as progress will be served best by attempting to engage asmany specialists as possible. You are especially welcome to join ACG if you have published work that is critical tothe development of contemporary cosmology.
+After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% of its content under some unknown newphysics, a situation that [has been qualified as “embarrassing”](https://cosmosandhistory.org/index.php/journal/article/view/161) by leading cosmologists. Astronomers and cosmologistssuch as Edwin Hubble, Fritz Zwicky, Fred Hoyle, Chip Arp, Alan Guth and Adam Riess have failed to create a consistentcosmology. ACG encourages a dialogue with every scientist, as progress will be served best by attempting to engage asmany specialists as possible. You are especially welcome to join ACG if you have published work that is critical tothe development of contemporary cosmology.
 
 ---
 
