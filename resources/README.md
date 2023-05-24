@@ -28,7 +28,7 @@ By Bjørn Ekeberg - Scientific American - 2019 Apr. 30  The field relies on a co
 [A personal recollection of how we learned to stop worrying and love the Lambda](https://tritonstation.com/2019/01/28/a-personal-recollection-of-how-we-learned-to-stop-worrying-and-love-the-lambda/)<br>
 By Stacy McGaugh - tritonstation - 2019 Jan. 28  We once endowed Standard-CDM with the same absolute certainty we now attribute to ΛCDM. ... SCDM failed. There is nothing so sacred in ΛCDM that it can’t suffer the same fate, as has every single cosmology ever devised by humanity.
 
-[Dark energy is the biggest mystery in cosmology, but it may not exist at all](https://ec.europa.eu/research-and-innovation/en/horizon-magazine)<br>
+[Dark energy is the biggest mystery in cosmology, but it may not exist at all](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/dark-energy-biggest-mystery-cosmology-it-may-not-exist-all-leading-physicist)<br>
 By Jon Cartwright - Horizon Magazine - 2018 Sept. 3
 The most mysterious phenomenon in cosmology – dark energy – may not exist at all, according to Professor Subir Sarkar, head of the particle theory group at the University of Oxford in the UK.
 
@@ -44,7 +44,7 @@ Papers challenging cosmological models and observational data of interest to ACG
 By Pavel Kroupa - aeon - 2016 Nov. 25
 According to mainstream researchers, the vast majority of the matter in the Universe is invisible. The case for dark matter is regarded as so overwhelming that its existence is often reported as fact. Lately, though, cracks of doubt have started to appear.
 
-[Astrophysicists, References and Websites](https://cosmologyscience.com/ref.htm)<br>
+Astrophysicists, References and Websites https://cosmologyscience.com/ref.htm (website curently down)<br>
 By David Dilworth - Science Based Cosmology - 2014
 One of the clues that something is wrong with "standard" Cosmology is that many of the supporting arguments and credibility are person based ("who says so"), rather than merit or evidence based ("how do they know"). In spite of this I have provided a set of links to leading people as well as the leading arguments for each side of the debate.
 
@@ -52,7 +52,7 @@ One of the clues that something is wrong with "standard" Cosmology is that many 
 By Adam Booth - In Defence of Marxism - 2014 Nov. 17
 The limitations of the existing cosmological models are no secret. The problems facing physics are known to all those who are honest about their work and who sincerely want science to progress.
 
-[Do We Have the Big Bang Theory All Wrong?](https://nautil.us/issue/15/turbulence/do-we-have-the-big-bang-theory-all-wrong)<br>
+[Do We Have the Big Bang Theory All Wrong?](https://nautil.us/do-we-have-the-big-bang-theory-all-wrong-234989/)<br>
 By Mark Anderson - Nautilus - 2014 Jul. 31
 A professor of astrophysics at the University of Bonn in Germany, he has taken a stand against nearly the entire field of cosmology by claiming that the diffuse glow of background microwave radiation which bathes the sky is not a distant echo of the Big Bang.
 
