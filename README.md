@@ -1,5 +1,3 @@
-# A Cosmology Group
-
 ![header.jpg](assets/header.jpg)
 
 Despite of its remarkable successes the Standard Model of Cosmology is plagued with [profound theoretical and observational difficulties](https://arxiv.org/abs/2105.05208) such as the Hubble and σ8 tensions. The tensions are serious enough to warrant a drastic [rethinking of cosmology](https://www.google.com/search?q=%22rethinking+cosmology%22).
