@@ -1,4 +1,4 @@
-### KEY ASPECTS OF THE 4-SPHERE COSMOLOGICAL MODEL
+## Key aspects of the 4-Sphere cosmological model
 
 The model bases its physics on expansion due to Cosmic Background Radiation, and simplifies its math considering the CMB in absence of matter. 
 
