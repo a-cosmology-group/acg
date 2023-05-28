@@ -13,3 +13,4 @@ The model is also supported by assumptions that are necessary to it, and which a
 2.	Star distance validation: This is the key to the whole speculation. The validation desired is carried out on the Luminosity distance, comparing its value calculated from the Redshift z of a star with that derived by its Distance modulus μ.
 
 Everything is described in <a href="The 4-Sphere model for an Alternative Metric in Cosmology - Key Aspects and Speculation.pdf">The 4-Sphere model for an Alternative Metric in Cosmology - Key Aspects and Speculation</a>. 
+An essay, which completes the speculation, also describes the opportunity to incorporate the 4-Sphere metric into the Standard Model.
