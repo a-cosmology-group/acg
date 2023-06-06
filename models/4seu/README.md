@@ -1,4 +1,4 @@
-## Key features of the 4-Sphere cosmological model
+## Key features of the 4-Sphere model for an alternative metric in cosmology
 
 The model bases its physics on expansion due to Cosmic Background Radiation, and simplifies its math considering the CMB in absence of matter. 
 
