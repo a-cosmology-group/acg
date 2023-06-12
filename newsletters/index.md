@@ -1,3 +1,8 @@
+---
+title: ACG Newsletters
+layout: default
+---
+
 ACG Newsletter
   The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
