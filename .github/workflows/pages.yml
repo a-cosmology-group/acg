@@ -8,10 +8,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   push:
-    branches:
-      - "main"    # See  https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#modify-the-github-actions-worklow
-    paths:        # Modify the trigger so that only changes within the docs directory start the workflow.
-      - "docs/**" #  Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,19 +28,15 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    defaults:    # See https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#modify-the-github-actions-worklow
-      run:
-        working-directory: docs
     steps:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # Not needed with a .ruby-version file
-          bundler-cache: true  # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0     # Increment this number if you need to re-download cached gems
-          working-directory: '${{ github.workspace }}/docs'  # See https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#modify-the-github-actions-worklow
+          ruby-version: '3.1' # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+          cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -55,8 +48,6 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
-        with:
-          path: "docs/_site/"    # See https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#modify-the-github-actions-worklow
 
   # Deployment job
   deploy:
