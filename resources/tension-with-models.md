@@ -4,17 +4,17 @@
 
 These observations might indicate new physics or deficient methodology. Some examples are:
 
-- [x] the Hubble [tension problem](https://www.scientificamerican.com/article/cosmic-conflict-diverging-data-on-universes-expansion-polarizes-scientists1/#)
-- [x] concordance values that don't fit [a QSO Hubble diagram](https://arxiv.org/abs/1602.06743)
-- [x] CMB alignments and the 'Axis of evil' [inconsistent with a random isotropic sky](https://arxiv.org/abs/astro-ph/0608318)
-- [x] the dipole anisotropy in the [number of radio galaxies](http://iopscience.iop.org/article/10.1088/1475-7516/2018/04/031/meta) which appears larger than that of the CMB
-- [x] CMB that appears to originate [from intergalactic dust](https://doi.org/10.1093/mnras/sty974)
-- [x] <sup>6</sup>Li in halo stars that [exceeds Big Bang predictions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.042501)
-- [x] <sup>2</sup>D, <sup>3</sup>He, <sup>4</sup>He and <sup>7</sup>Li produced in [active galactic nuclei](https://arxiv.org/abs/0806.1065)
-- [x] physical association and periodicity in quasar families from the [2dF survey](https://iopscience.iop.org/article/10.1088/0004-637X/754/2/134/meta)
-- [x] [SDSS and 2MRS surveys](https://link.springer.com/article/10.1007%2Fs10509-018-3355-5)
-- [x] a [star that is older than 13.8 Gyr](https://arxiv.org/abs/1302.3180)
-- [x] highly evolved galaxies observed [in the epoch of reionization](https://www.nature.com/articles/nature14164) and at [at z = 6–8](http://iopscience.iop.org/article/10.3847/0004-637X/824/1/21/meta)
+- the Hubble [tension problem](https://www.scientificamerican.com/article/cosmic-conflict-diverging-data-on-universes-expansion-polarizes-scientists1/#)
+- concordance values that don't fit [a QSO Hubble diagram](https://arxiv.org/abs/1602.06743)
+- CMB alignments and the 'Axis of evil' [inconsistent with a random isotropic sky](https://arxiv.org/abs/astro-ph/0608318)
+- the dipole anisotropy in the [number of radio galaxies](http://iopscience.iop.org/article/10.1088/1475-7516/2018/04/031/meta) which appears larger than that of the CMB
+- CMB that appears to originate [from intergalactic dust](https://doi.org/10.1093/mnras/sty974)
+- <sup>6</sup>Li in halo stars that [exceeds Big Bang predictions](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.042501)
+- <sup>2</sup>D, <sup>3</sup>He, <sup>4</sup>He and <sup>7</sup>Li produced in [active galactic nuclei](https://arxiv.org/abs/0806.1065)
+- physical association and periodicity in quasar families from the [2dF survey](https://iopscience.iop.org/article/10.1088/0004-637X/754/2/134/meta)
+- [SDSS and 2MRS surveys](https://link.springer.com/article/10.1007%2Fs10509-018-3355-5)
+- a [star that is older than 13.8 Gyr](https://arxiv.org/abs/1302.3180)
+- highly evolved galaxies observed [in the epoch of reionization](https://www.nature.com/articles/nature14164) and at [at z = 6–8](http://iopscience.iop.org/article/10.3847/0004-637X/824/1/21/meta)
 
 This article is updated with the publications of new results.
 

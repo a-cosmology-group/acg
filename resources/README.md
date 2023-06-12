@@ -1,3 +1,8 @@
+---
+title: Resources
+layout: default
+---
+
 ## Resources
 
 [Escaping cosmology's failing paradigm](https://iai.tv/articles/escaping-cosmologys-failing-paradigm-auid-1964?_auid=2020)\

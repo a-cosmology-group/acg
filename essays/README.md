@@ -1,3 +1,8 @@
+---
+title: Essays
+layout: default
+---
+
 ## Essays
 
 [**Criteria for a Scientific Cosmological Model**](./criteria-for-a-scientific-model.md)<br>
