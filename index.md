@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+has_children: true
 ---
 
 ![header.jpg](assets/header.jpg)
