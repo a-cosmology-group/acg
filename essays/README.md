@@ -5,4 +5,6 @@ nav_exclude: true
 
 This folder contains *essays* on cosmology, comments on the Big Bang model, the scientific method, the cosmologists, philosophy, etc.
 
+Articles from the `media` folder on the original website are found here.
+
 Papers describing specific cosmological models are grouped in the `models` folder.
