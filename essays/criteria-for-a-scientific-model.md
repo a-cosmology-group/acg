@@ -1,6 +1,7 @@
 ---
 title: Criteria for a Scientific Model
 layout: default
+parent: Essays
 ---
 
 ## Criteria for a Scientific Model: The measuring device as a physical concept
