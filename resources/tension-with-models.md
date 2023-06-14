@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tension with cosmological models
+parent: Resources
+---
+
 ## Observations at tension with cosmological models
 
 **By Louis Marmet**<br/>
