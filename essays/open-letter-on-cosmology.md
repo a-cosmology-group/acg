@@ -1,3 +1,9 @@
+---
+layout: default
+title: Open Letter to the Scientific Community
+parent: Essays
+---
+
 ## An Open Letter to the Scientific Community
 
 **by E. Lerner,** New Scientist, May 22, 2004
