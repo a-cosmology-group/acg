@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+has_children: true
 ---
 
 ## Resources
