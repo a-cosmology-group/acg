@@ -1,7 +1,6 @@
 ---
-title: A Cosmology Group
 layout: home
-has_children: true
+title: A Cosmology Group
 ---
 
 ![header.jpg](assets/header.jpg)

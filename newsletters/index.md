@@ -1,10 +1,11 @@
 ---
-title: ACG Newsletters
 layout: default
+title: ACG Newsletters
 ---
 
-ACG Newsletter
-  The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
+# ACG Newsletter
+
+The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
 2023: January, March, May (Click link to download the pdf document.)
 

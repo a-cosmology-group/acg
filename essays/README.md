@@ -1,9 +1,7 @@
----
-title: Essays
-layout: default
----
+This folder contains *essays* on cosmology, comments on the Big Bang model, the scientific method, the cosmologists, philosophy, etc.
 
-## Essays
+The subfolder `assets` contains every file in a format other than `.md`.
 
-[**Criteria for a Scientific Cosmological Model**](./criteria-for-a-scientific-model.md)<br>
-**Louis Marmet,** 2019 December 13 — The distinction between physics and mathematics should always be clear in the scientist's mind. Every physics concept is defined by a measuring device.
+Articles from the original website `media` folder are found here.
+
+Papers describing specific cosmological models are grouped in the `models` folder.
