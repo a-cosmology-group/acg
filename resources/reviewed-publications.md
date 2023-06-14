@@ -1,3 +1,9 @@
+---
+layout: default
+title: Reviewed Publications
+parent: Resources
+---
+
 ## Reviewed Publications
 
 Papers discussing the ΛCDM Cosmology with observational data of interest to ACG, grouped in seven categories.<br>
