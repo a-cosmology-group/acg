@@ -1,6 +1,6 @@
 ---
-title: Essays
 layout: default
+title: Essays
 ---
 
 ## Essays
