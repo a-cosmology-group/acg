@@ -1,1 +1,1 @@
-The pages in this folder, `resources`, contain lists of publications.
+The pages in the `resources` folder contain lists of publications.
