@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACG Organization Information
+title: ACG Organization
 ---
 
 # ACG Organization
