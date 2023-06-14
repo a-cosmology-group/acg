@@ -1,6 +1,6 @@
 ---
-title: Criteria for a Scientific Model
 layout: default
+title: Criteria for a Scientific Model
 parent: Essays
 ---
 
