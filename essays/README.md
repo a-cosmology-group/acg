@@ -1,9 +1,3 @@
----
-layout: default
-title: Information on the pages in the `essays` folder
-nav_exclude: true
----
-
 This folder contains *essays* on cosmology, comments on the Big Bang model, the scientific method, the cosmologists, philosophy, etc.
 
 The subfolder `assets` contains every file in a format other than `.md`.
