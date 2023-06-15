@@ -1,6 +1,6 @@
 ---
-layout: home
 title: A Cosmology Group
+nav_order: 1
 ---
 
 ![header.jpg](assets/header.jpg)
