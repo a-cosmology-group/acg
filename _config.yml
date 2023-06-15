@@ -1,8 +1,22 @@
+# This config file is meant for settings that affect the whole site.
+
 title: A Cosmology Group
 description: Observations, inferences and the fading confidence in ΛCDM cosmology
 theme: just-the-docs
+
+layout: default
 
 url: https://a-cosmology-group.github.io/acg/
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/a-cosmology-group/acg
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+# specific to the website:
+  - README.md
+  - GUIDELINES.md
+  - CODE_OF_CONDUCT.md
+  - LICENCE
+  - LICENCE-just-the-docs
