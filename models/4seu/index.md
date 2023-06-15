@@ -1,3 +1,9 @@
+---
+title: 4-Sphere Expanding Universe
+parent: Cosmological Models
+nav_order: 164
+---
+
 ## Key features of the 4-Sphere model for an alternative metric in cosmology
 
 The model bases its physics on expansion due to Cosmic Background Radiation, and simplifies its math considering the CMB in absence of matter. 
@@ -12,5 +18,6 @@ The model is also supported by assumptions that are necessary to it, and which a
 1.	Hubble's Law: 4-Sphere geometry suggests a linear relation between the galactic recession and the arc angle. The Galactic Recession is the subject of speculation.
 2.	Star distance validation: This is the key to the whole speculation. The validation desired is carried out on the Luminosity distance, comparing its value calculated from the Redshift z of a star with that derived by its Distance modulus μ.
 
-Everything is described in <a href="The 4-Sphere model for an Alternative Metric in Cosmology - Key Aspects and Speculation.pdf">The 4-Sphere model for an Alternative Metric in Cosmology: Key Aspects and Speculation</a>. 
+Everything is described in [The 4-Sphere model for an Alternative Metric in Cosmology: Key Aspects and Speculation](4seu.pdf).
+
 An essay, which completes the speculation, also describes the opportunity to incorporate the 4-Sphere metric into the Standard Model.
