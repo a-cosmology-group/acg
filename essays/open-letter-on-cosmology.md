@@ -1,8 +1,10 @@
 ---
-layout: default
 title: Open Letter to the Scientific Community
+nav_order: 1
 parent: Essays
 ---
+
+
 
 ## An Open Letter to the Scientific Community
 

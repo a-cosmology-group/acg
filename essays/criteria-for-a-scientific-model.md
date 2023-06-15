@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Criteria for a Scientific Model
+nav_order: 49
 parent: Essays
 ---
 

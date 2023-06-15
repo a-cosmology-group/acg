@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Tension with cosmological models
+nav_order: 146
 parent: Resources
 ---
 

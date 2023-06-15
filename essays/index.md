@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Essays
 nav_order: 3
 has_children: true
-permalink: /essays
 ---
 
 # Essays
