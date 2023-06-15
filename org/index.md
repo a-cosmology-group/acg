@@ -1,6 +1,7 @@
 ---
 title: ACG Organization
+layout: default
 nav_order: 9
 ---
 
-# ACG Organization
+# A Cosmology Group - Organization
