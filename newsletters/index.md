@@ -1,6 +1,6 @@
 ---
-layout: default
 title: ACG Newsletters
+nav_order: 2
 ---
 
 # ACG Newsletter
