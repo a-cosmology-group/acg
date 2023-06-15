@@ -1,5 +1,6 @@
 ---
 title: Open Letter to the Scientific Community
+layout: default
 nav_order: 1
 parent: Essays
 ---
