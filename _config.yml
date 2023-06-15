@@ -2,7 +2,7 @@
 
 title: A Cosmology Group
 description: Observations, inferences and the fading confidence in ΛCDM cosmology
-remote_theme: just-the-docs
+theme: just-the-docs
 
 url: https://a-cosmology-group.github.io/acg/
 
