@@ -1,5 +1,6 @@
 ---
 title: Reviewed Publications
+layout: default
 nav_order: 96
 parent: Resources
 ---

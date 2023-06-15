@@ -1,5 +1,6 @@
 ---
 title: 4-Sphere Expanding Universe
+layout: default
 parent: Cosmological Models
 nav_order: 164
 ---

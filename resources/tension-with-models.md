@@ -1,5 +1,6 @@
 ---
 title: Tension with cosmological models
+layout: default
 nav_order: 146
 parent: Resources
 ---
