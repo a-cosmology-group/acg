@@ -12,8 +12,6 @@ aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/a-cosmology-group/acg
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
 # specific to the website:
   - README.md
   - GUIDELINES.md
