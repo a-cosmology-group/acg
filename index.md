@@ -1,5 +1,6 @@
 ---
 title: A Cosmology Group
+layout: default
 nav_order: 1
 ---
 
