@@ -1,11 +1,12 @@
 ---
-title: Resources
+title: Popular Science
 layout: default
-nav_order: 6
-has_children: true
+nav_order: 62
+parent: Resources
 ---
 
-## Resources
+# Popular Science
+by *Louis Marmet*
 
 [Escaping cosmology's failing paradigm](https://iai.tv/articles/escaping-cosmologys-failing-paradigm-auid-1964?_auid=2020)\
 **Bjørn Ekeberg and Louis Marmet** - iai news - 2021 Nov. 4
@@ -23,17 +24,41 @@ The current orthodoxy of cosmology rests on unexamined assumptions that have mas
 [No, physicists have not explained why there is more matter than anti-matter in the universe. It’s not possible.](http://backreaction.blogspot.com/2020/04/no-physicists-have-not-explained-why.html)\
 Sabine Hossenfelder - BackRe(Action) - 2020 Apr. 28  The initial conditions are always assumptions that the theory does not justify.
 
+[No dark energy signal despite fudging blind analysis](https://arxiv.org/abs/2002.11124)
+2020-02-28
+
+[Jean-Claude Pecker](https://www.college-de-france.fr/site/jean-claude-pecker/autoanalyse-du-parcours-scientifique.htm) 1923-2020 had doubts about Big Bang
+2020-02-20
+
+[Why Physics has made no Progress in 50 Years](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292)
+2020-02-20
+
+[In other words, ΛCDM is wrong or incomplete](https://www.quantamagazine.org/what-shape-is-the-universe-closed-or-flat-20191104/)
+2020-02-20
+
 [Post empirical science is an oxymoron and it is dangerous. But is it science?](https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)\
 **Jim Baggott** - aeon - 2019 Oct. 7  There is no agreed criterion to distinguish science from pseudoscience, or just plain ordinary bullshit, opening the door to all manner of metaphysics masquerading as science. This is ‘post-empirical’ science, where truth no longer matters, and it is potentially very dangerous.
 
+[The universe is expanding more rapidly than believed.](https://m.phys.org/news/2019-10-crisis-cosmology-universe-rapidly-believed.html) "Therein lies the **crisis in cosmology**" says Chris Fassnacht, Professor of Physics at UC Davis.
+2019-10-23
+
+[Jim Peebles awarded Nobel Prize in physics for "contributions to our understanding of the evolution of the universe and Earth's place in the cosmos"](https://www.nobelprize.org/prizes/physics/2019/summary/)
+2019-10-08
+
 [Redshifts and paradigm shifts: in defence of Hubble’s Law](https://arxiv.org/abs/1909.07731)\
 **Cormac O’Raifeartaigh and Michael O’Keeffe** - arXiv - 2019 Sept. 17  The proposal by the IAU to rename Hubble’s law as the Hubble-Lemaître law does not represent good historical practice as it conflates Hubble’s observation of a linear relation between redshift and distance with Lemaître’s derivation of a general law of cosmic expansion.
+
+[Scientific American: Hubble Tension Headache](https://www.scientificamerican.com/article/hubble-tension-headache-clashing-measurements-make-the-universes-expansion-a-lingering-mystery/)
+2019-07-29
 
 [Cosmology Has Some Big Problems](https://blogs.scientificamerican.com/observations/cosmology-has-some-big-problems/)\
 **Bjørn Ekeberg** - Scientific American - 2019 Apr. 30  The field relies on a conceptual framework that has trouble accounting for new observations.  What do we really know about our universe?
 
 [A personal recollection of how we learned to stop worrying and love the Lambda](https://tritonstation.com/2019/01/28/a-personal-recollection-of-how-we-learned-to-stop-worrying-and-love-the-lambda/)\
 **Stacy McGaugh** - tritonstation - 2019 Jan. 28  We once endowed Standard-CDM with the same absolute certainty we now attribute to ΛCDM. ... SCDM failed. There is nothing so sacred in ΛCDM that it can’t suffer the same fate, as has every single cosmology ever devised by humanity.
+
+[Dark Matter remains undetectable](https://m.phys.org/news/2019-01-detector-would-be-evidence-dark.html)
+2019-01-24
 
 [Dark energy is the biggest mystery in cosmology, but it may not exist at all](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/dark-energy-biggest-mystery-cosmology-it-may-not-exist-all-leading-physicist)\
 **Jon Cartwright** - Horizon Magazine - 2018 Sept. 3
@@ -82,26 +107,10 @@ What if the big bang never happened?  Ask cosmologists this and they’ll usuall
 **John Maddox** - Nature - 1995 Sept. 14
 The latest measurements of the Hubble constant make the Big Bang account of the origin of the Universe more dependent on the coincidence of numbers than it has so far been.  But it remains the only theory in the field.
 
-## Webpage highlights
+`2018-11-06` [IAU members: It should be known as the Hubble-Lemaître Law](https://www.iau.org/news/pressreleases/detail/iau1812/)
 
-- `2020-02-28` [No dark energy signal despite fudging blind analysis](https://arxiv.org/abs/2002.11124)
+`2018-03-14` [Obituary by Roger Penrose: Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
 
-- `2020-02-20` [Jean-Claude Pecker](https://www.college-de-france.fr/site/jean-claude-pecker/autoanalyse-du-parcours-scientifique.htm) 1923-2020 had doubts about Big Bang
+`2018-03-08` [Jayant Narlikar’s personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
 
-- `2020-02-20` [Why Physics has made no Progress in 50 Years](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292)
-
-- `2020-02-20` [In other words, ΛCDM is wrong or incomplete](https://www.quantamagazine.org/what-shape-is-the-universe-closed-or-flat-20191104/)
-
-- `2019-10-23` [The universe is expanding more rapidly than believed.](https://m.phys.org/news/2019-10-crisis-cosmology-universe-rapidly-believed.html) "Therein lies the **crisis in cosmology**" says Chris Fassnacht, Professor of Physics at UC Davis.
-
-- `2019-10-08` Jim Peebles awarded Nobel Prize in physics for ["contributions to our understanding of the evolution of the universe and Earth's place in the cosmos"](https://www.nobelprize.org/prizes/physics/2019/summary/)
-
-- `2019-07-29` Scientific American: [Hubble Tension Headache](https://www.scientificamerican.com/article/hubble-tension-headache-clashing-measurements-make-the-universes-expansion-a-lingering-mystery/)
-
-- `2019-01-24` Dark Matter [remains undetectable](https://m.phys.org/news/2019-01-detector-would-be-evidence-dark.html)
-
-- `2018-11-06` IAU members: It should be known as the [Hubble-Lemaître Law](https://www.iau.org/news/pressreleases/detail/iau1812/)
-
-- `2018-03-14` Obituary by Roger Penrose: [Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
-
-- `2018-03-08` Jayant Narlikar’s [personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
+© Louis Marmet 2023

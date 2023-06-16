@@ -5,9 +5,9 @@ nav_order: 146
 parent: Resources
 ---
 
-## Observations at tension with cosmological models
+# Observations at tension with cosmological models
 
-**By Louis Marmet**<br/>
+By *Louis Marmet*
 
 These observations might indicate new physics or deficient methodology. Some examples are:
 
@@ -176,6 +176,6 @@ expected.
 
 - Problems in understanding inflation.
 
----
 
-© 2020–2022 Louis Marmet
+
+© Louis Marmet 2020–2023

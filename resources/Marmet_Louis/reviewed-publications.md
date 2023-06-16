@@ -5,7 +5,8 @@ nav_order: 96
 parent: Resources
 ---
 
-## Reviewed Publications
+# Reviewed Publications
+by *Louis Marmet*
 
 Papers discussing the ΛCDM Cosmology with observational data of interest to ACG, grouped in seven categories.<br>
 ↪ in [.csv](reviewed-publications.csv) format (partial)
@@ -309,4 +310,4 @@ For if we are uncritical we shall always find what we want: we shall look for, a
 
 ---
 
-© 2018–2023 ACG
+© Louis Marmet 2018–2023
