@@ -14,5 +14,4 @@ exclude:
   - README.md
   - GUIDELINES.md
   - CODE_OF_CONDUCT.md
-  - LICENCE
   - LICENCE-just-the-docs
