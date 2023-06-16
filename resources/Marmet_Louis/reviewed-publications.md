@@ -310,4 +310,4 @@ For if we are uncritical we shall always find what we want: we shall look for, a
 
 ---
 
-© 2018–2023 ACG
+© Louis Marmet 2018–2023
