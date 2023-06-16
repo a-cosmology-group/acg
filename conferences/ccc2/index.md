@@ -1,7 +1,7 @@
 ---
 title: CCC-2 2008 Conference
 layout: default
-nav_order: 8
+nav_order: 2
 parent: Conferences
 ---
 
