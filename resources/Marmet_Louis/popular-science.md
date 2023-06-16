@@ -112,3 +112,5 @@ The latest measurements of the Hubble constant make the Big Bang account of the 
 `2018-03-14` [Obituary by Roger Penrose: Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
 
 `2018-03-08` [Jayant Narlikar’s personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
+
+© Louis Marmet 2023
