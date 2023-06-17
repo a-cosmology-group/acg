@@ -20,7 +20,7 @@ The only way to describe the real world is to pay attention to observations. Obs
 
 Measurements obtained from a single device are not absolute because the device could be built in any arbitrary way. No single observation has a reality of its own, *measurements can only acquire their meaning through comparison.*  For example, a **device A** measures the ‘distance’ between two balls. A copy of the device may show a different position of the indicator, such as in cases A1 and A2. However, if the balls of device A1 are aligned with those of device A2 the indicators will have the same positions, confirming that distance measurements are reliable.
 
-> ![device A](assets/physics-conceptA.jpg)
+> ![device A](./physics-conceptA.jpg)
 >
 > **Device A:** A needle indicator is attached to a pinion in the familiar rack-and-pinion configuration. The pinion rotates about an axis attached to a vertical plate which supports a ball (left). Another ball is attached to the far end of the rack (right).
 
@@ -28,13 +28,13 @@ One therefore determines if measurements ‘agree’ or ‘disagree’ based on 
 
 It is rather trivial that a device and its copy in the same configuration would always produce measurements that agree with each other. *The comparison process becomes powerful when fundamentally different devices are available for comparisons*. For example, we can have a slightly more complex device which measures the ‘elastic force’ of a coil spring attached to two balls. **Device B** is constructed in such a way that for balls aligned with those of cases A1 and A2, the same measurements are obtained. (This restriction makes comparisons between A and B easier.)
 
-> ![device B](assets/physics-conceptB.jpg)
+> ![device B](./physics-conceptB.jpg)
 >
 >  **Device B:** A needle indicator is attached to a small pinion which is held by a spiral spring. The other end of the spring is attached to a vertical plate supporting a ball. A short rack drives the pinion. The right-hand end of the rack is attached to a large coil spring which is in turn attached to another ball.
 
 For the following discussion, we also introduce **device C** which measures the ‘electrostatic force’ between opposite charges. Again, the device is constructed in such a way that for charged balloons that are aligned with the balls of cases A1 and A2, the same measurements are obtained.
 
-> ![device C](assets/physics-conceptC.jpg)
+> ![device C](./physics-conceptC.jpg)
 >
 >  **Device C:** The spring-loaded rack-and-pinion indicator is attached to a positively charged balloon on the right. The balloon on the left has a negative charge that will attract positive charges. Charged balloons are produced with the usual method [involving cats](https://en.wikipedia.org/wiki/Triboelectric_effect).
 

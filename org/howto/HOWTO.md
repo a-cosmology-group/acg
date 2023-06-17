@@ -14,7 +14,7 @@ View the file you want to edit (as explained above).
 
 > 👉 **Click on the pen icon** on the top right of the file pane (shortcut `E`) to open the editor.
 >
-> ![editor icon](assets/howto-01-pen.png)
+> ![editor icon](./howto-01-pen.png)
 
 ### Step 2: Edit the file
 
@@ -26,7 +26,7 @@ You can preview your changes in the `Preview` tab at the top of the editing pane
 
 > 👉 **Edit the file in the text box** (or in your own plain text editor).
 >
-> ![edit pane](assets/howto-02-edit.png)
+> ![edit pane](./howto-02-edit.png)
 >
 **Tips:**
 
@@ -48,7 +48,7 @@ When you are done editing:
 >
 > 👉 **Click on `Propose changes`.
 >
-> ![commit dialog](assets/howto-03-commit.png)
+> ![commit dialog](./howto-03-commit.png)
 
 **Tip:** Commit *often*! It is *much* easier to review a series of small changes that
 are all realted to ONE thing, rather than a large commit that is all over the
@@ -60,7 +60,7 @@ On the "Pull request" page that opens, the title you entered is copied in the Ti
 
 > 👉 Click on `Create pull request`
 >
-> ![pull request page](assets/howto-04-pull.png)
+> ![pull request page](./howto-04-pull.png)
 
 ## Review pull request (proposed change)
 

@@ -5,8 +5,6 @@ nav_order: 1
 parent: Essays
 ---
 
-
-
 ## An Open Letter to the Scientific Community
 
 **by E. Lerner,** New Scientist, May 22, 2004
