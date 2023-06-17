@@ -36,4 +36,4 @@ The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
 2006: March, April, May, June, July, September, October, November, December
 
-2005: [March](./2005acg03newsletter.pdf), [April](https://a-cosmology-group.github.io/acg/newsletters/2005acg03newsletter.pdf), [May](../2005acg03newsletter.pdf), [June}(../newsletters/2005acg03newsletter.pdf), July, August, September, October, November
+2005: [March](./2005acg03newsletter.pdf), [April](./2005acg03newsletter.pdf), [May](./2005acg03newsletter.pdf), [June](../newsletters/2005acg03newsletter.pdf), July, August, September, October, November
