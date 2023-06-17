@@ -1,1 +1,1 @@
-Information for those who access this repo on GitHub
+All ACG Newsletters in .pdf
