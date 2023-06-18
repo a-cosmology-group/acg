@@ -1,11 +1,11 @@
 ---
 title: Did 'Big Bang' Really Happen?
 layout: default
-nav_order: -2022
+nav_order: 18
 parent: Essays
 ---
 
-# [Did ‘Big Bang’ Really Happen?](./ghosh_did-big-bang-really-happen.pdf)
+# [Did ‘Big Bang’ Really Happen?](./did-big-bang-really-happen.pdf)
 **by Amitabha Ghosh**
 2022-01-28
 

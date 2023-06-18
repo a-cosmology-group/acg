@@ -5,11 +5,12 @@ nav_order: -2005
 parent: Essays
 ---
 
-# [First Crisis In Cosmology Conference ](./lerner_first-crisis-in-cosmology.pdf)
+# [First Crisis In Cosmology Conference ](./alternatives-to-big-bang-at-ccc-1.pdf)
 **by Eric J. Lerner and Ricardo Scarpa**
 2005-7-1
 
-## CCC-I
+**CCC-I**
+
 Moncao, Portugal June 23-25
 
 Astrophysicists gather to discuss new challenges and alternatives to the Big Bang

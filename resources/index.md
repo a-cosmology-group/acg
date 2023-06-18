@@ -6,3 +6,5 @@ has_children: true
 ---
 
 # Resources
+
+Lists of publications

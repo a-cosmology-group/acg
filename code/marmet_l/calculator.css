@@ -1,0 +1,38 @@
+body {
+  color: #010000;
+  background-color: #bcbbbb;
+  font-size: 13pt;
+}
+
+table {
+  font-size: 14pt;
+}
+
+input {
+  font-size: 12pt;
+}
+
+big {
+  font-size: 18pt;
+}
+
+a:link {             /* unvisited link */
+  color: #bb2222;
+  text-decoration: none;   /* removes underline */
+}
+
+a:visited {          /* visited link */
+  color: #015500;
+  text-decoration: none;   /* removes underline */
+}
+
+a:hover {            /* mouse over link; place after a:link and a:visited */
+  color: #4544ff;
+  text-decoration: underline;
+}
+
+a:active {           /* selected link; place after a:hover */
+  color: #ff0000;
+  text-decoration: underline;
+}
+

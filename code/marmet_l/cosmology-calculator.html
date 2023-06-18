@@ -1,0 +1,261 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Cache-Control" content="max-age=100">
+    <title>Cosmology Calculator</title>
+    <link rel="stylesheet" type="text/css" href="calculator.css">
+    <meta name="author" content="Louis" >
+  </head>
+  <body>
+    <div align="center" style="color:#343333; font-size: 11pt;">
+      <img src="heic1411a.jpg" alt="Milky Way" width="1200" height="183"><br>
+      Original image by <a href="http://www.nasa.gov/" target="_blank">NASA</a>,
+      <a href="http://www.spacetelescope.org/" target="_blank">ESA</a>,
+      H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI),
+      R. Windhorst (Arizona State University), and Z. Levay (STScI); cropped by L. Marmet.
+    </div>
+<!--  Read function definitions after loading image, '?' forces reload  -->
+    <script src="display.js?" type="text/javascript"></script>
+    <script src="sstz-cosmology-engine.js?" type="text/javascript"></script>
+    <script src="lcdm-cosmology-engine.js?" type="text/javascript"></script>
+<!--  Main table  -->
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="8">
+      <tbody>
+<!--  Top section, Row 1, full width  -->
+        <tr>
+          <td rowspan="7" valign="top"><br>
+          </td>
+          <td colspan="2" valign="top" bgcolor="#fffefe"><br>
+            <h1>Cosmology Calculator</h1>
+            <p>&nbsp; Recent observations by the Webb Telescope (JWST) have shown a large number of galaxies at high redshifts.&nbsp; Contrary to
+              expectations based on galaxy-formation models and the Standard Model of Cosmology (ΛCDM), these galaxies appear small and very bright.</p>
+            <p>&nbsp; The Hubble constant derived from the expansion rate of the local universe is in tension with the value derived from the Cosmic
+              Microwave Background Radiation (CMBR) released by the hot Big Bang.&nbsp; This "Hubble tension" is forcing cosmologists to question every
+              aspect of the ΛCDM model.</p>
+            <p>&nbsp; This webpage hosts two Cosmology Calculators: one for the ΛCDM model, the other for a Static Cosmology with Stimulated-Transfer
+              redshift (SSTz).</p>
+            <p>&nbsp; Enter values and the results will appear immediately.</p>
+            <br>
+          </td>
+          <td rowspan="7" valign="top"><br>
+          </td>
+        </tr>
+<!--  Central section, Row 2, two columns  -->
+        <tr>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--            ΛCDM Cosmology with Ned Wright's calculator            -->
+<!--                            Definitions                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fcfbfb">
+            <h2 style="text-align:center;">ΛCDM Cosmology</h2>
+            <p>&nbsp; Based on the calculator written by Ned
+              <a href="http://adsabs.harvard.edu/abs/2006PASP..118.1711W" target="_blank">
+                Wright (2006, PASP, 118, 1711)</a>:<br>
+              <a href="http://www.astro.ucla.edu/~wright/CosmoCalc.html" target="_blank">
+                http://www.astro.ucla.edu/~wright/CosmoCalc.html</a>.&nbsp; The calculation includes three massless neutrino species
+              and a correction for annihilations of particles not present now (e.g. e<sup>+</sup>/e<sup>&ndash;</sup>&thinsp;).</p>
+            <p>&nbsp; The Hubble parameter is&nbsp; H<sup>2</sup>(<b>z</b>) = H<sub>0</sub><sup>2</sup>
+              <big>(</big>Ω<sub>M</sub>(1 + <b>z</b>)<sup>3</sup> + Ω<sub>k</sub>(1 + <b>z</b>)<sup>2</sup> + Ω<sub>Λ</sub><big>)</big>.</p>
+            <p>&nbsp; The size evolution of star-forming galaxies
+              <a href="https://doi.org/10.3847/2041-8213/834/2/l11"
+                target="_blank">follows the power law</a></p>
+            <center>
+              r<sub>e</sub> = r<sub>0</sub> (1 + <b>z</b>)<sup>n<sub>S</sub></sup> .
+            </center>
+            <p>&nbsp; The Tolman test for expansion predicts a surface brightness&nbsp; <b>&lt;SB&gt;</b>&nbsp; that decreases
+              as&nbsp; (1 + <b>z</b>)<sup>4</sup>.  Luminosity evolution produces the Tolman signal</p>
+            <center>
+              Δ&lt;SB&gt;<sub>evol</sub> = 2.5 log (1 + <b>z</b>)<sup>4-n<sub>L</sub></sup> mag,
+            </center>
+            <p>where&nbsp; <a href="https://doi.org/10.1086/322134" target="_blank">n<sub>L</sub>&nbsp; describes the luminosity
+              evolution of galaxies</a></p>
+            <center>
+              ΔM<sub>evol</sub> = 2.5 log (1 + <b>z</b>)<sup>n<sub>L</sub></sup> mag.
+            </center>
+            <p>&nbsp; These relations are used for the calculations of reported observations, without model-dependent evolution corrections.</p>
+          </td>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--         Static Cosmology with Stimulated-Transfer redshift        -->
+<!--                            Definitions                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fffbfb">
+            <h2 style="text-align:center;">SSTz Cosmology</h2>
+            <p>&nbsp; The distance-redshift relation in a <a href="https://link.springer.com/chapter/10.1007/3-540-54293-0_28" target="_blank">Static
+              Cosmology</a> is obtained from the photon energy loss per unit distance&nbsp; d(hν)/dr = -<b>H<sub>z</sub></b>(n<sub>e</sub>) hν,
+              where <b>H<sub>z</sub></b>(n<sub>e</sub>) is proportional to the number density of free electrons.&nbsp;
+              <a href="http://journals.aps.org/pre/abstract/10.1103/PhysRevE.55.1015" target="_blank">Ponderomotive forces</a>
+              produce a Stimulated-Transfer redshift that is independent of wavelength, with the distance-redshift relation</p>
+            <center>
+              d<sub>A</sub> = (1/<b>H<sub>z</sub></b>) ln(1 + <b>z</b>).
+            </center>
+            <p>&nbsp; In a flat and static cosmology, the radial distance&nbsp; r&nbsp; is equal to the angular distance d<sub>A</sub>.
+              &nbsp; The photon energy being proportional to (1 + <b>z</b>)<sup>-1</sup> implies a bolometric luminosity distance</p>
+            <center>
+              d<sub>L</sub> = (1 + <b>z</b>)<sup>1/2</sup> d<sub>A</sub>,
+            </center>
+            <p>with an additional (1 + <b>z</b>)<sup>1/2</sup> factor for a dynamic redshift that conserves the number of photons
+              in stretched supernovae light-curves.</p>
+            <p>&nbsp; A distant object at temperature T is seen by an observer as a blackbody at the Wien temperature <b>T<sub>w</sub></b>(<b>z</b>) =
+              T/(1 + <b>z</b>), but with a spectral radiance enhanced by a factor of (1 + <b>z</b>)<sup>3</sup>,</p>
+            <center>
+              B<sub>ν</sub>(ν, <b>T<sub>w</sub></b>, <b>z</b>) = (1 + <b>z</b>)<sup>3</sup>&nbsp;
+              <big>(</big>2hν<sup>3</sup><big>/</big>c<sup>2</sup><big>)</big>
+              <big>[</big>e<sup>hν/(k<b>T<sub>w</sub></b>)</sup> - 1<big>]</big><sup>-1</sup>.            
+            </center>
+          </td>
+        </tr>
+<!--  Central section, Row 3, two-column width  -->
+        <tr>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--                          Parameter Title                          -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td colspan="2" valign="top" style="text-align: center" bgcolor="#fcfbfb">
+            <hr size="1">
+            <h2 style="text-align:center;">Parameters</h2>
+          </td>
+        </tr>
+<!--  Central section, Row 4, two columns  -->
+        <tr>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--            ΛCDM Cosmology with Ned Wright's calculator            -->
+<!--                             Parameters                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fcfbfb">
+            &nbsp; <label for="h0-LCDM">H<sub>0</sub> = </label>
+            <input type="text" id="h0-LCDM" value="69.6" style="text-align:right;"
+              size=3 oninput="doLCDM();"> km/s/Mpc&nbsp; &nbsp; &nbsp; &nbsp;
+            <label for="wm-LCDM">Ω<sub>M</sub> = </label>
+            <input type="text" id="wm-LCDM" value="0.286" size=3
+              oninput="doLCDM();">&nbsp; &nbsp; &nbsp; &nbsp;
+            <label for="wl-LCDM">Ω<sub>Λ</sub> = </label>
+            <input type="text" id="wl-LCDM" value="0.714" size=3
+              oninput="doLCDM();"><br>
+            <br>
+            <input type="radio" id="open-LCDM" name="geometry" oninput="doLCDM();">
+            Open: uses&nbsp; Ω<sub>Λ</sub> = 0&nbsp; giving an open Universe [if you
+            entered Ω<sub>M</sub> &lt; 1].<br>
+            <input type="radio" id="flat-LCDM" name="geometry" checked oninput="doLCDM();">
+            Flat:&nbsp; uses&nbsp; Ω<sub>Λ</sub> = 1 - Ω<sub>M</sub>&nbsp; giving a flat Universe.<br>
+            <input type="radio" id="general-LCDM" name="geometry" oninput="doLCDM();">
+            General: uses the Ω<sub>Λ</sub> that you entered.<br>
+            <br>
+            &nbsp; <label for="gle-LCDM">Galactic luminosity evolution exponent&nbsp; n<sub>L</sub> = </label>
+            <input type="text" id="gle-LCDM" value="1.08" style="text-align:center;"
+              size=3 oninput="doLCDM();"><br>
+            &nbsp; <label for="gse-LCDM">Galactic size evolution exponent&nbsp;
+              n<sub>S</sub> = </label>
+            <input type="text" id="gse-LCDM" value="-0.89" style="text-align:center;"
+              size=3 oninput="doLCDM();">&nbsp used for sample selection<br>
+            &nbsp; &nbsp; &nbsp; introduces a bias, c.f. <a href="https://iopscience.iop.org/article/10.1086/311208" target="_blank">'Fundamental Plane'
+            scaling relations</a>.<br>
+          </td>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--         Static Cosmology with Stimulated-Transfer redshift        -->
+<!--                             Parameters                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fffbfb">
+            &nbsp; <label for="h0-SSTz">Hubble redshift <b>H<sub>z</sub></b> = </label>
+            <input type="text" id="hz-SSTz" value="0.247" style="text-align:right;"
+              size=3 oninput="doSSTz();"> /Gpc<br>
+            <br>
+            <br style="line-height: 25px">   <!-- normal <br> is 21px -->
+            <input type="radio" id="flat-SSTz" name="nonexp" oninput="doSSTz();" checked> Euclidean<br>
+            &nbsp; &nbsp; &nbsp; (<a href="https://royalsocietypublishing.org/doi/10.1098/rspa.2022.0045" target="_blank">Light-matter
+            interactions</a> provide the pressure<br>
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; that counterbalances gravitation.)<br>
+          </td>
+        </tr>
+<!--  Central section, Row 5, two-column width  -->
+        <tr>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--                          Common Parameter                         -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td colspan="2" valign="top" style="text-align:center" bgcolor="#fffbfb">
+            <label for='redshift'>Redshift of the object:&nbsp; <b>z</b> = </label>
+            <input type="text" id="redshift" value="1.7" style="text-align:center;"
+              size=6 oninput="doRedshift();">
+          </td>
+        </tr>
+<!--  Central section, Row 6, two columns  -->
+        <tr>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--            ΛCDM Cosmology with Ned Wright's calculator            -->
+<!--                             Calculator                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fcfbfb">
+            <h2 style="text-align:center;">ΛCDM Cosmology</h2>
+            <p id="results-LCDM">*** JavaScript not enabled or script file not updated ***</p>
+            <hr size="1">
+            <a href="https://doi.org/10.1088/0004-637x/794/2/135" target="_blank">Source</a>
+            for default parameters H<sub>0</sub>, Ω<sub>M</sub> and Ω<sub>Λ</sub><br>
+            <a href="https://doi.org/10.3847/2041-8213/834/2/l11" target="_blank">Source</a>
+            for default parameter n<sub>S</sub><br>
+            <a href="https://doi.org/10.1086/322134" target="_blank">Source</a>
+            for default parameter n<sub>L</sub><br>
+            <a href="https://ui.adsabs.harvard.edu/abs/1993ApJ...413L.105P/abstract" target="_blank">Source</a>
+            for default parameter n<sub>B</sub><br>
+<!--  Run computation  -->
+            <script type="text/javascript">
+              doLCDM();
+            </script>
+          </td>
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!--         Static Cosmology with Stimulated-Transfer redshift        -->
+<!--                             Calculator                            -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+          <td width="584" valign="top" bgcolor="#fffbfb">
+            <h2 style="text-align:center;">SSTz Cosmology</h2>
+            <p id="results-SSTz">*** JavaScript not enabled or script file not updated ***</p>
+            <hr size="1">
+            <a href="https://dx.doi.org/10.3847/1538-4357/ab1422" target="_blank">Source</a>
+            for default parameter <b>H<sub>z</sub></b><br>
+            <input type="button" value="Reset" onclick="reset_parameters();"> all
+            parameters to default values.<br>
+            <input type="button" value="Find" onclick="find_LCDM_h0();"> which H<sub>0</sub> gives reported <i><u>d</u><sub>A</sub></i>(ΛCDM) =
+            d<sub>A</sub>(SSTz).<br>
+<!--  Run computation  -->
+            <script type="text/javascript">
+              doSSTz();
+            </script>
+          </td>
+        </tr>
+<!--  Central section, Row 7, two-column width  -->
+        <tr>
+          <td colspan="2" valign="top" bgcolor="#fffefe"><br>
+            <h2>Discussion</h2>
+            <p>&nbsp; It is difficult to compare the two models to a high accuracy.  Astrophysical data are analyzed with the assumptions of
+              ΛCDM cosmology and corrected for various effects in powers of 1 + z (e.g. luminous flux, time dilation, galactic evolution, Hubble residuals,
+              deceleration parameter, dust reddening, etc.)
+            </p>
+            <p>&nbsp; Both calculators give observed quantities as interpreted in the framework of the models.  Other effects are difficult to disentangle
+            from an analysis based on the ΛCDM model.
+            </p>
+            <p>&nbsp; Interpreting observations with the ΛCDM model one concludes that: "<i>compared to typical galaxies at later times, [young galaxies in
+              the first billion years of cosmic time] show more extreme emission-line properties, higher star formation rates, lower masses, and smaller
+              sizes.</i>" [<a href="https://www.nature.com/articles/s41550-017-0052" target="_blank">Ref. (2017)</a>]&nbsp; This is confirmed by new
+              observations from the Webb Telescope.&nbsp; In a static cosmology, galaxies are farther away and their stars appear to have a blackbody
+              spectrum with an excess brightness.
+            </p>
+            <br>
+            <p>Louis Marmet<br>
+              <a rel="me" href="https://astrodon.social/@redshiftdrift" target="_blank">@redshiftdrift@astrodon.social</a> on
+              <img src="mastodon.gif" alt="mastodon" width="88" height="24" align="top"><br>
+              Last update: 2023-4-24
+            </p>
+            <br>
+<!--  Counter started 2022-10-27:777; 2022-11-11:812; 2022-12-7:913; 2022-12-13:930; 2022-12-19:947; 2023-1-26:1042; 2023-2-5:1070;  -->
+<!--    2023-2-16:1094; 2023-2-24:1121; 2023-3-2:1142; 2023-3-11:1180; 2023-4-19:1348; 2023-4-24:1359  -->
+<!--  Last four numbers: 5:font/4:number of digits/698:start value/0:count every hit, 1: count unique visitors  -->
+            <script type="text/javascript" src="//counter.websiteout.net/js/5/4/700/0"></script><br>
+            <a href="https://www.websiteout.net/counter.php" target="_blank"><small>https://www.websiteout.net/counter.php</small></a><br>
+            <br>
+            <br>
+            © 2020--2023 Louis Marmet<br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+  </body>
+</html>
