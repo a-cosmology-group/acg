@@ -1,7 +1,7 @@
 ---
 title: Arp’s Indomitable Universe
 layout: default
-nav_order: 22
+nav_order: 990
 parent: Essays
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Popular Science
+title: General
 layout: default
-nav_order: 62
+nav_order: 990
 parent: Resources
 ---
 

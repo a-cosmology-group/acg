@@ -2,6 +2,7 @@
 title: A Cosmology Group
 layout: home
 nav_order: 1
+has_children: true
 ---
 
 ![header.jpg](assets/header.jpg)
@@ -12,7 +13,7 @@ Has the JWST broken ΛCDM cosmology? A Cosmology Group seeks to understand why t
 
 As new observations reveal tensions between cosmological models, ACG scrutinize the tenets of contemporary cosmology through a critical analysis of data that provide the observational basis for cosmology: Redshift, the Cosmological Microwave Background, Nucleosynthesis, Large-Scale Structure and Old Systems.
 
-While technological progress has made possible observations of the cosmos in great detail, today’s research is [mostly targeted at minor variations on the ΛCDM theme](docs/media/open-letter-on-cosmology.md). A Cosmology Group seeks astronomical observations that are unexpected, surprising, informative, and [at tension with the predictions of cosmological models](docs/resources/tension-with-models.md). For this purpose ACG provides:
+While technological progress has made possible observations of the cosmos in great detail, today’s research is [mostly targeted at minor variations on the ΛCDM theme](org/open-letter-on-cosmology.md). A Cosmology Group seeks astronomical observations that are unexpected, surprising, informative, and [at tension with the predictions of cosmological models](resources/marmet_l/tension-with-models.md). For this purpose ACG provides:
 
 - a database of links to observational data that challenge cosmological models,
 - discussions with established astrophysicists and philosophers,
@@ -22,8 +23,7 @@ After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% o
 
 ---
 
-A Cosmology Group maintains this website in a github [repository](https://github.com/a-cosmology-group/acg/), including the [ACG Newsletter](docs/newsletter/README.md). Observational data and work of interest to ACG are listed in [Resources](docs/resources/README.md). To contribute to the content, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
+A Cosmology Group maintains this website in a github [repository](https://github.com/a-cosmology-group/acg/), including the [ACG Newsletter](newsletters/index.md). Observational data and work of interest to ACG are listed in [Resources](resources/index.md). To contribute to the content, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
 
-_**— Louis Marmet**_
 
 © 2018–2023 ACG

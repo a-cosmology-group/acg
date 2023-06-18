@@ -1,9 +1,10 @@
-# Format of the ACG Website
+# Structure of the ACG Website
 
 
 ## Navigation structure of the ACG website [just-the-docs](https://just-the-docs.com/):
 
 ├─ A Cosmology Group
+│  ├─ Open Letter to the Scientific Community
 ├─ ACG Newsletters
 ├─ Essays
 │  ├─ [essay-1] ...
@@ -31,41 +32,42 @@
 
 ├─ index.md
 ├─ newsletters
-│  ├─ [index.md] [acg-newsletter.pdf] ...
+│  ├─ index.md [acg-newsletter.pdf] ...
 ├─ essays
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ [author_a]
 │  │  ├─ [index.md] [essay.md] [essay.pdf] ...
 │  ├─ [author_b] ...
 ├─ models
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ [model-1]
 │  │  ├─ [index.md] [model.md] [model.pdf] ...
 │  ├─ [model-2] ...
 ├─ redshift
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ [model-1]
 │  │  ├─ [index.md] [model.md] [model.pdf] ...
 │  ├─ [model-2] ...
 ├─ resources
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ [author_a]
 │  │  ├─ [index.md] [resource.md] [resource.pdf] ...
 │  ├─ [author_b] ...
 ├─ code
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ [author_a]
 │  │  ├─ [index.md] [code.md] [code...]
 │  ├─ [author_b] ...
 ├─ conferences
-│  ├─ [index.md]
+│  ├─ index.md
 │  ├─ CCC-1
 │  │  ├─ [index.md]
 │  ├─ CCC-2
 │  │  ├─ [index.md]
 │  ├─ [conference-N] ...
 ├─ org
-│  ├─ [index.md]
+│  ├─ index.md
+│  ├─ open-letter-on-cosmology.md
 
 
 ## YAML headers

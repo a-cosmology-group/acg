@@ -1,7 +1,7 @@
 ---
 title: Why can’t Cosmology be more open?
 layout: default
-nav_order: 53
+nav_order: 987
 parent: Essays
 ---
 

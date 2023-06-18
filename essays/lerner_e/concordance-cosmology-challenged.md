@@ -1,7 +1,7 @@
 ---
 title: Concordance Challenged
 layout: default
-nav_order: 36
+nav_order: 993
 parent: Essays
 ---
 

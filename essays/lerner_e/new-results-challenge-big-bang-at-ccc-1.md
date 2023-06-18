@@ -1,7 +1,7 @@
 ---
 title: New Results Challenge Big Bang, CCC-1
 layout: default
-nav_order: 257
+nav_order: 996
 parent: Essays
 ---
 

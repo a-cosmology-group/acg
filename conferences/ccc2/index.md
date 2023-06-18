@@ -16,13 +16,13 @@ SECOND CRISIS IN COSMOLOGY CONFERENCE
 
 The ACG, in collaboration with the International Academy for Cosmological Studies (IACS) and with Meta Research (MRI), cordially invites everyone interested in the history and nature of the universe to attend this conference, and invites qualified colleagues to participate in the talks, panels, and discussions.
 
-ACG: [http://cosmology.info](http://cosmology.info) (sponsor of the 2004 Open Letter on Cosmology and of the 2005 CCC-I in Portugal)
+ACG: [cosmology.info](http://cosmology.info) (sponsor of the 2004 Open Letter on Cosmology and of the 2005 CCC-I in Portugal)
 
-IACS: [http://redshift.vif.com/NewsWire.htm](http://redshift.vif.com/NewsWire.htm) (sponsor of 2006 Int'l Workshop on Redshift Mechanisms in Ireland)
+IACS: [redshift.vif.com/NewsWire.htm](http://redshift.vif.com/NewsWire.htm) (sponsor of 2006 Int'l Workshop on Redshift Mechanisms in Ireland)
 
-MRI: [http://metaresearch.org](http://metaresearch.org) (frontier astronomy research, solar eclipse / meteor storm expeditions, local host for 2008 CCC-2)
+MRI: [metaresearch.org/](https://metaresearch.org/) (frontier astronomy research, solar eclipse / meteor storm expeditions, local host for 2008 CCC-2)
 
-VIRA: [http://www.vira-bg.org](http://www.vira-bg.org) (Virtual Institute of Rational Astrophysics)
+VIRA: [www.vira-bg.org](https://www.communitas-bg.org/en/vira.html) (Virtual Institute of Rational Astrophysics)
 
 Scientific Program | Short Program | Papers Registration Info | Location | Forms: Registration | Fees | Abstract Submission | Side Trips | Contacts
  

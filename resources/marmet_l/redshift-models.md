@@ -1,7 +1,7 @@
 ---
 title: Redshift Models
 layout: default
-nav_order: 19
+nav_order: 993
 parent: Resources
 ---
 

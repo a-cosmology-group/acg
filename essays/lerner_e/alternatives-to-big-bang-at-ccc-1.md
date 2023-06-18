@@ -1,7 +1,7 @@
 ---
 title: First Crisis In Cosmology Conference, press release
 layout: default
-nav_order: -2005
+nav_order: 999
 parent: Essays
 ---
 

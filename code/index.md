@@ -1,5 +1,5 @@
 ---
-title: Cosmology Code
+title: Code
 layout: default
 nav_order: 7
 has_children: true
