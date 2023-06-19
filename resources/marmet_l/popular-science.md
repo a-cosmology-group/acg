@@ -1,12 +1,12 @@
 ---
-title: General
+title: General Articles
 layout: default
 nav_order: 990
 parent: Resources
 ---
 
-# Popular Science
-by *Louis Marmet*
+# General Articles on Cosmology
+**by Louis Marmet**
 
 [Escaping cosmology's failing paradigm](https://iai.tv/articles/escaping-cosmologys-failing-paradigm-auid-1964?_auid=2020)\
 **Bjørn Ekeberg and Louis Marmet** - iai news - 2021 Nov. 4

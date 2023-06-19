@@ -6,39 +6,38 @@ parent: Resources
 ---
 
 # Reviewed Publications
-by *Louis Marmet*
+{: .no_toc }
 
-Papers discussing the ΛCDM Cosmology with observational data of interest to ACG, grouped in seven categories.<br>
-↪ in [.csv](reviewed-publications.csv) format (partial)
+**by Louis Marmet**
 
-- [1. Redshift](#1-redshift)
-- [2. Microwave Background](#2-microwave-background)
-- [3. Nucleosynthesis](#3-nucleosynthesis)
-- [4. Large Scale Structure](#4-large-scale-structure)
-- [5. Old Systems](#5-old-systems)
-- [6. ΛCDM Cosmology](#6-λcdm-cosmology)
-- [7. Miscellaneous, indirectly related to cosmology](#7-miscellaneous-indirectly-related-to-cosmology)
+Papers discussing the ΛCDM Cosmology with observational data of interest to ACG, grouped in seven categories.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 
 ### 1. Redshift
 
 Relationship between redshift, distance, time dilation; intrinsic redshift; evolution with expansion; quasars.
 
-`2018-09.6` *Probing the environment of high-z quasars using the proximity effect in projected quasar pairs*, P. Jalan, H. Chand, R. Srianand, submitted to ApJ, 2018.  [arXiv:1809.04614](https://arxiv.org/abs/1809.04614)
+*Probing the environment of high-z quasars using the proximity effect in projected quasar pairs*, P. Jalan, H. Chand, R. Srianand, submitted to ApJ, [arXiv:1809.04614](https://arxiv.org/abs/1809.04614), 2018
 
-`2018-09.1` *Can the H~0~* *tension be resolved in extensions to*, *[Λ]{.js-about-item-abstr}CDM cosmology?*, R.-Y. Guo, J.-F. Zhang, X. Zhang, [arXiv:1809.02340](https://arxiv.org/abs/1809.02340), 2018
+*Can the H_0 tension be resolved in extensions to ΛCDM cosmology?* R.-Y. Guo, J.-F. Zhang, X. Zhang, [arXiv:1809.02340](https://arxiv.org/abs/1809.02340), 2018
 
-`2018-08.1` *Easily interpretable bulk flows: continuing tension with the standard cosmological model*, S. Peery, R. Watkins, H.A. Feldman, Monthly Notices of the Royal Astronomical Society, Vol. 481, Issue 1, 2018.  [doi.org/10.1093/mnras/sty2332](https://doi.org/10.1093/mnras/sty2332), [arXiv:1808.07772](https://arxiv.org/abs/1808.07772)
+*Easily interpretable bulk flows: continuing tension with the standard cosmological model*, S. Peery, R. Watkins, H.A. Feldman, Monthly Notices of the Royal Astronomical Society, Vol. 481, Issue 1, 2018. [doi.org/10.1093/mnras/sty2332](https://doi.org/10.1093/mnras/sty2332), [arXiv:1808.07772](https://arxiv.org/abs/1808.07772)
 
-`2018-07.1` *Milky Way Cepheid Standards for Measuring Cosmic Distances and Application to* Gaia *DR2: Implications for the Hubble Constant*, A.G. Riess *et al.*, The Astrophysical Journal, Vol. 861, No. 2, 2018.  [iopscience.iop.org/article/10.3847/1538-4357/aac82e](http://iopscience.iop.org/article/10.3847/1538-4357/aac82e)
+*Milky Way Cepheid Standards for Measuring Cosmic Distances and Application to Gaia DR2: Implications for the Hubble Constant*, A.G. Riess *et al.*, The Astrophysical Journal, Vol. 861, No. 2, 2018. [iopscience.iop.org/article/10.3847/1538-4357/aac82e](http://iopscience.iop.org/article/10.3847/1538-4357/aac82e)
 
-`2018-07.2` *The Carnegie-Chicago Hubble Program. IV. The Distances to NGC 4424, NGC 4526, and NGC 4536 via the Tip of the Red Giant Branch*, D. Hatt *et al.*, The Astrophysical Journal, Vol. 861, No. 2, 2018.  [iopscience.iop.org/article/10.3847/1538-4357/aac9cc](http://iopscience.iop.org/article/10.3847/1538-4357/aac9cc), [arXiv:1806.02900](https://arxiv.org/abs/1806.02900)
+*The Carnegie-Chicago Hubble Program. IV. The Distances to NGC 4424, NGC 4526, and NGC 4536 via the Tip of the Red Giant Branch*, D. Hatt *et al.*, The Astrophysical Journal, Vol. 861, No. 2, 2018.  [iopscience.iop.org/article/10.3847/1538-4357/aac9cc](http://iopscience.iop.org/article/10.3847/1538-4357/aac9cc), [arXiv:1806.02900](https://arxiv.org/abs/1806.02900)
 
-`2018-07.3` *Neutrino emission from the direction of the blazar TXS 0506+056 prior to the IceCube-170922A alert*, IceCube Collaboration, Science 361, 147--151 (2018) [doi.org/10.1126/science.aat2890](https://doi.org/10.1126/science.aat2890), [science.sciencemag.org/content/early/2018/07/11/science.aat2890](http://science.sciencemag.org/content/early/2018/07/11/science.aat2890)
+*Neutrino emission from the direction of the blazar TXS 0506+056 prior to the IceCube-170922A alert*, IceCube Collaboration, Science 361, 147--151 (2018) [doi.org/10.1126/science.aat2890](https://doi.org/10.1126/science.aat2890), [science.sciencemag.org/content/early/2018/07/11/science.aat2890](http://science.sciencemag.org/content/early/2018/07/11/science.aat2890)
 
-`2018-06.1` *A More Accurate and Competitive Estimative of H~0~ in Intermediate Redshifts*, G.P. da Silva, A.G. Cavalcanti, Brazilian Journal of Physics, Vol. 48, Issue 5, p. 521, 2018.  [doi.org/10.1007/s13538-018-0581-9](https://doi.org/10.1007/s13538-018-0581-9), [arXiv:1805.06849](https://arxiv.org/abs/1805.06849)
+*A More Accurate and Competitive Estimative of H~0~ in Intermediate Redshifts*, G.P. da Silva, A.G. Cavalcanti, Brazilian Journal of Physics, Vol. 48, Issue 5, p. 521, 2018.  [doi.org/10.1007/s13538-018-0581-9](https://doi.org/10.1007/s13538-018-0581-9), [arXiv:1805.06849](https://arxiv.org/abs/1805.06849)
 
-`2018-06.2` *Physical association and periodicity in quasar families with SDSS and 2MRS*, C.C. Fulton, H.C. Arp, and J.G. Hartnett, Astrophys Space Sci (2018) 363:134.  [doi.org/10.1007/s10509-018-3355-5](https://doi.org/10.1007/s10509-018-3355-5), 2018 On Springer Nature SharedIt [rdcu.be/S5Qa](https://rdcu.be/S5Qa)
+*Physical association and periodicity in quasar families with SDSS and 2MRS*, C.C. Fulton, H.C. Arp, and J.G. Hartnett, Astrophys Space Sci (2018) 363:134.  [doi.org/10.1007/s10509-018-3355-5](https://doi.org/10.1007/s10509-018-3355-5), 2018 On Springer Nature SharedIt [rdcu.be/S5Qa](https://rdcu.be/S5Qa)
 
 `2018-05.1` *Hubble Trouble: A Crisis in Cosmology?*, S. Chen, APS NEWS, Vol. 27, No. 5, May 2018.  [www.aps.org/publications/apsnews/201805/hubble.cfm](https://www.aps.org/publications/apsnews/201805/hubble.cfm)
 
@@ -82,6 +81,7 @@ Relationship between redshift, distance, time dilation; intrinsic redshift; evol
 
 *A group of Quasi-Stellar Objects closely associated with NGC 1068*, 1998-12 M. Burbidge, The Astrophysical Journal Letters, Vol. 511, No. 1, pp. L9--L11, 1999. [iopscience.iop.org/1538-4357/511/1/L9/](http://iopscience.iop.org/1538-4357/511/1/L9/)
 
+
 ### 2. Microwave Background
 
 Blackbody spectrum, Sunyaev-Zel'dovich effect, dipole anisotropy.
@@ -102,6 +102,7 @@ Blackbody spectrum, Sunyaev-Zel'dovich effect, dipole anisotropy.
 
 *History of the 2.7 K Temperature Prior to Penzias and Wilson*, 1995-07 A.K.T. Assis and M.C.D. Neves, Apeiron, 2(3):79-87, July 1995. [redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3ASS.PDF](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3ASS.PDF)
 
+
 ### 3. Nucleosynthesis
 
 Production of light elements; <sup>6</sup>Li and <sup>7</sup>Li.
@@ -111,6 +112,7 @@ Production of light elements; <sup>6</sup>Li and <sup>7</sup>Li.
 *The Lithium Content of the Galactic Halo Stars* 2005-05 Charbonnel C. and Primas F., [arXiv:astro-ph/0505247](https://arxiv.org/abs/astro-ph/0505247)
 
 *Synthesis of the Elements in Stars* 1957-10 Burbidge E.M. *et al.*, [Rev. Mod. Phys. 29, 547](https://doi.org/10.1103/RevModPhys.29.547)
+
 
 ### 4. Large Scale Structure
 
@@ -188,6 +190,7 @@ Galaxy rotation curves, galaxy superclusters; dark energy; dark matter; black ho
 
 *A Dearth of Dark Matter in Ordinary Elliptical Galaxies* 2003-08 A.J. Romanowsky *et al.*, Science, 301:1696-1698, Sep 2003. [arXiv:astro-ph/0308518](https://arxiv.org/abs/astro-ph/0308518)
 
+
 ### 5. Old Systems
 
 Highly evolved galaxies at high redshifts; stellar systems.
@@ -256,6 +259,7 @@ Highly evolved galaxies at high redshifts; stellar systems.
 
 `1960-10.1` The Age of Large Globular Clusters of Galaxies F. Zwicky, Publications of the Astronomical Society of the Pacific, Vol. 72, No. 428, p.365, Oct. 1960.  [doi:10.1086/127558](https://doi.org/10.1086/127558)
 
+
 ### 6. ΛCDM Cosmology
 
 `2018-09.5` Towards a More Well-Founded Cosmology Hartmut Traunmüller, Zeitschrift für Naturforschung A73, Issue 11, p. 1005, 2018.  [doi:10.1515/zna-2018-0217](https://doi.org/10.1515/zna-2018-0217), and <https://www2.ling.su.se/staff/hartmut/Well-Founded_Cosmology.pdf>
@@ -272,42 +276,13 @@ Highly evolved galaxies at high redshifts; stellar systems.
 
 *Big Bang not yet dead but in decline* 1995-09 Maddox J., Nature, 377, 1995, p. 99. [www.nature.com/articles/377099a0](https://www.nature.com/articles/377099a0)
 
-### 7. Miscellaneous, indirectly related to cosmology
-
-*From the classical ethers of Descartes and Newton to cosmons and sagions*, H.A. Múnera, Apeiron, Volume 20, No. 2., <http://redshift.vif.com/JournalFiles/V20NO2PDF/HORS-15-MUN.pdf>, December 2015
-
-*Stellar aberration*, C.K. Thornhill, etherphysics.net, <https://etherphysics.net/CKT8.pdf>, 2006
-
-*The foundations of relativity*, C.K. Thornhill, etherphysics.net, <https://etherphysics.net/CKT7.pdf>, 2004
-
-*A non-singular ethereal cosmology*, C.K. Thornhill, etherphysics.net, <https://etherphysics.net/CKT6.pdf>, 2001
-
-*The refraction of light in stationary and moving refractive media*, C.K. Thornhill, etherphysics.net, <https://etherphysics.net/CKT5.pdf>, 1999
-
-*Real or imaginary space-time? Reality or relativity?*, C.K. Thornhill, Hadronic Journal Suppl. 11, 3, 209-224, <https://etherphysics.net/CKT4.pdf>, 1996
-
-*The Cosmological Views of Nernst: an Appraisal*, P.F. Browne, APEIRON Vol. 2 Nr. 3, <http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3BRO.PDF>, July 1995
-
-*Real and apparent invariants in the transformation of the equations governing wave-motion in the general flow of a general fluid*, C.K. Thornhill, Proc. R. Soc. Lond. A 442, 495-504, <https://etherphysics.net/CKT3.pdf>, 1993
-
-*The triality of electromagnetic-condensational waves in a gas-like ether*, C.K. Thornhill, Speculations in Science and Technology, Vol. 8, No. 4, pp. 273--280, <https://etherphysics.net/CKT2.pdf>, 1984
-
-*The kinetic theory of electromagnetic radiation*, C.K. Thornhill, Speculations in Science and Technology, Vol. 8, No. 4, pp. 263--272, <https://etherphysics.net/CKT1.pdf>, 1983
-
-*Non-Locality, Causality and Aether in Quantum Mechanics*, J. P. Vigier, Astron. Nachr., 303, <https://onlinelibrary.wiley.com/doi/abs/10.1002/asna.2103030111>, 1982
-
-*Rotating fields and particle-like states of electron-positron systems*, P.F. Browne, J. Phys. A: Math. Gen. 14, 597-619, <https://iopscience.iop.org/article/10.1088/0305-4470/14/3/010>, 1981
-
-*Model of the Causal Interpretation of Quantum Theory in Terms of a Fluid with Irregular Fluctuations*, D. Bohm and J. P. Vigier, Phys. Rev. 96, 208, <https://www.academia.edu/47521203/Model_of_the_Causal_Interpretation_of_Quantum_Theory_in_Terms_of_a_Fluid_with_Irregular_Fluctuations>, 1954
-
-*Über den Äther* (translation), A. Einstein, Verhandlungen der Schweizerischen Naturforschenden Gesellschaft 105:2, 85-93, <http://jonathonfreeman.org/wp-content/uploads/2017/10/Einstein-concerning-the-ether-1924.pdf>, 1924
 
 ---
 
 For if we are uncritical we shall always find what we want: we shall look for, and find, confirmations, and we shall look away from, and not see, whatever might be dangerous to our pet theories. In this way it is only too easy to obtain what appears to be overwhelming evidence in favor of a theory which, if approached critically, would have been refuted.
 
-— ***Karl Popper,** The poverty of historicism. Beacon Press, Boston, Mass; 1957)*
+— **Karl Popper**, The poverty of historicism. Beacon Press, Boston, Mass; 1957)
 
 ---
 
-© Louis Marmet 2018–2023
+© 2018–2023 Louis Marmet
