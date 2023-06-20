@@ -12,7 +12,5 @@ aux_links:  # remove if you don't want this link to appear on your pages
 exclude:
 # specific to the website:
   - README.md
-  - GUIDELINES.md
-  - CODE_OF_CONDUCT.md
   - LICENCE
   - LICENCE-just-the-docs

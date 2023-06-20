@@ -5,18 +5,20 @@
 
 ├─ A Cosmology Group
 │  ├─ Open Letter to the Scientific Community
+│  ├─ ACG Organization
 ├─ ACG Newsletters
 ├─ Essays
 │  ├─ [essay-1] ...
 ├─ Cosmological Models
-│  ├─ Changing Radial Distance
-│  │  ├─ [model-1] ...
-│  ├─ Spectral-Redshift Cosmology
-│  │  ├─ [model-1] ...
-│  ├─ Non-Expanding
-│  │  ├─ [model-1] ...
-├─ Redshift Models
 │  ├─ [model-1] ...
+│  ├─ Time-Dependent Cosmologies
+│  │  ├─ [models] ...
+│  ├─ Spectral-Redshift Cosmologies
+│  │  ├─ [models] ...
+│  ├─ Non-Expanding Cosmologies
+│  │  ├─ [models] ...
+├─ Redshift Models
+│  ├─ [models] ...
 ├─ Resources
 │  ├─ [resource-1] ...
 ├─ Code
@@ -25,12 +27,14 @@
 │  ├─ CCC-1
 │  ├─ CCC-2
 │  ├─ [conference-N] ...
-├─ ACG Organization
 
 
 ## Corresponding **folder** structure in `a-cosmology-group/acg` repo:
 
 ├─ index.md
+├─ org
+│  ├─ index.md
+│  ├─ open-letter-on-cosmology.md
 ├─ newsletters
 │  ├─ index.md [acg-newsletter.pdf] ...
 ├─ essays
@@ -43,6 +47,12 @@
 │  ├─ [model-1]
 │  │  ├─ [model.md] [model.pdf] ...
 │  ├─ [model-2] ...
+│  ├─ non-expanding-cosmologies
+│  │  ├─ index.md ...
+│  ├─ spectral-redshift-cosmologies
+│  │  ├─ index.md ...
+│  ├─ time-dependent-cosmologies
+│  │  ├─ index.md ...
 ├─ redshift
 │  ├─ index.md
 │  ├─ [model-1]
@@ -65,9 +75,6 @@
 │  ├─ CCC-2
 │  │  ├─ [index.md] ...
 │  ├─ [conference-N] ...
-├─ org
-│  ├─ index.md
-│  ├─ open-letter-on-cosmology.md
 
 
 ## YAML headers
