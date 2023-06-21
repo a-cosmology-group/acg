@@ -37,7 +37,7 @@ Physicist, Ph.D. atomic physics, frequency standards, precision measurements
 
 Current editor of the ACG Newsletter and cosmology.info webmaster
 
-- Eric Lerner `<eric at llppfusion dot com>`
+- Eric Lerner `<eric at lppfusion dot com>`
 
 Physicist, initiator of the Open Letter and ACG
 
