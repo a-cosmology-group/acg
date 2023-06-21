@@ -9,28 +9,29 @@ parent: A Cosmology Group
 
 ## ACG Discussion Groups
 
-If you wish to join the mailing list, please send a request to [redshift@marmet.org](mailto:redshift@marmet.org).  You will receive a confirmation email and a link to access your member's profile.
+### A Cosmology Group on *github.com*
 
-### 'Cosmology Group'
+Anyone with an interest in cosmology can read the discussions on [`a-cosmology-group/discussions`](https://github.com/orgs/a-cosmology-group/discussions).
 
-  For researchers with established credibility or excellent credentials related to cosmology / [cosmology@gaggle.email](mailto:cosmology@gaggle.email)
+With a GitHub account (free), contributors can post to the forum and add pages to the Group's documentation website.
 
-  This mailing list mostly used for posting links to new published work.  The list is moderated to reduce the number of messages.
-
-### 'A Cosmology Group on GitHub'
-
-  Anyone with an interest in cosmology can read the discussions on [https://github.com/orgs/a-cosmology-group/discussions](https://github.com/orgs/a-cosmology-group/discussions).
-
-  With a GitHub account (free), contributors can post to the forum and add pages to the Group's documentation website.
-
-  Discussions are not moderated, but are subject to the '[Contributor Code of Conduct](../CODE_OF_CONDUCT.md)' and '[Guidelines](../GUIDELINES.md)'.
+Discussions are not moderated, but are subject to the '[Contributor Code of Conduct](https://github.com/a-cosmology-group/acg/blob/main/CODE_OF_CONDUCT.md)' and '[Guidelines](https://github.com/a-cosmology-group/acg/blob/main/GUIDELINES.md)'.
 
 
-## A Cosmology Group: Contacts
+### Cosmology Group on *Gaggle.email*
+
+If you wish to join the Gaggle.email mailing list, please send a request to [Contacts](#contacts).  You will receive a confirmation email and a link to access your member's profile.
+
+The mailing list [cosmology@gaggle.email](mailto:cosmology@gaggle.email) is for researchers with established credibility or excellent credentials related to cosmology.
+
+The mailing list mostly used for posting links to new published work.  The list is moderated to reduce the number of messages.
+
+
+## Contacts
 
 All correspondence with ACG, scientific and technical, can be sent to:
 
-- Louis Marmet `<redshift at cosmology dot info>`
+- Louis Marmet `<redshift at marmet dot org>`
 
 Physicist, Ph.D. atomic physics, frequency standards, precision measurements
 
