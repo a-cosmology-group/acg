@@ -3,13 +3,14 @@
 
 ## Navigation structure of the ACG website [just-the-docs](https://just-the-docs.com/):
 
-├─ A Cosmology Group
+```
+├─ A Cosmology Group [nav_order: 1]
 │  ├─ Open Letter to the Scientific Community
 │  ├─ ACG Organization
-├─ ACG Newsletters
-├─ Essays
+├─ ACG Newsletters [nav_order: 2]
+├─ Essays [nav_order: 3]
 │  ├─ [essay-1] ...
-├─ Cosmological Models
+├─ Cosmological Models [nav_order: 4]
 │  ├─ [model-1] ...
 │  ├─ Time-Dependent Cosmologies
 │  │  ├─ [models] ...
@@ -17,24 +18,28 @@
 │  │  ├─ [models] ...
 │  ├─ Non-Expanding Cosmologies
 │  │  ├─ [models] ...
-├─ Redshift Models
+├─ Redshift Models [nav_order: 5]
 │  ├─ [models] ...
-├─ Resources
+├─ Gravity Models [nav_order: 6]
+│  ├─ [models] ...
+├─ Resources [nav_order: 7]
 │  ├─ [resource-1] ...
-├─ Code
+├─ Code [nav_order: 8]
 │  ├─ [code-1] ...
-├─ Conferences
+├─ Conferences [nav_order: 9]
 │  ├─ CCC-1
 │  ├─ CCC-2
 │  ├─ [conference-N] ...
-
+```
 
 ## Corresponding **folder** structure in `a-cosmology-group/acg` repo:
 
+```
 ├─ index.md
 ├─ org
 │  ├─ index.md
 │  ├─ open-letter-on-cosmology.md
+│  ├─ acg-organization.md
 ├─ newsletters
 │  ├─ index.md [acg-newsletter.pdf] ...
 ├─ essays
@@ -58,6 +63,11 @@
 │  ├─ [model-1]
 │  │  ├─ [model.md] [model.pdf] ...
 │  ├─ [model-2] ...
+├─ gravity
+│  ├─ index.md
+│  ├─ [model-1]
+│  │  ├─ [model.md] [model.pdf] ...
+│  ├─ [model-2] ...
 ├─ resources
 │  ├─ index.md
 │  ├─ [author_a]
@@ -75,140 +85,5 @@
 │  ├─ CCC-2
 │  │  ├─ [index.md] ...
 │  ├─ [conference-N] ...
-
-
-## YAML headers
-
-`index.md`
-```
----
-title: A Cosmology Group
-layout: home
-nav_order: 1
----
 ```
 
-`newsletter/index.md`
-```
----
-title: ACG Newsletters
-layout: default
-nav_order: 2
----
-```
-
-`essays/index.md`
-```
----
-title: Essays
-layout: default
-nav_order: 3
-has_children: true
----
-  ---
-  title: Open Letter to the Scientific Community
-  layout: default
-  nav_order: 1
-  parent: Essays
-  ---
-  ---
-  title: [Essay 2]
-  layout: default
-  nav_order: 49
-  parent: Essays
-  ---
-```
-
-`models/index.md`
-```
----
-title: Cosmological Models
-layout: default
-nav_order: 4
-has_children: true
----
-  ---
-  title: [Cosmological Model 1]
-  layout: default
-  parent: Cosmological Models
-  nav_order: 174
-  ---
-```
-
-`redshift/index.md`
-```
----
-title: Redshift Models
-layout: default
-nav_order: 5
-has_children: true
----
-```
-
-`resources/index.md`
-```
----
-title: Resources
-layout: default
-nav_order: 6
-has_children: true
----
-  ---
-  title: [Resource 1]
-  layout: default
-  nav_order: 146
-  parent: Resources
-  ---
-```
-
-`code/index.md`
-```
----
-title: Cosmology Code
-layout: default
-nav_order: 7
-has_children: true
----
-  ---
-  title: [Cosmology Code 1]
-  layout: default
-  nav_order: 172
-  parent: Cosmology Code
-  ---
-```
-
-`conferences/index.md`
-```
----
-title: Conferences
-layout: default
-nav_order: 8
----
-  ---
-  title: CCC-1 2005 Conference
-  layout: default
-  nav_order: 1
-  parent: Conferences
-  ---
-  ---
-  title: CCC-2 2008 Conference
-  layout: default
-  nav_order: 2
-  parent: Conferences
-  ---
-  ---
-  title: [Conference 3]
-  layout: default
-  nav_order: 3
-  parent: Conferences
-  ---
-```
-
-`org/index.md`
-```
----
-title: ACG Organization
-layout: default
-nav_order: 9
----
-```
