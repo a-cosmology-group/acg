@@ -22,10 +22,10 @@ nav_order: 5
 Thermalization of the energy of photons into the equilibrium blackbody energy distribution
 [(Laszlo A. Marosi 2012)](https://www.researchgate.net/publication/267555362)
 
-Redshift produced in a light interaction with microwaves
+Redshift produced in a light interaction with microwaves  
 [(J.F.G. Julia 2010)](https://vixra.org/abs/1005.0097)
 
-The photon has a finite dipole moment which radiates energy
+The photon has a finite dipole moment which radiates energy   
 [(R. Driscoll 2005)](https://meetings.aps.org/Meeting/APR05/Session/D1.16)
 
 Photons lose energy by traversing a radiation field via a photon-photon interaction
