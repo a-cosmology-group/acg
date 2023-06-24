@@ -6,6 +6,13 @@ parent: A Cosmology Group
 ---
 
 # A Cosmology Group - Organization
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## ACG Discussion Groups
 
@@ -31,19 +38,16 @@ The mailing list mostly used for posting links to new published work.  The list 
 
 All correspondence with ACG, scientific and technical, can be sent to:
 
-- Louis Marmet `<redshift at marmet dot org>`
-
-Physicist, Ph.D. atomic physics, frequency standards, precision measurements
-
+- Louis Marmet `<redshift at marmet dot org>`  
+Physicist, Ph.D. atomic physics, frequency standards, precision measurements  
 Current editor of the ACG Newsletter and cosmology.info webmaster
 
-- Eric Lerner `<eric at lppfusion dot com>`
-
+- Eric Lerner `<eric at lppfusion dot com>`  
 Physicist, initiator of the Open Letter and ACG
 
-- Hilton Ratcliffe 1949-2023
-
+- Hilton Ratcliffe 1949-2023  
 Astrophysicist, founding member of ACG
 
+---
 
 © 2018--2023 ACG

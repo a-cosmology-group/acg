@@ -7,7 +7,7 @@ parent: A Cosmology Group
 
 ## An Open Letter to the Scientific Community
 
-**by E. Lerner,** New Scientist, May 22, 2004
+**by E. Lerner,** [New Scientist, May 22, 2004](https://www.newscientist.com/article/mg18224482-900-bucking-the-big-bang/)
 
 *"The big bang today relies on a growing number of hypothetical entities, things that we have never observed — inflation, dark matter and dark energy are the most prominent examples. Without them, there would be a fatal contradiction between the observations made by astronomers and the predictions of the big bang theory. In no other field of physics would this continual recourse to new hypothetical objects be accepted as a way of bridging the gap between theory and observation. It would, at the least, raise serious questions about the validity of the underlying theory.*
 
@@ -31,42 +31,42 @@ parent: A Cosmology Group
 
 ---
 
-**Signed by,** Institutions for identification only, Country<br>
-*Highlighted names are linked to related web pages (original links are given even if they are now broken).*
+**Signed by,** Institutions for identification only, Country  
+Highlighted names are linked to web pages.
 
-[**Halton Arp,**](http://haltonarp.com/) Max-Planck-Institute Für Astrophysik (Germany)<br>
-[**Andre Koch Torres Assis,**](https://www.ifi.unicamp.br/~assis/) State University of Campinas (Brazil)<br>
-[**Yuri Baryshev,**](http://www.astro.spbu.ru/staff/baryshev/index.htm) Astronomical Institute, St. Petersburg State University (Russia)<br>
-**Ari Brynjolfsson,** Applied Radiation Industries (USA)<br>
-**Hermann Bondi,** Churchill College, University of Cambridge (UK)<br>
-**Timothy Eastman,** Plasmas International (USA)<br>
-**Chuck Gallo,** Superconix, Inc.(USA)<br>
-**Thomas Gold,** Cornell University (emeritus) (USA)<br>
-**Amitabha Ghosh,** Indian Institute of Technology, Kanpur (India)<br>
-**Walter J. Heikkila,** University of Texas at Dallas (USA)<br>
-**Michael Ibison,** Institute for Advanced Studies at Austin (USA)<br>
-**Thomas Jarboe,** University of Washington (USA)<br>
-**Jerry W. Jensen,** ATK Propulsion (USA)<br>
-**Menas Kafatos,** George Mason University (USA)<br>
-**Eric J. Lerner,** Lawrenceville Plasma Physics (USA)<br>
-**Paul Marmet,** Herzberg Institute of Astrophysics (Canada)<br>
-**Paola Marziani,** Istituto Nazionale di Astrofisica, Osservatorio Astronomico di Padova (Italy)<br>
-**Gregory Meholic,** The Aerospace Corporation (USA)<br>
-**Jacques Moret-Bailly,** Université Dijon (retired) (France)<br>
-**Jayant Narlikar,** IUCAA(emeritus) and College de France (India, France)<br>
-[**Marcos Cesar Danhoni Neves,**](http://www.pcm.uem.br/docente/3/marcos-cesar-danhoni-neves) State University of Maringá (Brazil)<br>
-**Charles D. Orth,** Lawrence Livermore National Laboratory (USA)<br>
-**R. David Pace,** Lyon College (USA)<br>
-**Georges Paturel,** Observatoire de Lyon (France)<br>
-**Jean-Claude Pecker,** College de France (France)<br>
-**Anthony L. Peratt,** Los Alamos National Laboratory (USA)<br>
-**Bill Peter,** BAE Systems Advanced Technologies (USA)<br>
-**David Roscoe,** Sheffield University (UK)<br>
-**Malabika Roy,** George Mason University (USA)<br>
-**Sisir Roy,** George Mason University (USA)<br>
-**Konrad Rudnicki,** Jagiellonian University (Poland)<br>
-[**Domingos S.L. Soares,**](http://lilith.fisica.ufmg.br/~dsoares/) Federal University of Minas Gerais (Brazil)<br>
-**John L. West,** Jet Propulsion Laboratory, California Institute of Technology (USA)<br>
-**James F. Woodward,** California State University, Fullerton (USA)<br>
+[**Halton Arp,**](http://haltonarp.com/) Max-Planck-Institute Für Astrophysik (Germany)  
+[**Andre Koch Torres Assis,**](https://www.ifi.unicamp.br/~assis/) State University of Campinas (Brazil)  
+[**Yuri Baryshev,**](http://www.astro.spbu.ru/staff/baryshev/index.htm) Astronomical Institute, St. Petersburg State University (Russia)  
+**Ari Brynjolfsson,** Applied Radiation Industries (USA)  
+**Hermann Bondi,** Churchill College, University of Cambridge (UK)  
+**Timothy Eastman,** Plasmas International (USA)  
+**Chuck Gallo,** Superconix, Inc.(USA)  
+**Thomas Gold,** Cornell University (emeritus) (USA)  
+**Amitabha Ghosh,** Indian Institute of Technology, Kanpur (India)  
+**Walter J. Heikkila,** University of Texas at Dallas (USA)  
+**Michael Ibison,** Institute for Advanced Studies at Austin (USA)  
+**Thomas Jarboe,** University of Washington (USA)  
+**Jerry W. Jensen,** ATK Propulsion (USA)  
+**Menas Kafatos,** George Mason University (USA)  
+**Eric J. Lerner,** Lawrenceville Plasma Physics (USA)  
+**Paul Marmet,** Herzberg Institute of Astrophysics (Canada)  
+**Paola Marziani,** Istituto Nazionale di Astrofisica, Osservatorio Astronomico di Padova (Italy)  
+**Gregory Meholic,** The Aerospace Corporation (USA)  
+**Jacques Moret-Bailly,** Université Dijon (retired) (France)  
+**Jayant Narlikar,** IUCAA(emeritus) and College de France (India, France)  
+[**Marcos Cesar Danhoni Neves,**](http://www.pcm.uem.br/docente/3/marcos-cesar-danhoni-neves) State University of Maringá (Brazil)  
+**Charles D. Orth,** Lawrence Livermore National Laboratory (USA)  
+**R. David Pace,** Lyon College (USA)  
+**Georges Paturel,** Observatoire de Lyon (France)  
+**Jean-Claude Pecker,** College de France (France)  
+**Anthony L. Peratt,** Los Alamos National Laboratory (USA)  
+**Bill Peter,** BAE Systems Advanced Technologies (USA)  
+**David Roscoe,** Sheffield University (UK)  
+**Malabika Roy,** George Mason University (USA)  
+**Sisir Roy,** George Mason University (USA)  
+**Konrad Rudnicki,** Jagiellonian University (Poland)  
+[**Domingos S.L. Soares,**](http://lilith.fisica.ufmg.br/~dsoares/) Federal University of Minas Gerais (Brazil)  
+**John L. West,** Jet Propulsion Laboratory, California Institute of Technology (USA)  
+**James F. Woodward,** California State University, Fullerton (USA)  
 
 ---

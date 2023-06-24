@@ -1,13 +1,13 @@
 ---
 title: Criteria for a Scientific Model
 layout: default
-nav_order: 984
+nav_exclude: true
 parent: Essays
+math: mathjax3
 ---
 
-## Criteria for a Scientific Model: The measuring device as a physical concept
-
-**By Louis Marmet**
+# Criteria for a Scientific Model: The measuring device as a physical concept
+**By Louis Marmet** - 2019 December 13
 
 Although it is difficult to reach agreement on a precise definition of the scientific method (*how* science is done), the distinction between physics and mathematics (*what* is science) should always be clear in the scientist's mind. Yet, [theoretical physicists have developed a habit of putting forward entirely baseless speculations](http://backreaction.blogspot.com/2019/10/the-crisis-in-physics-is-not-only-about.html).
 
@@ -69,7 +69,7 @@ Mathematics is a powerful tool that has been used by physicists for centuries. B
 
 Undoubtedly, mathematics is a very powerful tool which can efficiently describe physical concepts and observations. Expressed in a mathematical language, the above discussion is written:
 
-> “Distance is $d$; $k$ and $l$ are some constants. The elastic force $F_\text{H} = kd$ is [Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law), but the electrostatic force model $F_\text{E} \propto l-d$ fails to predict observations.”
+> “Distance is $$d$$; $$k$$ and $$l$$ are some constants. The elastic force $$F_\text{H} = kd$$ is [Hooke's law](https://en.wikipedia.org/wiki/Hooke%27s_law), but the electrostatic force model $$F_\text{E} \propto l-d$$ fails to predict observations.”
 
 However, mathematics is a formal language which can also generate concepts that are not defined in terms of a measuring device. As a result, mathematical models lose their connection to reality if they stop satisfying the measuring-device criterion. The danger with mathematical models is that they can successfully provide accurate [curve fitting](https://en.wikipedia.org/wiki/Curve_fitting) even if the models have no basis in reality. The appeal of that success has encouraged a large number of theorists to publish, but [*"the criteria for what counts as “theoretically possible” in the foundations of physics today are so weak that writing papers about observing these theoretical possibilities is just wasting everybody's time. It's science fiction with equations.”*](https://twitter.com/skdh/status/1194678070260748288)
 

@@ -17,7 +17,6 @@ As new observations reveal tensions between cosmological models, ACG scrutinize 
 While technological progress has made possible observations of the cosmos in great detail, today’s research is [mostly targeted at minor variations on the ΛCDM theme](org/open-letter-on-cosmology.html). A Cosmology Group seeks astronomical observations that are unexpected, surprising, informative, and [at tension with the predictions of cosmological models](resources/marmet_l/tension-with-models.html). For this purpose ACG provides:
 
 - a database of links to observational data that challenge cosmological models,  
-discussions with established astronomers,
 - discussions with established astrophysicists and philosophers,
 - examination of the methodology used for modeling and interpreting data.
 
@@ -25,7 +24,7 @@ After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% o
 
 ---
 
-A Cosmology Group maintains this website in a github [repository](https://github.com/a-cosmology-group/acg/), including the [ACG Newsletter](newsletters/index.html). Observational data and work of interest to ACG are listed in [Resources](resources/). To contribute to the content, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
+A Cosmology Group maintains this website in a github [repository](https://github.com/a-cosmology-group/acg/), including the [ACG Newsletter](newsletters/). Observational data and work of interest to ACG are listed in [Resources](resources/). To contribute to the content, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
 
 
 © 2018–2023 ACG
