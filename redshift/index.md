@@ -7,11 +7,15 @@ nav_order: 5
 # Redshift Models
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
 
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 - TOC
 {:toc}
+</details>
 
 
 ## Models based on *d(hν) = – H (hν) dt*
