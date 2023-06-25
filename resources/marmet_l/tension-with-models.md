@@ -1,8 +1,6 @@
 ---
 title: Tension with cosmological models
 layout: default
-nav_order: 999
-parent: Resources
 ---
 
 # Observations at tension with cosmological models

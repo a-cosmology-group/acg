@@ -9,11 +9,14 @@ nav_order: 3
 
 Comments on the Big Bang model, the scientific method, the cosmologists, philosophy, etc.
 
-## Table of contents
-{: .no_toc .text-delta }
-
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 - TOC
 {:toc}
+</details>
 
 
 ## [Rejecting the Blurriness Criticism](./marmet_l/rejecting-the-blurriness-criticism.html)

@@ -7,7 +7,6 @@ nav_order: 5
 # Redshift Models
 {: .no_toc }
 
-
 <details markdown="block">
   <summary>
     Table of contents

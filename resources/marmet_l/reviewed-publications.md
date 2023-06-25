@@ -1,8 +1,6 @@
 ---
 title: Reviewed Publications
 layout: default
-nav_order: 996
-parent: Resources
 ---
 
 # Reviewed Publications
@@ -279,7 +277,7 @@ Highly evolved galaxies at high redshifts; stellar systems.
 
 ---
 
-For if we are uncritical we shall always find what we want: we shall look for, and find, confirmations, and we shall look away from, and not see, whatever might be dangerous to our pet theories. In this way it is only too easy to obtain what appears to be overwhelming evidence in favor of a theory which, if approached critically, would have been refuted.
+*For if we are uncritical we shall always find what we want: we shall look for, and find, confirmations, and we shall look away from, and not see, whatever might be dangerous to our pet theories. In this way it is only too easy to obtain what appears to be overwhelming evidence in favor of a theory which, if approached critically, would have been refuted.*
 
 — **Karl Popper**, The poverty of historicism. Beacon Press, Boston, Mass; 1957)
 

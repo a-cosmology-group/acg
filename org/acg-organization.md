@@ -6,13 +6,6 @@ parent: A Cosmology Group
 ---
 
 # A Cosmology Group - Organization
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-- TOC
-{:toc}
 
 ## ACG Discussion Groups
 
