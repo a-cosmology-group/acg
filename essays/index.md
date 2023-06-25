@@ -96,7 +96,7 @@ Galaxies, like people, can be complicated and strange, and interact in a very pe
 And that is what we shall deal with here – with such a complex and, to a degree, indomitable universe.
 One of the first astronomers to embrace the “weird” galaxies was the American Halton Christian Arp.
 
-## [Growing mass of evidence challenges “concordance cosmology” but elicits no response. Why the Silence?](.lerner_ej/concordance-cosmology-challenged.pdf)
+## [Growing mass of evidence challenges “concordance cosmology” but elicits no response.](.lerner_ej/concordance-cosmology-challenged.pdf)
 **by Eric Lerner and Richard Lieu** - 2009 July 9
 
 In the past year, but particularly in the past three months, a growing number of astrophysical papers have revealed results that challenge the “precision cosmology” notion in fundamental ways.
