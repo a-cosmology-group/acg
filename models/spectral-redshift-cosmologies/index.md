@@ -7,52 +7,73 @@ parent: Cosmological Models
 
 # Spectral-Redshift Cosmologies
 
-## Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/tiredlit.htm) *d(hν) = -H (hν) dt*  ([Nernst 1937]
-(https://doi.org/10.1007/BF01339902))
+Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/tiredlit.htm) *d(hν) = -H (hν) dt* ([Nernst 1937](https://doi.org/10.1007/BF01339902))
 
-Well-Founded cosmology (H. Traunmüller)  WFC / wfc .pdf document / 2018-5-2
+## [Timeless Quantum universe](./tqu-20200127.pdf)
+**by A. Srečko Šorli** - 2020-1-27
 
-Timeless Quantum universe (A. Srečko Šorli)  TQU / tqu .pdf document / 2020-1-27
+## [Super Photon as the Origin of the Hubble constant](./sp-h-20191202.pdf)
+**by W. Zhang** - 2019-12-2
 
-Curvature cosmology (D. Crawford)  CC / [cc ](https://cosmology.info/essays/models_marmet/cc-20190304.pdf).pdf document / 2019-3-4
+## [Curvature cosmology](./cc-20190304.pdf)
+**by D. Crawford** - 2019-3-4
 
-Photon-Vacuum Interactions in a Static universe (J.-P. Vigier)  PVI-S / [pvi-s ](https://cosmology.info/essays/models_marmet/pvi-s-19880229.pdf).pdf document / 1988-2-29
+## [Well-Founded cosmology](./wfc-20180502.pdf)
+**by H. Traunmüller** - 2018-5-2
 
-Complex-Dynamic cosmology (A.P. Kirilyuk)  CDC / cdc .pdf document / 2004-6-24
+## [Tired-Light Contracting universe](./tlcu-20170210.pdf)
+**by J. Glover** - 2017-2-10
 
-Inertial Induction/Quasi-Static Infinite universe (A. Ghosh)  IIQS / iiqs .pdf document / 1997-12-31
+## [Static Material/Expanding Luminous worlds](./smxl-20140610.pdf)
+**by Y. Heymann** - 2014-6-10
 
-New Tired-Light Non-Expanding universe (L. Ashmore)  NTL-NX / ntl-nx .pdf document / 2010-12-31
+## [New Tired-Light Non-Expanding universe](./ntl-nx-20101231.pdf)
+**by L. Ashmore** - 2010-12-31
 
-Infinite universe theory (G. Borchardt)  IUT / iut .pdf document / 2007-12-31
+## [Non-Evolving universe](./neu-20090627.pdf)
+**by T. Andrews** - 2009-6-27
 
-Plasma cosmology (E. Lerner)  PC / [pc ](https://cosmology.info/essays/models_marmet/pc-20031011.pdf).pdf document / 2003-10-11
+## [Infinite universe theory](./iut-20071231.pdf)
+**by G. Borchardt** - 2007-12-31
 
-Cosmos Created without a Singularity (H. Broberg)  CCWS / ccws .pdf document / 1987-9-30
+## [Plasma Redshift in a Non-Expanding universe](./pr-nx-20060531.pdf)
+**by A. Brynjolfsson** - 2006-5-31
 
-Eternal universe (K. Khaidarov)  EtU / etu .pdf document / 2003-8-1
+## [Stable universe](./stu-20060119.pdf)
+**by M. Lewis** - 2006-1-19
 
-Non-Evolving universe (T. Andrews)  NEU / neu .pdf document / 2009-6-27
+## [Complex-Dynamic cosmology](./cdc-20040624.pdf)
+**by A.P. Kirilyuk** - 2004-6-24
 
-Super Photon as the Origin of the Hubble constant (W. Zhang)  SP-H / sp-h .pdf document / 2019-12-2
+## [Tachyon Plasma Field in a Non-Expanding universe](./tpf-nx-20040215.pdf)
+**by T. Musha** - 2004-2-15
 
-Photon Decay Alternative cosmology (H. Dart)  PD / [pd ](https://cosmology.info/essays/models_marmet/pd-19931031.pdf).pdf document / 1993-10-31
+## [Plasma cosmology](./pc-20031011.pdf)
+**by E. Lerner** - 2003-10-11
 
-Tired-Light Contracting universe (J. Glover)  TLCU / tlcu .pdf document / 2017-2-10
+## [Eternal universe](./etu-20030801.pdf)
+**by K. Khaidarov** - 2003-8-1
 
-Static Material/Expanding Luminous worlds (Y. Heymann)  SMXL / smxl .pdf document / 2014-6-10
+## [Inertial Induction/Quasi-Static Infinite universe](./iiqs-19971231.pdf)
+**by A. Ghosh** - 1997-12-31
 
-Stable universe (M. Lewis)  StU / stu .pdf document / 2006-1-19
+## [Photon Decay Alternative cosmology](./pd-19931031.pdf)
+**by H. Dart** - 1993-10-31
 
-Plasma Redshift in a Non-Expanding universe (A. Brynjolfsson)  PR-NX / [pr-nx ](https://cosmology.info/essays/models_marmet/pr-nx-20060531.pdf).pdf document / 2006-5-31
+## [Photon-Vacuum Interactions in a Static universe](./pvi-s-19880229.pdf)
+**by J.-P. Vigier** - 1988-2-29
 
-Tachyon Plasma Field in a Non-Expanding universe (T. Musha)  TPF-NX / tpf-nx .pdf document / 2004-2-15
+## [Cosmos Created without a Singularity](./ccws-19870930.pdf)
+**by H. Broberg** - 1987-9-30
 
-Cosmology of Subquantum Kinetics (P. LaViolette)  SQK / submitted for publication
+## Cosmology of Subquantum Kinetics
+**by P. LaViolette** - submitted for publication
 
-Scattering and Cosmological effects (F. Vaughan)  SCE / no summary is available
+## Scattering and Cosmological effects
+**by F. Vaughan** - no summary is available
 
-Cosmology model (A. Stolmar)  CosM / no summary is available
+## Cosmology model
+**by A. Stolmar** - no summary is available
 
 ---
 

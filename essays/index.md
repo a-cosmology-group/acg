@@ -19,11 +19,6 @@ Comments on the Big Bang model, the scientific method, the cosmologists, philoso
 </details>
 
 
-## [Rejecting the Blurriness Criticism](./marmet_l/rejecting-the-blurriness-criticism.html)
-**by Louis Marmet** - 2023 June 20
-
-The "blurriness criticism of tired-light" assumes a single interaction that satisfies **conservation of energy and momentum** in non-expanding space, and a resulting photon propagating in the same direction as the initial photon.  It is applicable to Compton scattering and other tired-light models.
-
 ## [A Quantum Approach to Relativistic Cosmology](./keys_r/quantum-approach-to-relativistic-cosmology.pdf)
 **by Roy Keys** - 2022 October 19
 

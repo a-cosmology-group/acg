@@ -5,6 +5,22 @@ nav_exclude: true
 parent: Essays
 ---
 
+
+
+Add this to the essays page:
+## [Rejecting the Blurriness Criticism](./marmet_l/rejecting-the-blurriness-criticism.html)
+**by Louis Marmet** - 2023 June 20
+
+The "blurriness criticism of tired-light" assumes a single interaction that satisfies **conservation of energy and momentum** in non-expanding space, and a resulting photon propagating in the same direction as the initial photon.  It is applicable to Compton scattering and other tired-light models.
+
+
+
+
+
+
+
+
+
 # Rejecting the Blurriness Criticism
 **By Louis Marmet** - 2023 June 20
 
