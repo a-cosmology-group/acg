@@ -1,9 +1,8 @@
 ---
 title: Spectral-Redshift Cosmologies
 layout: default
-nav_order: 996
+nav_order: 2
 parent: Cosmological Models
-has_children: true
 ---
 
 # Spectral-Redshift Cosmologies
@@ -55,5 +54,6 @@ Scattering and Cosmological effects (F. Vaughan)  SCE / no summary is available
 
 Cosmology model (A. Stolmar)  CosM / no summary is available
 
+---
 
 © 2018--2023 ACG

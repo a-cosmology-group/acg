@@ -2,7 +2,6 @@
 title: Criteria for a Scientific Model
 layout: default
 nav_exclude: true
-parent: Essays
 math: mathjax3
 ---
 

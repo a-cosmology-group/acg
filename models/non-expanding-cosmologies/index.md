@@ -1,9 +1,8 @@
 ---
 title: Non-Expanding Cosmologies
 layout: default
-nav_order: 999
+nav_order: 3
 parent: Cosmological Models
-has_children: true
 ---
 
 # Non-Expanding Cosmologies
@@ -57,5 +56,6 @@ Japanese Creation Story (Japanese)  JaCM / oral tradition
 
 Infinite universe (J.B. Eichler)  IU / no summary is available
 
+---
 
 © 2018--2023 ACG

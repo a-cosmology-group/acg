@@ -1,82 +1,117 @@
 ---
 title: Time-Dependent Cosmologies
 layout: default
-nav_order: 993
+nav_order: 1
 parent: Cosmological Models
-has_children: true
 ---
 
 # Time-Dependent Cosmologies
 
-Spherical Layers Cosmos (V. Petrikov)  SLC / slc .pdf document / 2023-01-20
+## [Spherical Layers Cosmos](./slc-20230120.pdf)
+**by V. Petrikov** 2023-1-20
 
-4-Sphere r = ct Expanding Universe (C. Marchesan)  4SEU / 4seu .pdf document / 2022-10-20
+## [4-Sphere Expanding Universe](4seu/)
+**by C. Marchesan** - 2022-10-20
 
-Ellipsoidal Universe Cosmology (P. Cea)  EUC / euc .pdf document / 2022-01-12
+## [Ellipsoidal Universe Cosmology](./euc-20220112.pdf)
+**by P. Cea** - 2022-1-12
 
-Asymmetric Cosmic Time (H. Fritsch)  ACT / act .pdf document / 2020-08-31
+## [Multibang in 3D-Local/4D-Whole universe](./m-34du-20210319.pdf)
+**by O. Santavuori** - 2021-3-19
 
-Milne Model of Cosmology (R.G. Vishwakarma)  MMC / mmc .pdf document / 2018-10-03
+## [Asymmetric Cosmic Time](./act-20200831.pdf)
+**by H. Fritsch** - 2020-8-31
 
-Emergent Laws of Nature (E.A. Novikov)  ELN / eln .pdf document / 2018-01-25
+## [Time Dilation/Big Crunch universe](./tdbc-20200206.pdf)
+**by R. Ravenhall** - 2020-2-6
 
-Multibang in 3D-Local/4D-Whole universe (O. Santavuori)  M-34DU / m-34du .pdf document / 2021-03-19
+## [Local Multibang Expansions Theory of cosmology](./lmxt-20200131.pdf)
+**by A. Trépanier** - 2020-1-31
 
-3 Folds and 5 Dimensional universe (Y.V. Chavan)  TFFD / tffd .pdf document / 2018-12-5
+## [Hypersphere World-universe model](./wum-20200117.pdf)
+**by V. Netchitailo** - 2020-1-17
 
-Relativistic Field Theory of Gravity (A.A. Logunov)  RTG / rtg .pdf document / 2003-5-8
+## [Alternative Universe cosmology](./altu-20190313.pdf)
+**by I. Miller** - 2019-3-13
 
-Local Multibang Expansions Theory of cosmology (A. Trépanier)  LMXT / lmxt .pdf document / 2020-1-31
+## [3 Folds and 5 Dimensional universe](./tffd-20181205.pdf)
+**by Y.V. Chavan** - 2018-12-5
 
-Janus Cosmological Model (J.-P. Petit, J. Barbour)  JCM / jcm .pdf document / 2014-6-27
+## [Leibniz-Mach cosmology](./lm-20181203.pdf)
+**by D.F. Roscoe** - 2018-12-3
 
-Time Dilation/Big Crunch universe (R. Ravenhall)  TDBC / tdbc .pdf document / 2020-2-6
+## [Λ Cold Dark Matter cosmology](./lcdm-20190416.pdf)
+**summary by L. Marmet** - 2018-11-15
 
-Hypersphere World-universe model (V. Netchitailo)  WUM / wum .pdf document / 2020-1-17
+## [Milne Model of Cosmology](./mmc-20181003.pdf)
+**by R.G. Vishwakarma** - 2018-10-3
 
-[Eternally Collapsing Objects cosmology](https://iopscience.iop.org/article/10.1088/1475-7516/2013/03/007) (A. Mitra)  ECO / eco .pdf document / 2009-7-9
+## [Dynamic universe](./du-20180913.pdf)
+**by T. Suntola** - 2018-9-13
 
-Quasy-Steady-State Cosmology (J. Narlikar, F. Hoyle, G. Burbidge)  QSSC / qssc .pdf document / 2008-1-18
+## [De Sitter-Type cosmology](./dst-20180202.pdf)
+**by M. Mizony** - 2018-2-2
 
-Dynamic Steady State Universe (C. Ranzan)  DSSU / dssu .pdf document / 2008-3-27
+## [Scale-Factor Redshift cosmology](./sfr-20180127.pdf)
+**by J. Hunter** - 2018-1-27
 
-Conformal Gravity cosmology (P. Mannheim)  CGC / cgc .pdf document / 2011-10-27
+## [Emergent Laws of Nature](./eln-20180125.pdf)
+**by E.A. Novikov** - 2018-1-25
 
-De Sitter-Type cosmology (M. Mizony)  DST / dst .pdf document / 2018-2-2
+## [Janus Cosmological Model](./jcm-20140627.pdf)
+**by J.-P. Petit, J. Barbour** - 2014-6-27
 
-Dynamic universe. (T. Suntola)  DU / [du ](https://cosmology.info/essays/models_marmet/du-20180913.pdf).pdf document / 2018-9-13
+## [Conformal Gravity cosmology](./cgc-20111027.pdf)
+**by P. Mannheim** - 2011-10-27
 
-Alternative Universe cosmology (I. Miller)  AltU / altu .pdf document / 2019-3-13
+## [Eternally Collapsing Objects cosmology](./eco-20090709.pdf)
+**by A. Mitra** [Journal](https://iopscience.iop.org/article/10.1088/1475-7516/2013/03/007) - 2009-7-9
 
-Λ Cold Dark Matter cosmology  ΛCDM / lcdm .pdf document / 2018-11-15
+## [Fractal cosmos](./frcmos-20080911.pdf)
+**by H. Schmitz** - 2008-9-11
 
-Self Creation cosmology (G.A. Barber)  SCC / scc .pdf document / 2005-12-22
+## [Dynamic Steady State Universe](./dssu-20080327.pdf)
+**by C. Ranzan** - 2008-3-27
 
-Fractal cosmology (Y. Baryshev)  FrCosmology / [frclogy ](https://cosmology.info/essays/models_marmet/frclogy-20050510.pdf).pdf document / 2005-5-10
+## [Quasy-Steady-State Cosmology](./qssc-20080118.pdf)
+**by J. Narlikar, F. Hoyle, G. Burbidge** - 2008-1-18
 
-Fractal cosmos (H. Schmitz)  FrCosmos / frcmos .pdf document / 2008-9-11
+## [Gravity Nullification model](./gnm-20071029.pdf)
+**by A. Singh** - 2007-10-29
 
-Leibniz-Mach cosmology (D.F. Roscoe)  LM / [lm ](https://cosmology.info/essays/models_marmet/lm-20181203.pdf).pdf document / 2018-12-3
+## [Modified Gravity Cosmological model](./mog-20061217.pdf)
+**by J. Moffat** - 2006-12-17
 
-Scale-Factor Redshift cosmology (J. Hunter)  SFR / sfr .pdf document / 2018-1-27
+## [Self Creation cosmology](./scc-20051222.pdf)
+**by G.A. Barber** - 2005-12-22
 
-Time-Varying-Gravity cosmology (H. Yilmaz)  TVG / tvg .pdf document / 2005-9-22
+## [Time-Varying-Gravity cosmology](./tvg-20050922.pdf)
+**by H. Yilmaz** - 2005-9-22
 
-Modified Gravity Cosmological model (J. Moffat)  MOG / mog .pdf document / 2006-12-17
+## [Fractal cosmology](./frclogy-20050510.pdf)
+**by Y. Baryshev** - 2005-5-10
 
-Gravity Nullification model (A. Singh)  GNM / gnm .pdf document / 2007-10-29
+## [Euclidean Hypersphere universe](./eh-20040224.pdf)
+**by J. Almeida** - 2004-2-24
 
-Euclidean Hypersphere universe (J. Almeida)  EH / [eh ](https://cosmology.info/essays/models_marmet/eh-20040224.pdf).pdf document / 2004-2-24
+## [Relativistic Field Theory of Gravity](./rtg-20030508.pdf)
+**by A.A. Logunov** - 2003-5-8
 
-Large-Number-Hypothesis cosmology (P. Dirac)  LNH / lnh .pdf document / 1973-12-3
+## [Large-Number-Hypothesis cosmology](./lnh-19731203.pdf)
+**by P. Dirac** - 1973-12-3
 
-Quaternion Energy in a Static universe (W. Lindsay)  QE-S / no summary is available
+## Quaternion Energy in a Static universe
+**by W. Lindsay** - 
 
-Machian universe / Jordan–Brans–Dicke theory (C. Brans)  MU-JBD / no summary is available
+## Machian universe / Jordan–Brans–Dicke theory
+**by C. Brans** - 
 
-Modified Newtonian Dynamics cosmology (M. Milgrom)  MOND / no summary is available
+## Modified Newtonian Dynamics cosmology - MOND
+**by M. Milgrom** - 
 
-Tensor–vector–scalar gravity cosmology (J. Bekenstein)  TeVeS / no summary is available
+## Tensor–vector–scalar gravity cosmology - TeVeS
+**by J. Bekenstein** -
 
+---
 
 © 2018--2023 ACG
