@@ -5,11 +5,19 @@ nav_order: 5
 ---
 
 # Redshift Models
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 
 ## Models based on *d(hν) = – H (hν) dt*
-***Nernst 1937*** [auf Deutsch](https://doi.org/10.1007/BF01339902), [in English](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3NER.PDF))
+***Nernst 1937*** ([auf Deutsch](https://doi.org/10.1007/BF01339902), [in English](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3NER.PDF))
 
-### Light - Light
+### Light - Light Interaction
 
 Energy-momentum tensor non-conservation of a photon propagating through EM fields  
 [(A.D.A.M. Spallicci et al. 2020)](https://arxiv.org/abs/2011.12608)
@@ -29,7 +37,7 @@ The photon has a finite dipole moment which radiates energy
 Photons lose energy by traversing a radiation field via a photon-photon interaction  
 [(E. Finlay-Freundlich 1954)](https://www.tandfonline.com/doi/abs/10.1080/14786440308520453)
 
-### Light - Hydrogen
+### Light - Hydrogen Interaction
 
 Photon energy loss in interactions with hydrogen atoms  
 [(M.-H. Shao et al. 2018)](https://www.intechopen.com/books/redefining-standard-model-cosmology/tired-light-denies-the-big-bang)
@@ -43,7 +51,7 @@ The redshift results from the interaction of light with molecular hydrogen
 Photon momentum polarizes hydrogen atoms which emit a small amount of energy  
 [(P. Marmet 1988)](https://www.newtonphysics.on.ca/hubble/index.html)
 
-### Light - Electron
+### Light - Electron Interaction
 
 Light interaction with electrons  
 [(L. Ashmore 2015)](https://www.researchgate.net/publication/228532260_An_Explanation_of_Redshift_in_a_Static_Universe)
@@ -78,7 +86,7 @@ Electrons emit Huygens secondary wavelets, the Compton effect produces the energ
 Photons supply kinetic energy to electrons resulting in a lengthening of their wavelength  
 [(H.S. Shelton 1953)](http://adsabs.harvard.edu/full/1953Obs....73...84S)
 
-### Light - Quantum
+### Light - Quantum Interaction
 
 Light is a wave within a particulate medium and loses energy with its motion  
 [(G. Borchardt 2015)](https://www.researchgate.net/publication/221706053_Infinite_universe_theory)
@@ -104,7 +112,7 @@ Cosmological space conducts electricity
 A photon, an extended wave plus a singularity, loses energy into the subquantum medium  
 [(L. de Broglie 1960)](https://www.researchgate.net/publication/226438637_De_Broglie_Tired_Light_Model_and_the_Reality_of_the_Quantum_Waves)
 
-### Light - Gravity
+### Light - Gravity Interaction
 
 Energy loss in the gravitational field of matter in the cosmic environment  
 [(A. Barenbaum 2021)](https://www.researchgate.net/publication/355967347_Hubble%27s_Law_and_the_Cosmic_Microwave_Background_in_the_Absence_of_the_Big_Bang)
@@ -145,7 +153,7 @@ A photon forced to move a curved path in a gravitational field emits gravitons
 Photons passing near a mass are deflected, transfer momentum and energy to the mass  
 [(F. Zwicky 1935)](https://journals.aps.org/pr/abstract/10.1103/PhysRev.48.802)
 
-### Light - Dust
+### Light - Dust Interaction
 
 Energy loss in interaction with dust  
 [(W. Jim Jastrzebski 2010)](http://www.fuw.edu.pl/%7Ewjast/HRinEU.pdf)
@@ -162,7 +170,7 @@ Redshift is an effect upon light waves due to cumulative material obstruction
 Intergalactic dust offers resistance to light from distant nebulae  
 [(W. Arx 1932)](https://ui.adsabs.harvard.edu/abs/1932PA.....40..438V/abstract)
 
-### Light - Aether
+### Light - Aether Interaction
 
 Photon energy dissipation in the fabric of spacetime  
 (C. Roth based on [M. Danielewski 2020)](https://www.mdpi.com/1099-4300/22/12/1424)
@@ -182,7 +190,7 @@ The carrier of light, aether, subjects EM-field waves to constant fading
 The vacuum has small internal friction, imposing damping and a variable speed of light  
 [(E.I. Shtyrkov 1993)](https://link.springer.com/chapter/10.1007/978-1-4899-1225-1_21)
 
-### Inherent
+### Inherent Energy Loss
 
 The energy dissipated per cycle by a photon is the product of the Planck and the Hubble constants  
 [(W.D. Zhang 2020)](https://www.researchgate.net/publication/341883206_A_profound_advance_in_the_understanding_of_photons_the_foundation_theory_of_physics_and_astronomical_observations)
@@ -248,22 +256,22 @@ Decreasing speed of light with time
 
 ## Alternative Tired-Light Redshift Mechanism
 
-### Light - Aether
+### Light - Aether Interaction
 
 Photon momentum transfer to the cosmic medium  
 [(M. Edwards 2022)](https://arxiv.org/abs/2205.02776)
 
-### Light - Electron
+### Light - Electron Interaction
 
 When light crosses a thin plasma, free electrons are accelerated and radiate the energy  
 [(H. Weidner 2014)](https://vixra.org/abs/1405.0209)
 
-Light - Quantum
+### Light - Quantum Interaction
 
 Quantum effect causing a wavelength increase  
 [(A. Belopolsky 1929)](https://ui.adsabs.harvard.edu/abs/1929AN....236..357B/abstract)
 
-### Light - Gravity  
+### Light - Gravity Interaction
 
 Transverse gravitational redshift  
 [(A. Mayer 2017)](https://www.academia.edu/31773606/Transverse_Gravitational_Redshift_a_previously_unmodeled_relativistic_gravitational_phenomenon_having_a_subtle_measurable_effect_on_time_metrology_and_spacecraft_telemetry)
@@ -292,7 +300,7 @@ A light beam leaves behind more and more mass, causing an increasing gravitation
 Galactic mass decreases with time  
 [(M. Eigenson 1932)](https://ui.adsabs.harvard.edu/abs/1932ZA......4..224E/abstract)
 
-### Inherent
+### Inherent Energy Loss
 
 Energy loss to the entirety of the expanding wavefront  
 [(B. Rapanault 2020)](http://thisislanduniverse.com/)
@@ -300,7 +308,7 @@ Energy loss to the entirety of the expanding wavefront
 Dispersive extinction produces a redshift due to the finite linewidth of radiation  
 [(L. Jun Wang 2012)](https://ui.adsabs.harvard.edu/abs/2012APS..APR.L7009W/abstract)
 
-### Time-Varying
+### Time-Varying Effect
 
 Light speed is variable resulting in a gravitational cosmic redshift  
 [(R.H.V. Gallucci 2016)](https://vixra.org/abs/1608.0425)
