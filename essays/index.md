@@ -119,3 +119,7 @@ dominant theory of cosmology. Increasing numbers of astronomers are thinking tha
 at the new data, examine the difficulties facing the Big Bang and to discuss entirely different views of the universe and its
 history, including those without a Big Bang, some three dozen astrophysicists will converge on the village of Moncao,
 Portugal for the First Crisis In Cosmology Conference June 23-25.
+
+---
+
+© 2020–2023 ACG
