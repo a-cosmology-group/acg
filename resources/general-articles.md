@@ -52,7 +52,7 @@ Jean-Claude Pecker (1923-2020) had doubts about Big Bang model.
 ## [In other words, ΛCDM is wrong or incomplete](https://www.quantamagazine.org/what-shape-is-the-universe-closed-or-flat-20191104/)
 2020 February 20
 
-#[Post empirical science is an oxymoron and it is dangerous. But is it science?](https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
+## [Post empirical science is an oxymoron and it is dangerous. But is it science?](https://aeon.co/essays/post-empirical-science-is-an-oxymoron-and-it-is-dangerous)
 **by Jim Baggott** - aeon - 2019 Oct. 7
 
 There is no agreed criterion to distinguish science from pseudoscience, or just plain ordinary bullshit, opening the door to all manner of metaphysics masquerading as science. This is ‘post-empirical’ science, where truth no longer matters, and it is potentially very dangerous.
