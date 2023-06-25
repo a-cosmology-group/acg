@@ -1,6 +1,7 @@
 ---
 title: Tension with cosmological models
 layout: default
+nav_exclude: true
 ---
 
 # Observations at tension with cosmological models

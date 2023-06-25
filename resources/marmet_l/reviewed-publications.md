@@ -1,6 +1,7 @@
 ---
 title: Reviewed Publications
 layout: default
+nav_exclude: true
 ---
 
 # Reviewed Publications
