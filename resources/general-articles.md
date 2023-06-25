@@ -1,8 +1,7 @@
 ---
 title: General Articles
 layout: default
-nav_order: 990
-parent: Resources
+nav_order: 7
 ---
 
 # General Articles on Cosmology
