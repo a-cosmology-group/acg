@@ -18,7 +18,7 @@ nav_order: 5
 
 
 ## Models based on *d(hν) = – H (hν) dt*
-***Nernst 1937*** ([auf Deutsch](https://doi.org/10.1007/BF01339902), [in English](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3NER.PDF))
+(C.f. ***Nernst 1937***, [auf Deutsch](https://doi.org/10.1007/BF01339902), [in English](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3NER.PDF))
 
 ### Light - Light Interaction
 

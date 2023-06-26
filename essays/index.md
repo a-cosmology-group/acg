@@ -7,7 +7,7 @@ nav_order: 3
 # Essays on cosmology
 {: .no_toc }
 
-Comments on the Big Bang model, the scientific method, the cosmologists, philosophy, etc.
+Comments on the Big Bang model, the scientific method, cosmologists, philosophy, etc.
 
 <details markdown="block">
   <summary>
