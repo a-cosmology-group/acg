@@ -31,7 +31,7 @@ In the scientific sense, infinity does not exist. That’s because scientificall
 ### [The Crisis in Cosmology is now catastrophic](https://darkmattercrisis.wordpress.com/2020/11/10/the-crisis-in-cosmology-is-now-catastrophic/)
 **by Pavel Kroupa** - The Dark Matter Crisis - 2020 Nov. 10
 
-Below are recent scientific developments which strongly suggest that the standard model of cosmology (the SMoC) which relies on the existence of cold or warm dark matter (C/WDM) particles is not a correct description of the observed Universe.
+Recent scientific developments strongly suggest that the standard model of cosmology (the SMoC) which relies on the existence of cold or warm dark matter (C/WDM) particles is not a correct description of the observed Universe.
 
 ### [A pre-history of the prediction of the amplitude of the second peak of the cosmic microwave background](https://tritonstation.com/2020/07/29/a-pre-history-of-the-prediction-of-the-amplitude-of-the-second-peak-of-the-cosmic-microwave-background/)
 **by Stacy McGaugh** - tritonstation - 2020 July. 29
@@ -49,7 +49,7 @@ The initial conditions are always assumptions that the theory does not justify.
 ### [Autoanalyse du parcours scientifique](https://www.college-de-france.fr/fr/personne/jean-claude-pecker)
 **by Jean-Claude Pecker** - 2020 February 20 [In French]
 
-Jean-Claude Pecker (1923-2020) had doubts about Big Bang model. "J'ai régulièrement exprimé des doutes sur le modèle standard (dit du « big bang ») et suggéré des solutions alternatives, mais partielles. Je continue à penser que l'on est loin d'une solution cohérente des problèmes cosmologiques."
+Jean-Claude Pecker (1923-2020) had doubts about Big Bang model. "*J'ai régulièrement exprimé des doutes sur le modèle standard (dit du « big bang ») et suggéré des solutions alternatives, mais partielles. Je continue à penser que l'on est loin d'une solution cohérente des problèmes cosmologiques.*"
 
 ### [Why Physics has made no Progress in 50 Years](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292)
 2020 February 20
@@ -101,11 +101,6 @@ The most mysterious phenomenon in cosmology – dark energy – may not exist at
 
 The field of cosmology is in a state of "degenerating problemshift" in the language of Imre Lakatos. I show that the "concordance" argument is weaker than the arguments that were made in the past in support of the atomic theory of matter or the quantization of energy.
 
-### [Reviewed Publications: challenging Cosmological Models](./reviewed-publications.md)
-**by Louis Marmet** - ACG - 2018/2020
-
-Papers challenging cosmological models and observational data of interest to ACG.
-
 ### [Has dogma derailed the scientific search for dark matter?](https://aeon.co/ideas/has-dogma-derailed-the-scientific-search-for-dark-matter)
 **by Pavel Kroupa** - aeon - 2016 Nov. 25
 
@@ -155,16 +150,18 @@ The latest measurements of the Hubble constant make the Big Bang account of the 
 2018 November 6
 
 ### [Obituary by Roger Penrose: Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
-2018 March 14
+**by Roger Penrose** - 2018 March 14
 
 ### [Jayant Narlikar’s personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
 2018 March 8
 
 
-### Technical Publications
+## Technical Publications
 
-## [Reviewed Publications](./marmet_l/reviewed-publications.html)
-**by Louis Marmet** - 2018 December
+### [Reviewed Publications: challenging Cosmological Models](./marmet_l/reviewed-publications.html)
+**by Louis Marmet** - ACG - 2018/2020
+
+Papers challenging cosmological models and observational data of interest to ACG.
 
 ## [Observations at tension with cosmological models](./marmet_l/tension-with-models.html)
 **by Louis Marmet** - 2018 December
