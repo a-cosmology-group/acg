@@ -7,54 +7,77 @@ parent: Cosmological Models
 
 # Non-Expanding Cosmologies
 
-Particle Evolution Model (J. de Climont)  PEM / ium .pdf document / 2022-1-15
+## [Particle Evolution Model](./pem-20220115.pdf)
+**by J. de Climont** - 2022-1-15
 
-Island Universe Model (B. Rapanault)  IUM /[ ium ](https://cosmology.info/essays/models_marmet/pem-20220115.pdf).pdf document / 2020-4-13
+## [Island Universe Model](./ium-20200413.pdf)
+**by B. Rapanault** - 2020-4-13
 
-Hypersphere cosmology (P. Carroll)  HyC / hyc .pdf document / 2020-4-1
+## [Hypersphere cosmology](./hyc-20200401.pdf)
+**by P. Carroll** - 2020-4-1
 
-Electric universe (W. Thornhill)  EU / [eu ](https://cosmology.info/essays/models_marmet/eu-20120711.pdf).pdf document / 2012-7-11
+## [Quantum Dipole Repeller Gravity and Contracting universe](./qdrg-c-20170328.pdf)
+**by L. Vuyk** - 2017-3-28
 
-Einstein–Cartan–Evans Cosmology (M. Evans)  ECE / ece .pdf document / 2010-9-19
+## [Electric universe](./eu-20120711.pdf)
+**by W. Thornhill** - 2012-7-11
 
-Varying speed of light Newtonian-Type cosmology (Y.-H. Sanejouand)  VSLN / vsln .pdf document / 2009-12-6
+## [Static Infinite Self-Sustainable universe](./siss-20120625.pdf)
+**by E. Lopez Sandoval** - 2012-6-25
 
-Geometry of Time cosmology (A. Mayer)  GOT / got .pdf document / 2009-2-24
+## [Einstein–Cartan–Evans Cosmology](./ece-20100919.pdf)
+**by M. Evans** - 2010-9-19
 
-Thermodynamic universe (B. Bligh)  ThU / thu .pdf document / 2008-9-11
+## [Varying speed of light Newtonian-Type cosmology](./vsln-20091206.pdf)
+**by Y.-H. Sanejouand** - 2009-12-6
 
-Quantum Celestial mechanics (H.G. Preston, F. Potter)  QCM / qcm .pdf document / 2007-1-22
+## [Non-Uniform Time cosmology](./nut-20091129.pdf)
+**by E. Poliakov** - 2009-11-29
 
-New-Redshift-Interpretation cosmology (R. Gentry)  NRI / nri .pdf document / 1997-9-11
+## [Geometry of Time cosmology](https://www.sensibleuniverse.net/pages/book.html)
+**by A. Mayer** - 2009-2-24
 
-Dispersive Extinction in a Static Infinite universe (L. Jun Wang)  DE-SI / [de-si ](https://cosmology.info/essays/models_marmet/de-si-20040608.pdf).pdf document / 2004-6-8
+## [Thermodynamic universe](./thu-20080911.pdf)
+**by B. Bligh** -  2008-9-11
 
+## [Dynamic Universe Model of cosmology](./dum-20070926.pdf)
+**by S.N.P. Gupta** - 2007-9-26
 
-Dynamic Universe Model of cosmology (S.N.P. Gupta)  DUM / dum .pdf document / 2007-9-26
+## [Quantum Celestial mechanics](./qcm-20070122.pdf)
+**by H.G. Preston, F. Potter** - 2007-1-22
 
-Static Infinite Self-Sustainable universe (E. Lopez Sandoval)  SISS / siss .pdf document / 2012-6-25
+## [Lobachevsky Space cosmology](./ls-20061011.pdf)
+**by J.G. von Brzeski et al.** - 2006-10-11
 
-Scale Expanding cosmos (J. Masreliez)  SXC / sxc .pdf document / 2004-7-5
+## [Finite Graviton Half-Life in a Non-Expanding universe](./fghl-nx-20050125.pdf)
+**by R. Driscoll** - 2005-1-25
 
-Non-Uniform Time cosmology (E. Poliakov)  NUT / nut .pdf document / 2009-11-29
+## [Scale Expanding cosmos](./sxc-20040705.pdf)
+**by J. Masreliez** - 2004-7-5
 
-Lobachevsky Space cosmology (J.G. von Brzeski et al.)  LS / [ls ](https://cosmology.info/essays/models_marmet/ls-20061011.pdf).pdf document / 2006-10-11
+## [Dispersive Extinction in a Static Infinite universe](./de-si-20040608.pdf)
+**by L. Jun Wang** - 2004-6-8
 
-Finite Graviton Half-Life in a Non-Expanding universe (R. Driscoll)  FGHL-NX / fghl-nx .pdf document / 2005-1-25
+## [Mass Boom cosmology](./mb-20030218.pdf)
+**by A. Alfonso-Faus** - 2003-2-18
 
-Mass Boom cosmology (A. Alfonso-Faus)  MB / [mb ](https://cosmology.info/essays/models_marmet/mb-20030218.pdf).pdf document / 2003-2-18
+## [New-Redshift-Interpretation cosmology](./nri-19970911.pdf)
+**by R. Gentry** - 1997-9-11
 
-Quantum Dipole Repeller Gravity and Contracting universe (L. Vuyk)  QDRG-C / [qdrg ](https://cosmology.info/essays/models_marmet/qdrg-c-20170328.pdf).pdf document / 2017-3-28
+## [Chronometric cosmology](chrc-19751219.pdf)
+**by I. Segal** - 1975-12-19
 
-Chronometric cosmology (I. Segal)  ChrC / chrc .pdf document / 1975-12-19
+## [Australian Aborigine Creation Story](./australian-aborigine-creation-myth/)
+**Australian aborigine oral tradition**
 
-Australian Aborigine Creation Story (Australian aborigine)  AACM / oral tradition
+## [Iroquois Creation Story](iroquois-creation-myth/)
+**Iroquois oral tradition**
 
-Iroquois Creation Story (Iroquois)  IrCM / oral tradition
+## [Japanese Creation Story](./japanese-creation-myth.html)
+**Japanese oral tradition**
 
-Japanese Creation Story (Japanese)  JaCM / oral tradition
-
-Infinite universe (J.B. Eichler)  IU / no summary is available
+## Infinite universe
+**by J.B. Eichler** - no summary is available
 
 ---
 
