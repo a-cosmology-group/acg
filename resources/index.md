@@ -163,7 +163,7 @@ The latest measurements of the Hubble constant make the Big Bang account of the 
 
 Papers challenging cosmological models and observational data of interest to ACG.
 
-## [Observations at tension with cosmological models](./marmet_l/tension-with-models.html)
+### [Observations at tension with cosmological models](./marmet_l/tension-with-models.html)
 **by Louis Marmet** - 2018 December
 
 ---
