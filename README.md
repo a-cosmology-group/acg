@@ -3,43 +3,43 @@
 
 ## Navigation structure of the ACG website [just-the-docs](https://just-the-docs.com/):
 
-```
-├─ A Cosmology Group [nav_order: 1]
-│  ├─ Open Letter to the Scientific Community
-│  ├─ ACG Organization
-├─ ACG Newsletters [nav_order: 2]
-├─ Essays [nav_order: 3]
-│  ├─ [essay-1] ...
-├─ Cosmological Models [nav_order: 4]
-│  ├─ [model-1] ...
-│  ├─ Time-Dependent Cosmologies
-│  │  ├─ [models] ...
-│  ├─ Spectral-Redshift Cosmologies
-│  │  ├─ [models] ...
-│  ├─ Non-Expanding Cosmologies
-│  │  ├─ [models] ...
-├─ Redshift Models [nav_order: 5]
-│  ├─ [models] ...
-├─ Gravity Models [nav_order: 6]
-│  ├─ [models] ...
-├─ Resources [nav_order: 7]
-│  ├─ [resource-1] ...
-├─ Code [nav_order: 8]
-│  ├─ [code-1] ...
-├─ Conferences [nav_order: 9]
-│  ├─ CCC-1
-│  ├─ CCC-2
+├─ A Cosmology Group [nav_order: 1]  
+│  ├─ Open Letter to the Scientific Community  
+│  ├─ ACG Organization  
+├─ ACG Newsletters [nav_order: 2]  
+├─ Essays [nav_order: 3]  
+│  ├─ [essay-1] ...  
+├─ Cosmological Models [nav_order: 4]  
+│  ├─ [model-1] ...  
+│  ├─ Time-Dependent Cosmologies  
+│  │  ├─ [models] ...  
+│  ├─ Spectral-Redshift Cosmologies  
+│  │  ├─ [models] ...  
+│  ├─ Non-Expanding Cosmologies  
+│  │  ├─ [models] ...  
+├─ Redshift Models [nav_order: 5]  
+│  ├─ [models] ...  
+├─ Gravity Models [nav_order: 6]  
+│  ├─ [models] ...  
+├─ Resources [nav_order: 7]  
+│  ├─ [resource-1] ...  
+├─ Videos [nav_order: 8]  
+│  ├─ [video-1] ...  
+├─ Code [nav_order: 9]  
+│  ├─ [code-1] ...  
+├─ Conferences [nav_order: 10]  
+│  ├─ CCC-1  
+│  ├─ CCC-2  
 │  ├─ [conference-N] ...
-```
+
 
 ## Corresponding **folder** structure in `a-cosmology-group/acg` repo:
 
 ```
 ├─ index.md
 ├─ org
-│  ├─ index.md
-│  ├─ open-letter-on-cosmology.md
 │  ├─ acg-organization.md
+│  ├─ open-letter-on-cosmology.md
 ├─ newsletters
 │  ├─ index.md [acg-newsletter.pdf] ...
 ├─ essays
@@ -49,14 +49,11 @@
 │  ├─ [author_b] ...
 ├─ models
 │  ├─ index.md
-│  ├─ [model-1]
-│  │  ├─ [model.md] [model.pdf] ...
-│  ├─ [model-2] ...
-│  ├─ non-expanding-cosmologies
+│  ├─ time-dependent-cosmologies
 │  │  ├─ index.md ...
 │  ├─ spectral-redshift-cosmologies
 │  │  ├─ index.md ...
-│  ├─ time-dependent-cosmologies
+│  ├─ non-expanding-cosmologies
 │  │  ├─ index.md ...
 ├─ redshift
 │  ├─ index.md
@@ -73,6 +70,8 @@
 │  ├─ [author_a]
 │  │  ├─ [resource.md] [resource.pdf] ...
 │  ├─ [author_b] ...
+├─ videos
+│  ├─ index.md
 ├─ code
 │  ├─ index.md
 │  ├─ [author_a]

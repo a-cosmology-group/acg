@@ -5,6 +5,9 @@ nav_order: 1
 parent: Conferences
 ---
 
+
+![CCC-1](./ccc1.gif)
+
 # CCC-1 2005 Conference
 {: .no_toc }
 
@@ -13,8 +16,6 @@ parent: Conferences
 Challenging Observations and the Quest for a New Picture of the Universe
 
 June 23-25, 2005 - Monção, Portugal
-
-![CCC-1](./ccc1.gif)
 
 CCC-I will consider the present state of understanding of the universe in the light of the increasing number of observations that challenge the conventional cosmological model. Participants will address observations such as the non-Gaussianity of the CMB, the excessive apparent ages of high-z galaxies, discrepancies in dark matter observations, the early formation of large-scale structure, the increasingly discordant results for light element abundances, the angular-size/redshift relation, and others. There will be critical examination of the adequacy of current cosmological models - including their theoretical foundations - to accommodate recent challenges. There will be consideration of viable alternative explanations (including Cosmologies without a Big Bang) and proposals for discriminating observational tests.
 
