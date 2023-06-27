@@ -5,14 +5,14 @@ nav_order: 2
 parent: Conferences
 ---
 
+![CCC-2](ccc2.gif) 
+
 # CCC-2 2008 Conference
 {: .no_toc }
 
 **SECOND CRISIS IN COSMOLOGY CONFERENCE**  
 "Challenges to Consensus Cosmology and the Quest for a New Picture of the Universe"  
 2008 September 7–11 - Port Angeles, Washington, USA
-
-![CCC-2](assets/ccc2.gif) 
 
 The ACG, in collaboration with the International Academy for Cosmological Studies (IACS) and with Meta Research (MRI), cordially invites everyone interested in the history and nature of the universe to attend this conference, and invites qualified colleagues to participate in the talks, panels, and discussions.
 

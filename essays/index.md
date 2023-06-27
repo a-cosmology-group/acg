@@ -34,7 +34,7 @@ The basic nature of the universe--finite and evolving as a whole or infinite and
 
 The sciences have evolved around elastic collisions although most collisions are inelastic.  Inelastic collisions create photons.  This has led to consideration of an ensemble of inelastic collisions producing CMB.  This will further lead to brief discussions concerning the nature of dark matter, and dark energy.
 
-## [Embarrassing blunders in Big Bang cosmology](./traunmueller/embarrassing-blunders-in-big-bang.pdf)
+## [Embarrassing blunders in Big Bang cosmology](./traunmueller_h/embarrassing-blunders-in-big-bang.pdf)
 **by Hartmut Traunmüller** - 2020 November 15
 
 In Big Bang cosmology, the universe expanded from a very dense, hot and opaque initial state. It became transparent when it had expanded for 380,000 years and cooled to about 3000 kelvins. At this stage, light was last scattered by elementary particles and released. The light waves were then further stretched by the expansion of the universe. They are now, 13.7 billion years later, about 1100 times longer. This is thought to have resulted in the observable thermal radiation with 2.7 kelvins – the cosmic microwave background (CMB).
@@ -51,7 +51,7 @@ Few cosmologists will want to admit this, but the Big Bang model is in desperate
 
 The accelerating going away of the galaxies from the eyes of the observer happens because of the infinite – no edge – property of the universe. It does not mean the expansion of the space itself, as the Big Bang-theory concludes and supposes.
 
-## [Big Bang Cosmology Funeral](.sorli_as/big-bang-cosmology-funeral_sorli.pdf)
+## [Big Bang Cosmology Funeral](./sorli_as/big-bang-cosmology-funeral_sorli.pdf)
 **by A.S. Šorli** - 2020 March 4
 
 Physics is built by measured data. Cosmology also should be built on measured data.
@@ -94,17 +94,17 @@ Galaxies, like people, can be complicated and strange, and interact in a very pe
 And that is what we shall deal with here – with such a complex and, to a degree, indomitable universe.
 One of the first astronomers to embrace the “weird” galaxies was the American Halton Christian Arp.
 
-## [Growing mass of evidence challenges “concordance cosmology” but elicits no response.](.lerner_ej/concordance-cosmology-challenged.pdf)
+## [Growing mass of evidence challenges “concordance cosmology” but elicits no response.](./lerner_ej/concordance-cosmology-challenged.pdf)
 **by Eric Lerner and Richard Lieu** - 2009 July 9
 
 In the past year, but particularly in the past three months, a growing number of astrophysical papers have revealed results that challenge the “precision cosmology” notion in fundamental ways.
 
-## [New Results Challenge Big Bang theory at Portugal Conference](.lerner_ej/new-results-challenge-big-bang-at-ccc-1.pdf)
+## [New Results Challenge Big Bang theory at Portugal Conference](./lerner_ej/new-results-challenge-big-bang-at-ccc-1.pdf)
 **by Eric Lerner, Jose Almeida, and Riccardo Scarpa** - 2005 July 1
 
 Three dozen physicists and astronomers reviewed the evidence for and against the Big Bang theory of the universe and alternatives to it at the first Crisis in Cosmology Conference in Moncao, Portugal, June 23-25. The conference, organized by the Alternative Cosmology Group, was a response to a flood of new observations that challenge the predictions of the Big Bang, the dominant theory of cosmology, and that have led increasing numbers of astronomers to think that the field has entered a crisis.
 
-## [First Crisis In Cosmology Conference](.lerner_ej/alternatives-to-big-bang-at-ccc-1.pdf)
+## [First Crisis In Cosmology Conference](./lerner_ej/alternatives-to-big-bang-at-ccc-1.pdf)
 **by Eric J. Lerner, Jose Almeida, and Riccardo Scarpa** - 2005 July 1
 
 **CCC-I**  
