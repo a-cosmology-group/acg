@@ -16,6 +16,28 @@ nav_order: 7
 {:toc}
 </details>
 
+
+## Cosmology Papers
+
+### [Reviewed Publications: challenging Cosmological Models](./marmet_l/reviewed-publications.html)
+**by Louis Marmet** - ACG - 2023 June 28
+
+Papers challenging cosmological models and observational data of interest to ACG.
+
+### [Observations at tension with cosmological models](./marmet_l/tension-with-models.html)
+**by Louis Marmet** - 2023 June 27
+
+### [The Crisis in Cosmology is now catastrophic](https://darkmattercrisis.wordpress.com/2020/11/10/the-crisis-in-cosmology-is-now-catastrophic/)
+**by Pavel Kroupa** - The Dark Matter Crisis - 2020 Nov. 10
+
+Recent scientific developments strongly suggest that the standard model of cosmology (the SMoC) which relies on the existence of cold or warm dark matter (C/WDM) particles is not a correct description of the observed Universe.
+
+### [A pre-history of the prediction of the amplitude of the second peak of the cosmic microwave background](https://tritonstation.com/2020/07/29/a-pre-history-of-the-prediction-of-the-amplitude-of-the-second-peak-of-the-cosmic-microwave-background/)
+**by Stacy McGaugh** - tritonstation - 2020 July. 29
+
+In this period, I worked very hard to make things work out for CDM. It had to be so! Yet every time I thought I had found a solution, I realized that I had imposed an assumption that guaranteed the desired result.
+
+
 ## General Articles
 
 ### [Escaping cosmology's failing paradigm](https://iai.tv/articles/escaping-cosmologys-failing-paradigm-auid-1964?_auid=2020)
@@ -27,16 +49,6 @@ The current orthodoxy of cosmology rests on unexamined assumptions that have mas
 **by Sabine Hossenfelder** - BackRe(Action) - 2020 Dec. 5
 
 In the scientific sense, infinity does not exist. That’s because scientifically we can only say that an element of a theory of nature “exists” if it is necessary to describe observations. And since we cannot measure infinity, we do not actually need it to describe what we observe.
-
-### [The Crisis in Cosmology is now catastrophic](https://darkmattercrisis.wordpress.com/2020/11/10/the-crisis-in-cosmology-is-now-catastrophic/)
-**by Pavel Kroupa** - The Dark Matter Crisis - 2020 Nov. 10
-
-Recent scientific developments strongly suggest that the standard model of cosmology (the SMoC) which relies on the existence of cold or warm dark matter (C/WDM) particles is not a correct description of the observed Universe.
-
-### [A pre-history of the prediction of the amplitude of the second peak of the cosmic microwave background](https://tritonstation.com/2020/07/29/a-pre-history-of-the-prediction-of-the-amplitude-of-the-second-peak-of-the-cosmic-microwave-background/)
-**by Stacy McGaugh** - tritonstation - 2020 July. 29
-
-In this period, I worked very hard to make things work out for CDM. It had to be so! Yet every time I thought I had found a solution, I realized that I had imposed an assumption that guaranteed the desired result.
 
 ### [No, physicists have not explained why there is more matter than anti-matter in the universe. It’s not possible.](http://backreaction.blogspot.com/2020/04/no-physicists-have-not-explained-why.html)
 **by Sabine Hossenfelder** - BackRe(Action) - 2020 Apr. 28
@@ -91,10 +103,19 @@ We once endowed Standard-CDM with the same absolute certainty we now attribute t
 ### [Dark Matter remains undetectable](https://m.phys.org/news/2019-01-detector-would-be-evidence-dark.html)
 2019 January 24
 
+### [IAU members: It should be known as the Hubble-Lemaître Law](https://www.iau.org/news/pressreleases/detail/iau1812/)
+2018 November 6
+
 ### [Dark energy is the biggest mystery in cosmology, but it may not exist at all](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/dark-energy-biggest-mystery-cosmology-it-may-not-exist-all-leading-physicist)
 **by Jon Cartwright** - Horizon Magazine - 2018 Sept. 3
 
 The most mysterious phenomenon in cosmology – dark energy – may not exist at all, according to Professor Subir Sarkar, head of the particle theory group at the University of Oxford in the UK.
+
+### [Obituary by Roger Penrose: Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
+**by Roger Penrose** - 2018 March 14
+
+### [Jayant Narlikar’s personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
+2018 March 8
 
 ### [Cosmology and Convention](https://arxiv.org/abs/1703.02389)
 **by David Merritt** - arXiv - 2018 Mar. 7
@@ -106,7 +127,7 @@ The field of cosmology is in a state of "degenerating problemshift" in the langu
 
 According to mainstream researchers, the vast majority of the matter in the Universe is invisible. The case for dark matter is regarded as so overwhelming that its existence is often reported as fact. Lately, though, cracks of doubt have started to appear.
 
-### [Astrophysicists, References and Websites](https://cosmologyscience.com/ref.htm) (website curently down)
+### Astrophysicists, References and Websites (https://cosmologyscience.com/ref.htm, website is curently down)
 **by David Dilworth** - Science Based Cosmology - 2014
 
 One of the clues that something is wrong with "standard" Cosmology is that many of the supporting arguments and credibility are person based ("who says so"), rather than merit or evidence based ("how do they know"). In spite of this I have provided a set of links to leading people as well as the leading arguments for each side of the debate.
@@ -146,25 +167,6 @@ What if the big bang never happened?  Ask cosmologists this and they’ll usuall
 
 The latest measurements of the Hubble constant make the Big Bang account of the origin of the Universe more dependent on the coincidence of numbers than it has so far been.  But it remains the only theory in the field.
 
-### [IAU members: It should be known as the Hubble-Lemaître Law](https://www.iau.org/news/pressreleases/detail/iau1812/)
-2018 November 6
-
-### [Obituary by Roger Penrose: Stephen Hawking](https://www.theguardian.com/science/2018/mar/14/stephen-hawking-obituary)
-**by Roger Penrose** - 2018 March 14
-
-### [Jayant Narlikar’s personal view of Big Bang Cosmology](https://doi.org/10.1140/epjh/e2017-80048-5)
-2018 March 8
-
-
-## Technical Publications
-
-### [Reviewed Publications: challenging Cosmological Models](./marmet_l/reviewed-publications.html)
-**by Louis Marmet** - ACG - 2018/2020
-
-Papers challenging cosmological models and observational data of interest to ACG.
-
-### [Observations at tension with cosmological models](./marmet_l/tension-with-models.html)
-**by Louis Marmet** - 2018 December
 
 ---
 
