@@ -20,7 +20,7 @@ ACG: [cosmology.info](http://cosmology.info) (sponsor of the 2004 Open Letter on
 
 IACS: [redshift.vif.com/NewsWire.htm](http://redshift.vif.com/NewsWire.htm) (sponsor of 2006 Int'l Workshop on Redshift Mechanisms in Ireland)
 
-MRI: [metaresearch.org/](https://metaresearch.org/) (frontier astronomy research, solar eclipse / meteor storm expeditions, local host for 2008 CCC-2)
+MRI: https://metaresearch.org/ (frontier astronomy research, solar eclipse / meteor storm expeditions, local host for 2008 CCC-2)
 
 VIRA: [www.vira-bg.org](https://www.communitas-bg.org/en/vira.html) (Virtual Institute of Rational Astrophysics)
 

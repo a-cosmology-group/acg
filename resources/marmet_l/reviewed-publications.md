@@ -70,9 +70,9 @@ Relationship between redshift, distance, time dilation; intrinsic redshift; evol
 
 *Sandage versus Hubble on the reality of the expanding universe*, 2006-05 D.S.L. Soares, [arXiv:physics/0605098](https://arxiv.org/abs/physics/0605098)
 
-*Survey of 4,000 Galaxies Finds "Downsizing" on a Cosmic Scale*, 2005-08 National Optical Astronomy Observatory, [www.noao.edu/outreach/press/pr05/pr0508.html](https://www.noao.edu/outreach/press/pr05/pr0508.html)
+*Survey of 4,000 Galaxies Finds "Downsizing" on a Cosmic Scale*, 2005-08 National Optical Astronomy Observatory, [noirlab.edu/public/news/noao0508/](https://noirlab.edu/public/news/noao0508/)
 
-*Fundamental physical constant has not changed in 7 billion years, DEEP2 team reports* 2005-04 University of California, Berkeley, [https://spaceref.com/press-release/fundamental-physical-constant-has-not-changed-in-7-billion-years-deep2-team-reports/](https://spaceref.com/press-release/fundamental-physical-constant-has-not-changed-in-7-billion-years-deep2-team-reports/) [www.berkeley.edu/news/media/releases/2005/04/18_deep2.shtml](https://www.berkeley.edu/news/media/releases/2005/04/18_deep2.shtml) 2005-04-18
+*Fundamental physical constant has not changed in 7 billion years, DEEP2 team reports* 2005-04 University of California, Berkeley, [spaceref.com/press-release/fundamental-physical-constant-has-not-changed-in-7-billion-years-deep2-team-reports/](https://spaceref.com/press-release/fundamental-physical-constant-has-not-changed-in-7-billion-years-deep2-team-reports/) [www.berkeley.edu/news/media/releases/2005/04/18_deep2.shtml](https://www.berkeley.edu/news/media/releases/2005/04/18_deep2.shtml) 2005-04-18
 
 *Redshifts of cosmological neutrinos as definitive experimental test of Doppler versus non-Doppler redshifts*, C.F. Gallo, IEEE Transactions on Plasma Science, Vol. 31, Issue 6, Dec. 2003. [10.1109/TPS.2003.821579](https://doi.org/10.1109/TPS.2003.821579)
 
@@ -259,7 +259,7 @@ The Age of Large Globular Clusters of Galaxies F. Zwicky, Publications of the As
 
 ### 6. ΛCDM Cosmology
 
-*Towards a More Well-Founded Cosmology*, Hartmut Traunmüller, Zeitschrift für Naturforschung A73, Issue 11, p. 1005, 2018.  [doi:10.1515/zna-2018-0217](https://doi.org/10.1515/zna-2018-0217), and <https://www2.ling.su.se/staff/hartmut/Well-Founded_Cosmology.pdf> (2018)
+*Towards a More Well-Founded Cosmology*, Hartmut Traunmüller, Zeitschrift für Naturforschung A73, Issue 11, p. 1005, 2018.  [doi:10.1515/zna-2018-0217](https://doi.org/10.1515/zna-2018-0217), and [arxiv:1107.2529](https://arxiv.org/abs/1107.2529) (2018)
 
 *Cosmological discordances II: Hubble constant, Planck and large-scale-structure data sets*, W. Lin and M. Ishak, Physical Review D 96, p. 083532, Oct. 2017. [arXiv:1708.09813](https://arxiv.org/abs/1708.09813) (2017)
 

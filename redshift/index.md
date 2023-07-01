@@ -188,7 +188,7 @@ Light interacts with space itself and undergoes redshift as it propagates throug
 [(J. Lupo 2015)](https://www.amazon.com/Alternate-Explanation-Cosmic-Redshift-Illusion-ebook/dp/B00XJOERSA)
 
 The carrier of light, aether, subjects EM-field waves to constant fading  
-[(K.A. Khaidarov 2003)](http://bourabai.kz/universum.htm)
+[(K.A. Khaidarov 2003)](http://bourabai.ru/universum.htm)
 
 The vacuum has small internal friction, imposing damping and a variable speed of light  
 [(E.I. Shtyrkov 1993)](https://link.springer.com/chapter/10.1007/978-1-4899-1225-1_21)
