@@ -31,11 +31,6 @@ nav_order: 8
 
   This video presents a possible modification of Newton's law of gravitation and describes its astrophysical and cosmological consequences. Many outstanding problems are resolved, while some new ideas emerge from this simple modification.
 
-## [Big Bang and cyclotron Physics Funeral](https://youtu.be/S4rks9SqPB4)
-**by Amrit Srečko Šorli** - 2020 November 11
-
-  Article "Mass–Energy Equivalence Extension onto a Superfluid Quantum Vacuum" Sci Rep 9, 11737 (2019): minimal density is not on the surface, it is in the center.  Link to my latest book about fixing the main problems of today's physics.
-
 ## [Big Bang's Energy Conservation Problem](https://youtu.be/CrXDwQ5xPQg)
 **by Ray Fleming** - 2020 September 16
 

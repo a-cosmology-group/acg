@@ -110,7 +110,7 @@ Photons interact with elementary quanta
 [(H. Broberg 1983)](https://www.researchgate.net/publication/253559207_Particle_mass_in_a_cosmological_perspective)
 
 Cosmological space conducts electricity  
-[(A. Kipper 1972)](https://cosmology.info/essays/tired-light-models_marmet/1972Kipper-TheoryOfTheRedshift.pdf) (downloads the pdf paper)
+[(A. Kipper 1972)](1972Kipper-TheoryOfTheRedshift.pdf) (downloads the pdf paper)
 
 A photon, an extended wave plus a singularity, loses energy into the subquantum medium  
 [(L. de Broglie 1960)](https://www.researchgate.net/publication/226438637_De_Broglie_Tired_Light_Model_and_the_Reality_of_the_Quantum_Waves)
@@ -246,7 +246,7 @@ Photon energy as a quaternion is lost in the centrifugal forces of moving masses
 [(W. Lindsay 2008)](https://www.lulu.com/shop/wardell-lindsay/the-universe-is-not-expanding/paperback/product-15382129.html?page=1&pageSize=4)
 
 The case for an exponential red shift law  
-[(P.F. Browne 1962)](https://cosmology.info/essays/tired-light-models_marmet/1962Browne-ExponentialRedshiftLaw.pdf) (downloads the pdf paper)
+[(P.F. Browne 1962)](1962Browne-ExponentialRedshiftLaw.pdf) (downloads the pdf paper)
 
 The redshift is due to a decrease in the velocity of light in time  
 [(F. Arnot 1938)](https://www.nature.com/articles/1411142a0)
@@ -326,7 +326,7 @@ Slowing down of the velocity of propagation of light
 [(M. Gheury de Bray 1939)](https://doi.org/10.1038/144285a0)
 
 The velocity of light is a function of time  
-[(P.I. Wold 1935)](https://cosmology.info/essays/tired-light-models_marmet/1935Wold-OnTheRedwardShiftOfSpectralLines.pdf) (downloads the pdf paper)
+[(P.I. Wold 1935)](1935Wold-OnTheRedwardShiftOfSpectralLines.pdf) (downloads the pdf paper)
 
 Planck's constant varies with time (?)  
 [(J. Chalmers et al. 1935)](https://doi.org/10.1080/14786443508561389)
