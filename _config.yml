@@ -7,7 +7,7 @@ theme: just-the-docs
 url: https://a-cosmology-group.github.io
 
 aux_links:  # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/a-cosmology-group/acg
+  View it on github: https://github.com/a-cosmology-group/acg
 
 exclude:
 # specific to the website:
