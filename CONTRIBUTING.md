@@ -4,7 +4,7 @@
 in an open exchange of ideas beyond the framework of Standard Cosmology through a critical examination of the methods and investigations of cosmology.
 
 
-## Ground rules concerning topics accepted on thee Group's GitHub repository
+## Ground rules concerning topics accepted on the Group's GitHub repository
 
 A Cosmology Group will only accept topics with a first-degree relationship with cosmology and empirical observations.
 
