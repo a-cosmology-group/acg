@@ -23,7 +23,7 @@ Anyone with an interest in cosmology can read the discussions on [`a-cosmology-g
 
 With a GitHub account (free), contributors can post to the forum, receive notifications by email, and add pages to the Group's documentation website.
 
-Discussions are not moderated, but are subject to the '[Contributor Code of Conduct](https://github.com/a-cosmology-group/acg/blob/main/CODE_OF_CONDUCT.md)' and '[Guidelines](https://github.com/a-cosmology-group/acg/blob/main/GUIDELINES.md)'.
+Discussions are not moderated, but are subject to the '[Contributor Code of Conduct](https://github.com/a-cosmology-group/acg/blob/main/CODE_OF_CONDUCT.md)' and '[Contributing](https://github.com/a-cosmology-group/acg/blob/main/CONTRIBUTING.md)'.
 
 ### Cosmology Group on *Gaggle.email*
 
