@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512pt"
+    height="512pt">
+
+    <g transform="rotate(-8 256 256) scale(1 0.9)">
+
+        <!-- outer G -->
+        <circle cx="256" cy="256" r="248" fill="black" />
+
+        <!-- inner G -->
+        <circle cx="280" cy="256" r="184" fill="white" stroke="none" />
+
+        <!-- outer C -->
+        <circle cx="292" cy="256" r="152" fill="black" />
+
+        <!-- inner C -->
+        <circle cx="316" cy="256" r="108" fill="white" />
+
+        <!-- outer a -->
+        <circle cx="316" cy="256" r="64" fill="black" />
+
+        <!-- inner a -->
+        <circle cx="324" cy="256" r="32" fill="white" />
+
+        <!-- stem of a, rounded rect -->
+        <path d="
+            M 360 196
+            L 384 196 C 386.208 196 388 197.792 388 200
+            L 388 312 C 388 314.208 386.208 316 384 316
+            L 360 316 C 357.792 316 356 314.208 356 312
+            L 356 200 C 356 197.792 357.792 196 360 196 Z" style="fill:black" />
+
+        <!-- mask above G bar -->
+        <rect x="396" y="192" width="108" height="28" fill="white" />
+
+        <!-- mask below G bar -->
+        <rect x="396" y="292" width="54" height="28" fill="white" />
+
+        <!-- G bar fill -->
+        <rect x="432" y="220" width="54" height="72" fill="#000" />
+
+        <!-- rounded corners -->
+        <path d="
+            M 401.887 190.516
+            L 401 190.5
+            L 401 194.5
+            L 405 194.5
+            L 405 192
+            C 403.741 192 402.621 191.421 401.887 190.516 Z" fill="white" />
+    </g>
+</svg>
