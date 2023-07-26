@@ -8,7 +8,12 @@ color_scheme: acg
 url: https://a-cosmology-group.github.io
 
 aux_links:  # remove if you don't want this link to appear on your pages
-  View on github: https://github.com/a-cosmology-group/acg
+  Discussion: https://github.com/orgs/a-cosmology-group/discussions
+
+# External navigation links
+nav_external_links:
+  - title: Discussions
+    url: https://github.com/orgs/a-cosmology-group/discussions
 
 exclude:
 # specific to the website:

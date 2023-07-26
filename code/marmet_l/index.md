@@ -1,11 +1,11 @@
 ---
-title: Cosmology Calculators
+title: ΛCDM and Static Cosmology
 layout: default
 nav_order: 999
-parent: Code
+parent: Cosmology Calculators
 ---
 
-# [Cosmology Calculators](cosmology-calculators.html)
+# [ΛCDM and Static Cosmology](cosmology-calculators.html)
 **by Louis Marmet**
 
 Recent observations by the Webb Telescope (JWST) have shown a large number of galaxies at high redshifts.  Contrary to expectations based on galaxy-formation models and the Standard Model of Cosmology (ΛCDM), these galaxies appear small and very bright.

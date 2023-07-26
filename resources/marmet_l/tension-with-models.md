@@ -10,9 +10,13 @@ math: mathjax3
 
 - "Expansion of space" has no empirical test beyond the realm of astronomical observations.
 - The unknown nature of the main ingredients of the model, "dark matter" and "dark energy".
+- Smallness of Λ (> 0).
 - The unknown physics of "inflation".
 - Validity of General Relativity assumed beyond experimentally tested scales.
 - Tensions that appear with every precision measurements.
+- High uncertainty on the most fundamental parameter of the model $$H_0$$.
+- Small-scale Issues: Core-Cusp, Satellite, etc.
+
 
 
 # Observations at tension with cosmological models
@@ -24,7 +28,7 @@ By *Louis Marmet*
 
 ## The Hubble tension: disagreement at 5σ significance
 
-A discrepancy between the value of Hubble parameter $H_0$ predicted from the cosmological model using measurements of the early Universe, and the value more directly measured from the late Universe [`arXiv:2001.03624`](https://arxiv.org/abs/2001.03624).
+A discrepancy between the value of Hubble parameter $$H_0$$ predicted from the cosmological model using measurements of the early Universe, and the value more directly measured from the late Universe [`arXiv:2001.03624`](https://arxiv.org/abs/2001.03624).
 
 The Hubble [tension problem](https://www.scientificamerican.com/article/cosmic-conflict-diverging-data-on-universes-expansion-polarizes-scientists1/#)
 
@@ -39,9 +43,9 @@ The observed value of the cosmological constant Λ is 120 values less than its t
 According to the data of the Planck satellite, at present epoch the cosmological constant energy density (68.5%) is comparable (in order of magnitude) with the energy density of matter (31.5%), despite the fact that these quantities have evolved differently).
 
 
-## The parameter $S_8 = \sigma_8 \sqrt{\Omega_m/0.3}$ tension problem
+## The parameter $$S_8 = \sigma_8 \sqrt{\Omega_m/0.3}$$ tension problem
 
-A discrepancy between the primary CMB temperature anisotropy measurements by the Planck satellite in the strength of matter clustering compared to lower redshift measurements such as the weak gravitational lensing and galaxy clustering. Here $\sigma_8$ is the clustering amplitude of the matter power spectrum on scales of $8h^{-1}$ Mpc, $\Omega_m$ is a fractional matter density
+A discrepancy between the primary CMB temperature anisotropy measurements by the Planck satellite in the strength of matter clustering compared to lower redshift measurements such as the weak gravitational lensing and galaxy clustering. Here $$\sigma_8$$ is the clustering amplitude of the matter power spectrum on scales of $$8h^{-1}$$ Mpc, $$\Omega_m$$ is a fractional matter density
 parameter.
 
 

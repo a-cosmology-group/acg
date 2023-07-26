@@ -1,9 +1,9 @@
 ---
-title: Code
+title: Cosmology Calculators
 layout: default
-nav_order: 9
+nav_order: 8
 has_children: true
 ---
 
-# Cosmology Code
+# Cosmology Calculators
 
