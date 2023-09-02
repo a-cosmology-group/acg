@@ -24,7 +24,7 @@ After decades of development, ΛCDM cosmology is akin to an iceberg hiding 95% o
 
 ---
 
-A Cosmology Group maintains this [website](https:cosmology.info), a [discussion forum](https://github.com/orgs/a-cosmology-group/discussions) and the [ACG Newsletter](newsletters/) in a [GitHub repository](https://github.com/a-cosmology-group/acg/). Observational data and work of interest to ACG are listed in [Resources](resources/). To contribute to the content of the website, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
+A Cosmology Group maintains this [website](https://cosmology.info), a [discussion forum](https://github.com/orgs/a-cosmology-group/discussions) and the [ACG Newsletter](newsletters/) in a [GitHub repository](https://github.com/a-cosmology-group/acg/). Observational data and work of interest to ACG are listed in [Resources](resources/). To contribute to the content of the website, please consult the project [wiki](https://github.com/a-cosmology-group/acg/wiki).
 
 
 © 2018–2023 ACG

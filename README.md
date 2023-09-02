@@ -23,10 +23,10 @@
 │  ├─ [models] ...  
 ├─ Resources [nav_order: 7]  
 │  ├─ [resource-1] ...  
-├─ Videos [nav_order: 8]  
-│  ├─ [video-1] ...  
-├─ Code [nav_order: 9]  
+├─ Cosmology Calculators [nav_order: 8]  
 │  ├─ [code-1] ...  
+├─ Videos [nav_order: 9]  
+│  ├─ [video-1] ...  
 ├─ Conferences [nav_order: 10]  
 │  ├─ CCC-1  
 │  ├─ CCC-2  
@@ -70,13 +70,13 @@
 │  ├─ [author_a]
 │  │  ├─ [resource.md] [resource.pdf] ...
 │  ├─ [author_b] ...
-├─ videos
-│  ├─ index.md
 ├─ code
 │  ├─ index.md
 │  ├─ [author_a]
 │  │  ├─ [index.md] [code.md] [code...]
 │  ├─ [author_b] ...
+├─ videos
+│  ├─ index.md
 ├─ conferences
 │  ├─ index.md
 │  ├─ CCC-1
