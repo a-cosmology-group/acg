@@ -32,7 +32,7 @@ function display_SSTz(Hz, z) {
   let text =
     'For <b>H<sub>z</sub></b> = ' + format_prefix(Hz, 0, 1) + '/Gpc [or ' + format_prefix(c * Hz, 1, 1) + 'm/s/Mpc]:<br>';
 //
-  text += '<ul><li>The concept of "Big Bang" has no meaning.</li>';
+  text += '<ul><li>The "Big Bang" hypothesis has no meaning.</li>';
   text += '<li>The concept of "age of the universe" has no meaning.</li>';
   text += '<li>The Hubble redshift <b>H<sub>z</sub></b> was ' + format_prefix(Hz, 0, 1) + '/Gpc.</li>';
   text += '<li>The light travel time was ' + format_prefix(dA_Glyr, 3, 1) + 'yr.</li>';
