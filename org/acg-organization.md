@@ -58,6 +58,8 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2023- |                |                                                    |        |        |  
+11- 1 |                | WHC Domain Transf. cosmologystatement.org →26-11-1 |        |  49.37 | $173.25
+11- 1 |                | WHC Domain Transfer cosmology.info →26-11-1        |        |  57.51 | $222.62
 10- 7 |                | Gaggle Mail; 26 members →23-11-7                   |        |   2.50 | $280.13
  9- 7 |                | Gaggle Mail; 27 members →23-10-7                   |        |   2.70 | $282.63
  8- 7 |                | Gaggle Mail; 27 members →23-9-7                    |        |   2.91 | $285.33
