@@ -27,9 +27,9 @@ Discussions are not moderated, but are subject to the '[Contributor Code of Cond
 
 ### Cosmology Group on *Gaggle.email*
 
-If you wish to join the Gaggle.email mailing list, please send a request to [Contacts](#contacts).  You will receive a confirmation email and a link to access your member's profile.
+If you wish to be on the Gaggle.email mailing list, please send a request to [Contacts](#contacts).  You will receive a confirmation email and a link to access your member's profile.
 
-The mailing list [cosmology@gaggle.email](mailto:cosmology@gaggle.email) is for researchers with established credibility or excellent credentials related to cosmology.
+The mailing list [cosmology@gaggle.email](mailto:cosmology@gaggle.email) is for researchers with established credibility or excellent credentials related to cosmology, science or philosophy.
 
 The mailing list mostly used for posting links to new published work.  The list is moderated to reduce the number of messages.
 
@@ -58,9 +58,10 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2023- |                |                                                    |        |        |  
+12- 7 |                | Gaggle Mail; 34 members →24-1-7                    |        |   3.56 | $166.42
 11- 7 |                | Gaggle Mail; 32 members →23-12-7                   |        |   3.27 | $169.98
-11- 1 |                | WHC Domain Transf. cosmologystatement.org →26-11-1 |        |  49.37 | $173.25
-11- 1 |                | WHC Domain Transfer cosmology.info →26-11-1        |        |  57.51 | $222.62
+11- 1 |                | Domain Transf. WHC cosmologystatement.org →26-11-1 |        |  49.37 | $173.25
+11- 1 |                | Domain Transfer Web Host.C cosmology.info →26-11-1 |        |  57.51 | $222.62
 10- 7 |                | Gaggle Mail; 26 members →23-11-7                   |        |   2.50 | $280.13
  9- 7 |                | Gaggle Mail; 27 members →23-10-7                   |        |   2.70 | $282.63
  8- 7 |                | Gaggle Mail; 27 members →23-9-7                    |        |   2.91 | $285.33
