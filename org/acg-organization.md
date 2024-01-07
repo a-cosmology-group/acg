@@ -57,6 +57,8 @@ Please allow for some time for new updates to appear.
 
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
+2024- |                |                                                    |        |        |  
+ 1- 7 |                | Gaggle Mail; 34 members →24-2-7                    |        |   3.40 | $163.02
 2023- |                |                                                    |        |        |  
 12- 7 |                | Gaggle Mail; 34 members →24-1-7                    |        |   3.56 | $166.42
 11- 7 |                | Gaggle Mail; 32 members →23-12-7                   |        |   3.27 | $169.98
