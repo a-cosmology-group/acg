@@ -260,7 +260,7 @@ The red shift is explained with a decrease with time of the quantum of action
 Decreasing speed of light with time  
 [(H. Schier 1932)](https://ui.adsabs.harvard.edu/abs/1932AN....246..269S/abstract)
 
-## Alternative Redshift Mechanism
+## Alternative Redshift Mechanisms
 
 ### Light - Aether Interaction
 
