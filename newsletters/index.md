@@ -8,7 +8,8 @@ nav_order: 2
 
 The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
-2023: [January](./2023acg01newsletter.pdf), [March](./2023acg03newsletter.pdf), [May](./2023acg05newsletter.pdf), [June](./2023acg06newsletter.pdf), [October](./2023acg10newsletter.pdf) (*Click link to download the pdf document.*)  
+2024: [June](./2024acg06newsletter.pdf) (*Click link to download the pdf document.*)
+2023: [January](./2023acg01newsletter.pdf), [March](./2023acg03newsletter.pdf), [May](./2023acg05newsletter.pdf), [June](./2023acg06newsletter.pdf), [October](./2023acg10newsletter.pdf)
 2022: [November](./2022acg11newsletter.pdf), [December](./2022acg12newsletter.pdf)  
 2021: [February](./2021acg02newsletter.pdf), [November](./2021acg11newsletter.pdf), [December](./2021acg12newsletter.pdf)  
 2020: [January](./2020acg01newsletter.pdf), [March](./2020acg03newsletter.pdf), [April](./2020acg04newsletter.pdf), [May](./2020acg05newsletter.pdf), [July](./2020acg07newsletter.pdf), [November](./2020acg11newsletter.pdf)  
@@ -26,4 +27,4 @@ The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
 ---
 
-© 2020–2023 ACG
+© 2020–2024 ACG
