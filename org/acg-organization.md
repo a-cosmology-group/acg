@@ -58,6 +58,7 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2024- |                |                                                    |        |        |  
+ 8- 7 |                | Gaggle Mail; 34 members →24-9-7                    |        |   3.40 | $139.22
  7- 7 |                | Gaggle Mail; 34 members →24-8-7                    |        |   3.40 | $142.62
  6- 7 |                | Gaggle Mail; 34 members →24-7-7                    |        |   3.40 | $146.02
  5- 7 |                | Gaggle Mail; 34 members →24-6-7                    |        |   3.40 | $149.42
