@@ -339,4 +339,4 @@ The speed of light changes with time
 
 ---
 
-© 2018--2023 ACG
+© 2018–2024 ACG
