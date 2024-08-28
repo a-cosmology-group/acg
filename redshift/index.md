@@ -2,6 +2,7 @@
 title: Redshift Models
 layout: default
 nav_order: 5
+has_children: true
 ---
 
 # Redshift Models
@@ -19,6 +20,16 @@ nav_order: 5
 A collection of redshift models and representative papers classified by type.
 
 *This is not meant to be a complete list of all proposed redshift models.*
+
+
+
+## Preface
+
+### A rebuttal of criticism of tired light
+
+
+[Errors in "Errors in Tired Light Cosmology"](rebut/errorswright.md)
+
 
 ## Models based on *d(hν) = – H (hν) dt*
 (C.f. ***Nernst 1937***, [auf Deutsch](https://doi.org/10.1007/BF01339902), [in English](http://redshift.vif.com/JournalFiles/Pre2001/V02NO3PDF/V02N3NER.PDF))
