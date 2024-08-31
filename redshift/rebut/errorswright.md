@@ -50,7 +50,7 @@ It is a faulty argument that a large volume of space (the local universe) has a 
 
 The local universe can be transparent and can have a region at 2.7 K.
 
-Where is the author's proof that the local universe cannot have a 2.7K-microwave-emitter that does not impede other frequency photons?
+Where is the author's proof that the local universe cannot have a 2.7K-microwave-emitter that does not block other frequency photons?
 
 > "So the CMB must have come from a far away part of the Universe"
 
@@ -60,7 +60,7 @@ This is not true and is based on a false rejection of the idea that the CMB-emit
 
 The tired light model does not. The studies arguing otherwise suffer from biases including Malmquist bias (instrument-sensitivity-floor leading to biased detection of brighter objects) and expanding-space-hypothesis-calibrated-time-dilation-factor-inserted distance data.
 
-In summary, tired light without blurring is not impossible, tired light does not conflict with the CMB, big bang cosmology's interpretation of the CMB and its distance is flawed, and the surface brightness of galaxies does not conflict with photons redshifting while traveling non-expanding (an adjective which shouldn't need saying), 3D space.
+In summary, tired light without blurring is not impossible, tired light does not conflict with the CMB, big bang cosmology's claims of the CMB source and CMB distance are flawed, and the surface brightness of galaxies does not conflict with the hypothesis of photons redshifting while traveling non-expanding (an adjective which shouldn't need saying), 3D space.
 
 2024-08-29
 
