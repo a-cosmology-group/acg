@@ -9,9 +9,13 @@ The oft-cited and highly-ranked "Errors in Tired Light Cosmology" [blog post](ht
 
 The errors in "Errors in Tired Light Cosmology" prolong the crisis in cosmology and must be dispelled.
 
+___
+
 > "Tired light models invoke a gradual energy loss by photons as they travel through the cosmos to produce the redshift-distance law."
 
-Tired light models do not *invoke*, they *hypothesize* a gradual energy loss by photons as they travel intergalactic space to produce the redshift-distance trend.
+Tired light models do not "invoke", they *hypothesize* a gradual energy loss by photons as they travel intergalactic space to produce the redshift-distance trend.
+
+___
 
 > "This has three main problems: There is no known interaction that can degrade a photon's energy without also changing its momentum, which leads to a blurring of distant objects which is not observed. The Compton shift in particular does not work."
 
@@ -19,15 +23,19 @@ The argument that "There is no known interaction that can degrade a photon's ene
 
 Where is the author's proof that redshift without blurring is an impossibility?
 
-It must also be noted what a lack of feeling for exploration big bang cosmologists have, for them to think that no known interaction for a new phenomenon would mean that there couldn't be a new one. An idea like tired light is precious and should have been nurtured. Its suppression by big bang cosmologists is a case of dogmatists infecting science.
+It must also be noted what a lack of feeling for exploration big bang cosmologists have, for them to think that no known interaction for a new phenomenon would mean that there couldn't be a new one. An idea like tired light is precious and should have been nurtured. Its suppression by big bang cosmologists is a historic and ongoing case of dogmatists infecting science.
 
 Also, there exists the phenomenon of dispersion (dispersion measure, dispersion slope), where photons arrive delayed depending on the intergalactic medium (column of electrons, ions, and magnetic field), and evidently, galaxies are not blurred. It is known that photons can pass through a column of electrons without blurring.
+
+___
 
 > "The tired light model does not predict the observed time dilation of high redshift supernova light curves."
 
 The study that claimed time dilation of high redshift supernova light curves might have subtle errors due to calibration of the light curves (see SALT2 calibration).
 
-The study might also have subtle errors because its claim requires the 'dubious' and 'disturbing' (choice words of Edwin Hubble) assumption that the red-shifts are velocity-shifts. It cannot be forgotten how absurd the theories of superluminal galactic recession and space expansion are. Statements like "the universe is under no obligation to make sense to you" are dogma when the history of science shows many an absurd theory to be false and many a true theory to be not absurd but grand.
+The study might also have subtle errors because its claim requires the 'dubious' and 'disturbing' (choice words of Edwin Hubble) assumption that the red-shifts are velocity-shifts. It cannot be forgotten how absurd the theories of superluminal galactic recession and space expansion are. Hackneyed opinions like "the universe is under no obligation to make sense to you" are dogma when the history of science shows many an absurd theory to be false and many a true theory to be not absurd but grand.
+
+___
 
 > "The tired light model can not produce a blackbody spectrum for the Cosmic Microwave Background without some incredible coincidences."
 
@@ -56,13 +64,15 @@ Where is the author's proof that the local universe cannot have a 2.7K-microwave
 
 This is not true and is based on a false rejection of the idea that the CMB-emitter could be somewhere closer, such as the 100-Mly-radius volume surrounding the Milky Way.
 
+___
+
 > "The tired light model fails the Tolman surface brightness test"
 
 The tired light model does not. The studies arguing otherwise suffer from biases including Malmquist bias (instrument-sensitivity-floor leading to biased detection of brighter objects) and expanding-space-hypothesis-calibrated-time-dilation-factor-inserted distance data.
 
 In summary, tired light without blurring is not impossible, tired light does not conflict with the CMB, big bang cosmology's claims of the CMB source and CMB distance are flawed, and the surface brightness of galaxies does not conflict with the hypothesis of photons redshifting while traveling non-expanding (an adjective which shouldn't need saying), 3D space.
 
-2024-09-01
+2024-09-07
 
 ---
 
