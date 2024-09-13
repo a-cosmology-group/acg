@@ -124,6 +124,6 @@ Other types of redshift mechanisms are possible, but to be valid it must reprodu
 
 ---
 
-© 2020–2023 Louis Marmet
+© 2020–2024 Louis Marmet
 
 [^1]: Based on the Kramers-Kronig relations, which are a different way to express conservation of energy and momentum.

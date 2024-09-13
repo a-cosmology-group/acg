@@ -77,4 +77,4 @@ Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/
 
 ---
 
-© 2018--2023 ACG
+© 2018–2024 ACG

@@ -78,4 +78,4 @@ parent: Cosmological Models
 
 ---
 
-© 2018--2023 ACG
+© 2018–2024 ACG
