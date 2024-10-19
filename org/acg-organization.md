@@ -58,6 +58,9 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2024- |                |                                                    |        |        |  
+10-19 |                | Domain Renewal Web Host Ca cosmology.info →25-11-1 |        |  37.63 | $ 94.90
+10- 7 |                | Gaggle Mail; 33 members →24-11-7                   |        |   3.29 | $132.53
+ 9- 7 |                | Gaggle Mail; 34 members →24-10-7                   |        |   3.40 | $135.82
  8- 7 |                | Gaggle Mail; 34 members →24-9-7                    |        |   3.40 | $139.22
  7- 7 |                | Gaggle Mail; 34 members →24-8-7                    |        |   3.40 | $142.62
  6- 7 |                | Gaggle Mail; 34 members →24-7-7                    |        |   3.40 | $146.02
@@ -69,8 +72,8 @@ Date  | Supporter      | To                                                 |   
 2023- |                |                                                    |        |        |  
 12- 7 |                | Gaggle Mail; 34 members →24-1-7                    |        |   3.56 | $166.42
 11- 7 |                | Gaggle Mail; 32 members →23-12-7                   |        |   3.27 | $169.98
-11- 1 |                | Domain Transf. WHC cosmologystatement.org →26-11-1 |        |  49.37 | $173.25
-11- 1 |                | Domain Transfer Web Host.C cosmology.info →26-11-1 |        |  57.51 | $222.62
+11- 1 |                | Domain Transfer WHC cosmologystatement.org         |        |  49.37 | $173.25
+11- 1 |                | Domain Transfer Web Host Canada cosmology.info     |        |  57.51 | $222.62
 10- 7 |                | Gaggle Mail; 26 members →23-11-7                   |        |   2.50 | $280.13
  9- 7 |                | Gaggle Mail; 27 members →23-10-7                   |        |   2.70 | $282.63
  8- 7 |                | Gaggle Mail; 27 members →23-9-7                    |        |   2.91 | $285.33
