@@ -1,7 +1,9 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+gemspec
 
-gem "jekyll", "~> 4.3.2"  # installed by `gem jekyll`
-# gem "webrick"           # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll-github-metadata", ">= 2.15"
 
-gem "just-the-docs", "0.5.3"  # pinned to the current release 2023-6-17
-# gem "just-the-docs"         # always download the latest release
+gem "jekyll-include-cache", group: :jekyll_plugins
+gem "jekyll-sitemap", group: :jekyll_plugins
+
+gem "html-proofer", "~> 5.0", :group => :development
