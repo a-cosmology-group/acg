@@ -28,7 +28,7 @@ A collection of redshift models and representative papers classified by type.
 ### A rebuttal of criticism of tired light
 
 
-[Errors in "Errors in Tired Light Cosmology"](rebut/errorswright.md)
+[Errors in "Errors in Tired Light Cosmology"](rebut/errorswright.html)
 
 
 ## Models based on *d(hν) = – H (hν) dt*
