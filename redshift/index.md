@@ -6,6 +6,7 @@ has_children: true
 ---
 
 # Redshift Models
+**by Louis Marmet**
 {: .no_toc }
 
 <details markdown="block">
@@ -18,7 +19,6 @@ has_children: true
 </details>
 
 A collection of redshift models and representative papers classified by type.
-**by Louis Marmet**
 
 *This is not meant to be a complete list of all proposed redshift models.*
 
