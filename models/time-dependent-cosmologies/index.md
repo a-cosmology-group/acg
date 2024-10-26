@@ -6,6 +6,7 @@ parent: Cosmological Models
 ---
 
 # Time-Dependent Cosmologies
+**by Louis Marmet**
 
 ## [Spherical Layers Cosmos](slc-20230120.pdf)
 **by V. Petrikov** 2023-1-20

@@ -5,6 +5,7 @@ nav_order: 7
 ---
 
 # Resources
+**by Louis Marmet**
 {: .no_toc }
 
 <details markdown="block">

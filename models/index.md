@@ -6,6 +6,7 @@ has_children: true
 ---
 
 # Cosmological Models
+**by Louis Marmet**
 
 A collection of non-standard cosmologies and supporting papers.
 
