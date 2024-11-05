@@ -229,7 +229,7 @@ The photon has a decay lifetime similar to radioactive or unstable particles
 [(A. Stolmar 2001)](http://www.astro.ucla.edu/%7Ewright/Stolmar_Errors.html)
 
 Exponential decay of the photon energy  
-(H. Dart 1993)
+[(H. Dart 1993)](http://redshift.vif.com/JournalFiles/Pre2001/V00NO17PDF/NR17DAR.PDF)
 
 Energy is lost by the photon each time it travels the distance equal to its wavelength  
 [(H. Broberg 1981)](https://ui.adsabs.harvard.edu/abs/1981eqsc.rept.....B/abstract)
