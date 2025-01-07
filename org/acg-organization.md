@@ -58,6 +58,8 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2024- |                |                                                    |        |        |  
+ 1- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-2-7  |        |  10.00 | $ 59.12
+2024- |                |                                                    |        |        |  
 12- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-1-7  |        |  10.00 | $ 69.12
 11- 7 |                | Gaggle Mail; Single Group Qty 100 members →24-12-7 |        |  15.78 | $ 79.12
 10-19 |                | Domain Renewal Web Host Ca cosmology.info →25-11-1 |        |  37.63 | $ 94.90
@@ -178,4 +180,4 @@ Date  | Supporter      | To                                                 |   
 
 ---
 
-© 2018--2024 ACG
+© 2018--2025 ACG
