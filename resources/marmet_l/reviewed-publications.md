@@ -282,4 +282,4 @@ The Age of Large Globular Clusters of Galaxies F. Zwicky, Publications of the As
 
 ---
 
-© 2018–2024 Louis Marmet
+© 2018–-2025 Louis Marmet

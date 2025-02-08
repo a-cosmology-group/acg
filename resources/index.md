@@ -171,4 +171,4 @@ The latest measurements of the Hubble constant make the Big Bang account of the 
 
 ---
 
-© 2018–2024 ACG
+© 2018--2025 ACG

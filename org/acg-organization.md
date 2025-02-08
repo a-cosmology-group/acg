@@ -57,7 +57,8 @@ Please allow for some time for new updates to appear.
 
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
-2024- |                |                                                    |        |        |  
+2025- |                |                                                    |        |        |  
+ 2- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-2-7  |        |  10.00 | $ 49.12
  1- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-2-7  |        |  10.00 | $ 59.12
 2024- |                |                                                    |        |        |  
 12- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-1-7  |        |  10.00 | $ 69.12

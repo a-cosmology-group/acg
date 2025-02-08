@@ -105,4 +105,4 @@ These criteria are essential for the productive development of a cosmological mo
 
 ---
 
-© 2020–2024 Louis Marmet
+© 2020–-2025 Louis Marmet

@@ -70,3 +70,5 @@ Highlighted names are linked to web pages.
 **James F. Woodward,** California State University, Fullerton (USA)  
 
 ---
+
+© 2018--2025 ACG

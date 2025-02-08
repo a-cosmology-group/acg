@@ -6,3 +6,5 @@ has_children: true
 ---
 
 # Crisis in Cosmology Conferences
+
+© 2018--2025 ACG

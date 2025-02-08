@@ -18,3 +18,5 @@ To qualify as an alternative to ΛCDM, a cosmology model should not assume that 
 > The way forward is to fully understand the standard models and critically and informatively to ask pertinent questions. Most of the scientific establishment would also agree with this strategy." 
 
 Garth A. Barber - altcosmology forum, 2005-1-18
+
+© 2018--2025 ACG
