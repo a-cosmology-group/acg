@@ -41,6 +41,11 @@ In this period, I worked very hard to make things work out for CDM. It had to be
 
 ## General Articles
 
+### [Cosmology Science: Astrophysicists, References and Websites](https://cosmologyscience.com/ref.htm)
+**by David Dilworth** - Science Based Cosmology - 2024
+
+One of the clues that something is wrong with "standard" Cosmology is that many of the supporting arguments and credibility are person based ("who says so"), rather than merit or evidence based ("how do they know"). In spite of this I have provided a set of links to leading people as well as the leading arguments for each side of the debate.
+
 ### [Escaping cosmology's failing paradigm](https://iai.tv/articles/escaping-cosmologys-failing-paradigm-auid-1964?_auid=2020)
 **by Bjørn Ekeberg and Louis Marmet** - iai news - 2021 Nov. 4
 
@@ -128,13 +133,8 @@ The field of cosmology is in a state of "degenerating problemshift" in the langu
 
 According to mainstream researchers, the vast majority of the matter in the Universe is invisible. The case for dark matter is regarded as so overwhelming that its existence is often reported as fact. Lately, though, cracks of doubt have started to appear.
 
-### Astrophysicists, References and Websites (https://cosmologyscience.com/ref.htm, website is curently down)
-**by David Dilworth** - Science Based Cosmology - 2014
-
-One of the clues that something is wrong with "standard" Cosmology is that many of the supporting arguments and credibility are person based ("who says so"), rather than merit or evidence based ("how do they know"). In spite of this I have provided a set of links to leading people as well as the leading arguments for each side of the debate.
-
 ### [The Crisis of Cosmology](https://www.marxist.com/the-crisis-of-cosmology-part-one.htm)
-** by Adam Booth** - In Defence of Marxism - 2014 Nov. 17
+**by Adam Booth** - In Defence of Marxism - 2014 Nov. 17
 
 The limitations of the existing cosmological models are no secret. The problems facing physics are known to all those who are honest about their work and who sincerely want science to progress.
 

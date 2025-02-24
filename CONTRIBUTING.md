@@ -32,3 +32,5 @@ Examples:
 [^3]: [Tools such as ChatGPT threaten transparent science; here are our ground rules for their use](https://www.nature.com/articles/d41586-023-00191-1)
 
 [^4]: Georges Lemaître, *L'hypothèse de l'atome primitif: essai de cosmogonie*, Epistèmè, O. Godart (1972) [https://ark.unamur.be/ark:/83449/00775d1424](https://ark.unamur.be/ark:/83449/00775d1424)
+
+© 2018--2025 ACG
