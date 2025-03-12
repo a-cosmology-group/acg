@@ -7,9 +7,10 @@
 │  ├─ Open Letter to the Scientific Community  
 │  ├─ ACG Organization  
 ├─ ACG Newsletters [nav_order: 2]  
-├─ Essays [nav_order: 3]  
+├─ Apeiron [nav_order: 3]  
+├─ Essays [nav_order: 4]  
 │  ├─ [essay-1] ...  
-├─ Cosmological Models [nav_order: 4]  
+├─ Cosmological Models [nav_order: 5]  
 │  ├─ [model-1] ...  
 │  ├─ Time-Dependent Cosmologies  
 │  │  ├─ [models] ...  
@@ -17,17 +18,17 @@
 │  │  ├─ [models] ...  
 │  ├─ Non-Expanding Cosmologies  
 │  │  ├─ [models] ...  
-├─ Redshift Models [nav_order: 5]  
+├─ Redshift Models [nav_order: 6]  
 │  ├─ [models] ...  
-├─ Gravity Models [nav_order: 6]  
+├─ Gravity Models [nav_order: 7]  
 │  ├─ [models] ...  
-├─ Resources [nav_order: 7]  
+├─ Resources [nav_order: 8]  
 │  ├─ [resource-1] ...  
-├─ Cosmology Calculators [nav_order: 8]  
+├─ Cosmology Calculators [nav_order: 9]  
 │  ├─ [code-1] ...  
-├─ Videos [nav_order: 9]  
+├─ Videos [nav_order: 10]  
 │  ├─ [video-1] ...  
-├─ Conferences [nav_order: 10]  
+├─ Conferences [nav_order: 11]  
 │  ├─ CCC-1  
 │  ├─ CCC-2  
 │  ├─ [conference-N] ...
@@ -42,6 +43,8 @@
 │  ├─ open-letter-on-cosmology.md
 ├─ newsletters
 │  ├─ index.md [acg-newsletter.pdf] ...
+├─ apeiron
+│  ├─ index.md [journal_archives.html] ...
 ├─ essays
 │  ├─ index.md
 │  ├─ [author_a]
