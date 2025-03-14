@@ -7,7 +7,14 @@ nav_order: 3
 # [Apeiron](journal_archive.html)
 **by Roy Keys**
 
-This webpage hosts the archives of Apeiron.
+This webpage hosts the archive of Apeiron.
+
+
+# [Further reading](./miscellaneous/further-reading.html)
+
+Reader’s resource: editors’ favourites and reviewed titles
+
+
 
 "The apeiron, from which the elements [are formed], is something that is different."
 
