@@ -104,6 +104,9 @@ Electrons emit Huygens secondary wavelets, the Compton effect produces the energ
 Photons supply kinetic energy to electrons resulting in a lengthening of their wavelength  
 [(H.S. Shelton 1953)](http://adsabs.harvard.edu/full/1953Obs....73...84S)
 
+Double Compton scattering of photons by electrons generates one additonal photon per collision, with both photons redshifted relative to original energy.
+[(R. Booth 2025)](https://www.preprints.org/manuscript/202412.0837/v1) See Section 2.3
+
 ### Light - Quantum Interaction
 
 Light is a wave within a particulate medium and loses energy with its motion  
@@ -348,6 +351,13 @@ Planck's constant varies with time (?)
 
 The speed of light changes with time  
 [(H. Gramatzki 1934)](https://ui.adsabs.harvard.edu/abs/1934ZA......8...87G/abstract)
+
+## Present-day blue shift
+
+### The Jeans Contraction
+
+Atomic matter progressively contracts under its own gravitational field, as quantified by the Schwarzschild Metric of GR, thus making older photos appear redshifted.
+[(R. Booth 2025)](https://www.preprints.org/manuscript/202412.0837/v1) 
 
 ---
 
