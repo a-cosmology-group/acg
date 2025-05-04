@@ -58,7 +58,9 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2025- |                |                                                    |        |        |  
- 3- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-4-7  |        |  10.00 | $ 39.12
+ 5- 4 |                | Domain Renewal cosmologystatement.org →26-5-12     |        |  25.33 | $  3.79
+ 4- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-5-7  |        |  10.00 | $ 29.12
+ 3- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 39.12
  2- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 49.12
  1- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 59.12
 2024- |                |                                                    |        |        |  
