@@ -58,8 +58,10 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                 |   In   |  Out   |  Total
 2025- |                |                                                    |        |        |  
+ 6- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members →25-7-7  |  11.30 |  11.30 | $  0.00
+ 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |   6.21 |  10.00 | $  0.00 
  5- 4 |                | Domain Renewal cosmologystatement.org →26-5-12     |        |  25.33 | $  3.79
- 4- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-5-7  |        |  10.00 | $ 29.12
+ 4- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 29.12
  3- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 39.12
  2- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 49.12
  1- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 59.12
