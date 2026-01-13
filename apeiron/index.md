@@ -30,4 +30,4 @@ From "Festschrift Vigier," special issue of Apeiron, No. 9-10, 1991
 "The apeiron, from which the elements [are formed], is something that is different."<br />
 Anaximander of Miletus (610-546 B.C.) 
 
-© 2018--2025 ACG
+© 2018--2026 ACG
