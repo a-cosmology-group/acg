@@ -27,4 +27,4 @@ The ACG Newsletter highlights observations that challenge ΛCDM cosmology.
 
 ---
 
-© 2018--2025 ACG
+© 2018--2026 ACG

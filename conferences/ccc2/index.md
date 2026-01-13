@@ -156,11 +156,9 @@ poster papers
 16:35 Response and discussion  
 17:05 General discussion & conclusions  
 17:35 Close conference
- 
+
 
 [...]
 
- 
 
-© 2018--2025 ACG
-
+© 2018--2026 ACG

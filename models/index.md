@@ -19,4 +19,4 @@ To qualify as an alternative to ΛCDM, a cosmology model should not assume that 
 
 Garth A. Barber - altcosmology forum, 2005-1-18
 
-© 2018--2025 ACG
+© 2018--2026 ACG

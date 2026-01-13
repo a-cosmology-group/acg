@@ -71,4 +71,4 @@ Highlighted names are linked to web pages.
 
 ---
 
-© 2018--2025 ACG
+© 2018--2026 ACG

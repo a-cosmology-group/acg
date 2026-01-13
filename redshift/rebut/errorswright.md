@@ -76,4 +76,4 @@ In summary, tired light without blurring is not impossible, tired light does not
 
 ---
 
-© 2018--2025 ACG
+© 2018--2026 ACG

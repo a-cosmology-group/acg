@@ -78,4 +78,4 @@ Models based on the [redshift relationship](http://www.astro.ucla.edu/%7Ewright/
 
 ---
 
-© 2018--2025 ACG
+© 2018--2026 ACG

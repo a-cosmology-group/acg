@@ -14,4 +14,4 @@ The Hubble constant derived from the expansion rate of the local universe is in 
 
 This webpage hosts two [Cosmology Calculators](cosmology-calculators.html): one for the ΛCDM model, the other for a Static Cosmology with Stimulated-Transfer redshift (SSTz).
 
-© 2018--2025 ACG
+© 2018--2026 ACG

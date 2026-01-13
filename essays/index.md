@@ -120,4 +120,4 @@ Portugal for the First Crisis In Cosmology Conference June 23-25.
 
 ---
 
-© 2018--2025 ACG
+© 2018--2026 ACG

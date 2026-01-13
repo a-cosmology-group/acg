@@ -87,3 +87,5 @@ If you want to point out an issue with the repository content, but not clear in 
 ## Discuss
 
 For more general discussions not tied to a particular issue or proposed change, use [Dicussions](https://github.com/a-cosmology-group/acg/discussions).
+
+© 2018--2026 ACG

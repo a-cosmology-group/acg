@@ -5,4 +5,4 @@ http://cosmology.info/media/open-letter-on-cosmology.html
 
 Do not remove this file.
 
-© 2018--2025 ACG
+© 2018--2026 ACG

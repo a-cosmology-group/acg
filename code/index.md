@@ -7,4 +7,4 @@ has_children: true
 
 # Cosmology Calculators
 
-© 2018--2025 ACG
+© 2018--2026 ACG

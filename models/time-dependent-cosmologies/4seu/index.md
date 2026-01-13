@@ -21,3 +21,5 @@ The model is also supported by assumptions that are necessary to it, and which a
 Everything is described in [The 4-Sphere model for an Alternative Metric in Cosmology: Key Aspects and Speculation](./4seu.pdf).
 
 An essay, which completes the speculation, also describes the opportunity to incorporate the 4-Sphere metric into the Standard Model.
+
+© 2018--2026 ACG

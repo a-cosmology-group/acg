@@ -14,13 +14,6 @@ Add this to the essays page:
 The "blurriness criticism of tired-light" assumes a single interaction that satisfies **conservation of energy and momentum** in non-expanding space, and a resulting photon propagating in the same direction as the initial photon.  It is applicable to Compton scattering and other tired-light models.
 
 
-
-
-
-
-
-
-
 # Rejecting the Blurriness Criticism
 **By Louis Marmet** - 2023 June 20
 
@@ -124,6 +117,6 @@ Other types of redshift mechanisms are possible, but to be valid it must reprodu
 
 ---
 
-© 2020–-2025 Louis Marmet
+© 2020–-2026 Louis Marmet
 
 [^1]: Based on the Kramers-Kronig relations, which are a different way to express conservation of energy and momentum.

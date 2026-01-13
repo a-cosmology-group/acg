@@ -231,4 +231,4 @@ expected.
 
 ---
 
-© Louis Marmet 2020–-2025
+© Louis Marmet 2020–-2026
