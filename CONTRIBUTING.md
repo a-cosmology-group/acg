@@ -33,4 +33,4 @@ Examples:
 
 [^4]: Georges Lemaître, *L'hypothèse de l'atome primitif: essai de cosmogonie*, Epistèmè, O. Godart (1972) [https://ark.unamur.be/ark:/83449/00775d1424](https://ark.unamur.be/ark:/83449/00775d1424)
 
-© 2018--2025 ACG
+© 2018--2026 ACG
