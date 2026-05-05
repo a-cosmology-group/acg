@@ -51,6 +51,8 @@ Few cosmologists will want to admit this, but the Big Bang model is in desperate
 
 The accelerating going away of the galaxies from the eyes of the observer happens because of the infinite – no edge – property of the universe. It does not mean the expansion of the space itself, as the Big Bang-theory concludes and supposes.
 
+See https://www.ollisantavuorikotisivut.fi/kirjat-ensin-filosofian-kirja-ja-kosmologia for more.
+
 ## [Big Bang Cosmology Funeral](./sorli_as/big-bang-cosmology-funeral_sorli.pdf)
 **by A.S. Šorli** - 2020 March 4
 
@@ -59,17 +61,17 @@ Physics is built by measured data. Cosmology also should be built on measured da
 ## [What I Learned by Reading Collingwood](./berrigan_p/what-i-learned-reading-collingwood_berrigan.html)
 **by Pierre Berrigan** - 2020 February 27
 
-  The term «metaphysics» has certainly been badly mistreated in the last few decades and has come to designate the lot of all types of weirdness, off-this-world and wacky ideas. As such, the entire discipline tends to be ridiculed and dismissed by scientists as useless and unintelligible nonsense, the makings of wild and unbridled imaginations, fruitless and endless arguing.
+The term «metaphysics» has certainly been badly mistreated in the last few decades and has come to designate the lot of all types of weirdness, off-this-world and wacky ideas. As such, the entire discipline tends to be ridiculed and dismissed by scientists as useless and unintelligible nonsense, the makings of wild and unbridled imaginations, fruitless and endless arguing.
 
 ## [Cosmology Questions to ACG Members](./lerner_ej/cosmology-questions.html)
 **by Eric J. Lerner** - 2020 January 29
 
-  Trying to look at the questionnaire from a purely descriptive standpoint I would say this paragraph characterizes the agreements.
+Trying to look at the questionnaire from a purely descriptive standpoint I would say this paragraph characterizes the agreements.
 
 ## [The Scientific Evidence Against the Big Bang](https://lppfusion.com/science/cosmic-connection/plasma-cosmology/the-growing-case-against-the-big-bang/)
 **by Eric J. Lerner** - 2020 January 19
 
-  The contradictions between Big Bang theory predictions and observations are not at all limited to those that have been widely dubbed a “Crisis in Cosmology”.  Despite the continuing popularity of the theory, essentially every prediction of the Big Bang theory has been increasingly contradicted by better and better data.  The real crisis in cosmology is that the Big Bang never happened.
+The contradictions between Big Bang theory predictions and observations are not at all limited to those that have been widely dubbed a “Crisis in Cosmology”.  Despite the continuing popularity of the theory, essentially every prediction of the Big Bang theory has been increasingly contradicted by better and better data.  The real crisis in cosmology is that the Big Bang never happened.
 
 ## [Criteria for a Scientific Model: The measuring device as a physical concept](./marmet_l/criteria-for-a-scientific-model.html)
 **by Louis Marmet** - 2019 December 13
