@@ -51,155 +51,154 @@ Astrophysicist, founding member of ACG
 
 ## Thank you for your support!
 
-ACG is a nonprofit Group.
+ACG is a nonprofit Group.  [Support ACG](https://www.paypal.com/donate/?hosted_button_id=M64MP78ETMBVJ).
 
 Please allow for some time for new updates to appear.
 
 ```
-Date  | Supporter      | To                                                 |   In   |  Out   |  Total
+Date  | Supporter      | To                                                |   In   -  Out  |  Total
 2026-
- 7- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |        | $  
- 6-28 | C. Marchesan   | Support A Cosmology Group                          |  54.55 |        | $ 83.25
- 6- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  11.30 | $ 28.70 
- 5-21 | H. Traunmüller | Support A Cosmology Group                          |  40.00 |        | $ 40.00
- 5- 8 | L. Marmet      | Domain Renewal WHC cosmologystatement.org →27-5-12 |  35.01 |  35.01 | $  0.00
- 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members  →26-6-7 |  11.30 |  11.30 | $  0.00
- 4- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 3- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 2- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 1- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
+ 6-28 | C. Marchesan   | Support A Cosmology Group                         |  54.55         | $ 83.25
+ 6- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 11.30 | $ 28.70 
+ 5-21 | H. Traunmüller | Support A Cosmology Group                         |  40.00         | $ 40.00
+ 5- 8 | L. Marmet      | WHC Renewal cosmologystatement.org       →27-5-12 |  35.01 - 35.01 | $  0.00
+ 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members →26-6-7 |  11.30 - 11.30 | $  0.00
+ 4- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 3- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 2- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 1- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
 2025-
-12- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
-11-30 | L. Marmet      | Domain Renewal WHC cosmology.info        →26-11-29 |  51.97 |  51.97 | $  0.00
-11- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
-10- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 9- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 8- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 7- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 6- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |  11.30 |  11.30 | $  0.00
- 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members          |   6.21 |  10.00 | $  0.00 
- 5- 4 |                | Domain Renewal cosmologystatement.org     →26-5-12 |        |  25.33 | $  3.79
- 4- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 29.12
- 3- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 39.12
- 2- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 49.12
- 1- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  10.00 | $ 59.12
+12- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+11-30 | L. Marmet      | WHC Domain Renewal cosmology.info       →26-11-29 |  51.97 - 51.97 | $  0.00
+11- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+10- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 9- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 8- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 7- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 6- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
+ 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |   6.21 - 10.00 | $  0.00 
+ 5- 4 |                | Domain Renewal cosmologystatement.org    →26-5-12 |        - 25.33 | $  3.79
+ 4- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 29.12
+ 3- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 39.12
+ 2- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 49.12
+ 1- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 59.12
 2024-
-12- 7 |                | Gaggle Mail; Single Group Qty 100 members  →25-1-7 |        |  10.00 | $ 69.12
-11- 7 |                | Gaggle Mail; Single Group Qty 100 members          |        |  15.78 | $ 79.12
-10-19 |                | Domain Renewal Web Host Ca cosmology.info →25-11-1 |        |  37.63 | $ 94.90
-10- 7 |                | Gaggle Mail; 33 members                   →24-11-7 |        |   3.29 | $132.53
- 9- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $135.82
- 8- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $139.22
- 7- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $142.62
- 6- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $146.02
- 5- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $149.42
- 4- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $152.82
- 3- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $156.22
- 2- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $159.62
- 1- 7 |                | Gaggle Mail; 34 members                            |        |   3.40 | $163.02
+12- 7 |                | Gaggle Mail; Single Group Qty 100 members →25-1-7 |        - 10.00 | $ 69.12
+11- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 15.78 | $ 79.12
+10-19 |                | Web Host Ca Renewal cosmology.info       →25-11-1 |        - 37.63 | $ 94.90
+10- 7 |                | Gaggle Mail; 33 members                  →24-11-7 |        -  3.29 | $132.53
+ 9- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $135.82
+ 8- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $139.22
+ 7- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $142.62
+ 6- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $146.02
+ 5- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $149.42
+ 4- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $152.82
+ 3- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $156.22
+ 2- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $159.62
+ 1- 7 |                | Gaggle Mail; 34 members                           |        -  3.40 | $163.02
 2023-
-12- 7 |                | Gaggle Mail; 34 members                    →24-1-7 |        |   3.56 | $166.42
-11- 7 |                | Gaggle Mail; 32 members                            |        |   3.27 | $169.98
-11- 1 |                | Domain Transfer WHC cosmologystatement.org         |        |  49.37 | $173.25
-11- 1 |                | Domain Transfer Web Host Canada cosmology.info     |        |  57.51 | $222.62
-10- 7 |                | Gaggle Mail; 26 members                   →23-11-7 |        |   2.50 | $280.13
- 9- 7 |                | Gaggle Mail; 27 members                            |        |   2.70 | $282.63
- 8- 7 |                | Gaggle Mail; 27 members                            |        |   2.91 | $285.33
- 6-14 |                | Gaggle Mail; 68 members                            |        |  13.60 | $288.24
- 6- 7 |                | Gaggle Mail; unlinked 27+46+27 members     →23-7-7 |        |  10.00 | $301.84
- 5-14 |                | Gaggle Mail; linked-groups, 68 members    →23-6-14 |        |  13.60 | $311.84
- 4-29 |                | cosmologystatement.org privacy+protection →24-5-13 |        |  34.87 | $325.44
- 4-14 |                | Gaggle Mail; linked-groups, 68 members    →23-5-14 |        |  13.62 | $360.31
- 3-14 |                | Gaggle Mail; linked-groups, 67 members             |        |  13.40 | $373.93
- 2-14 |                | Gaggle Mail; linked-groups, 67 members             |        |  13.40 | $387.33
- 1-14 |                | Gaggle Mail; linked-groups, 67 members             |        |  13.77 | $400.73
+12- 7 |                | Gaggle Mail; 34 members                   →24-1-7 |        -  3.56 | $166.42
+11- 7 |                | Gaggle Mail; 32 members                           |        -  3.27 | $169.98
+11- 1 |                | Domain Transfer WHC cosmologystatement.org        |        - 49.37 | $173.25
+11- 1 |                | Domain Transfer Web Host Canada cosmology.info    |        - 57.51 | $222.62
+10- 7 |                | Gaggle Mail; 26 members                  →23-11-7 |        -  2.50 | $280.13
+ 9- 7 |                | Gaggle Mail; 27 members                           |        -  2.70 | $282.63
+ 8- 7 |                | Gaggle Mail; 27 members                           |        -  2.91 | $285.33
+ 6-14 |                | Gaggle Mail; 68 members                           |        - 13.60 | $288.24
+ 6- 7 |                | Gaggle Mail; unlinked 27+46+27 members    →23-7-7 |        - 10.00 | $301.84
+ 5-14 |                | Gaggle Mail; linked-groups, 68 members   →23-6-14 |        - 13.60 | $311.84
+ 4-29 |                | cosmologystatement.org privacy+protect.  →24-5-13 |        - 34.87 | $325.44
+ 4-14 |                | Gaggle Mail; linked-groups, 68 members   →23-5-14 |        - 13.62 | $360.31
+ 3-14 |                | Gaggle Mail; linked-groups, 67 members            |        - 13.40 | $373.93
+ 2-14 |                | Gaggle Mail; linked-groups, 67 members            |        - 13.40 | $387.33
+ 1-14 |                | Gaggle Mail; linked-groups, 67 members            |        - 13.77 | $400.73
 2022-
-12-30 | G. Borchardt   | Support A Cosmology Group                          |  38.40 |        | $414.50
-12-14 |                | Gaggle Mail; linked-groups, 65 members    →23-1-14 |        |  12.89 | $376.10
-11-23 | M. Joseph      | Support A Cosmology Group                          |  75.00 |        | $388.99
-11-14 |                | cosmology.info + privacy+protection      →23-11-29 |        |  36.87 | $313.99
-11-14 |                | Gaggle Mail; linked-groups, 64 members   →22-12-14 |        |  12.80 | $350.86
-10-14 |                | Gaggle Mail; linked-groups, 65 members             |        |  12.80 | $363.66
- 9-14 |                | Gaggle Mail; linked-groups, 65 members             |        |  12.98 | $376.46
- 8-14 |                | Gaggle Mail; linked-groups, 64 members             |        |  12.80 | $389.44
- 7-14 |                | Gaggle Mail; linked-groups, 65 members             |        |  12.92 | $402.24
- 6-14 |                | Gaggle Mail; linked-groups, 64 members             |        |  12.80 | $415.16
- 5-14 |                | Gaggle Mail; linked-groups, 64 members             |        |  12.79 | $427.96
- 4-29 |                | cosmologystatement.org privacy+protection →23-5-13 |        |  32.87 | $440.75
- 4-14 |                | Gaggle Mail; linked-groups, 65 members             |        |  12.99 | $473.62
- 3-14 |                | Gaggle Mail; linked-groups, 67 members             |        |  13.39 | $486.61
- 3- 2 | W. J. Cox      | Support A Cosmology Group                          | 500.00 |        | $500.00
- 2-14 | L. Marmet      | Gaggle Mail; linked-groups, 68 members             |   8.27 |  13.59 | $  0.00
- 1-14 |                | Gaggle Mail; linked-groups, 69 members             |        |  13.80 | $  5.32
- 1- 7 | C. Fraser      | Forum contributor                                  |  19.12 |        | $ 19.12
+12-30 | G. Borchardt   | Support A Cosmology Group                         |  38.40         | $414.50
+12-14 |                | Gaggle Mail; linked-groups, 65 members   →23-1-14 |        - 12.89 | $376.10
+11-23 | M. Joseph      | Support A Cosmology Group                         |  75.00         | $388.99
+11-14 |                | cosmology.info + privacy+protection     →23-11-29 |        - 36.87 | $313.99
+11-14 |                | Gaggle Mail; linked-groups, 64 members  →22-12-14 |        - 12.80 | $350.86
+10-14 |                | Gaggle Mail; linked-groups, 65 members            |        - 12.80 | $363.66
+ 9-14 |                | Gaggle Mail; linked-groups, 65 members            |        - 12.98 | $376.46
+ 8-14 |                | Gaggle Mail; linked-groups, 64 members            |        - 12.80 | $389.44
+ 7-14 |                | Gaggle Mail; linked-groups, 65 members            |        - 12.92 | $402.24
+ 6-14 |                | Gaggle Mail; linked-groups, 64 members            |        - 12.80 | $415.16
+ 5-14 |                | Gaggle Mail; linked-groups, 64 members            |        - 12.79 | $427.96
+ 4-29 |                | cosmologystatement.org privacy+protect.  →23-5-13 |        - 32.87 | $440.75
+ 4-14 |                | Gaggle Mail; linked-groups, 65 members            |        - 12.99 | $473.62
+ 3-14 |                | Gaggle Mail; linked-groups, 67 members            |        - 13.39 | $486.61
+ 3- 2 | W. J. Cox      | Support A Cosmology Group                         | 500.00         | $500.00
+ 2-14 | L. Marmet      | Gaggle Mail; linked-groups, 68 members            |   8.27 - 13.59 | $  0.00
+ 1-14 |                | Gaggle Mail; linked-groups, 69 members            |        - 13.80 | $  5.32
+ 1- 7 | C. Fraser      | Forum contributor                                 |  19.12         | $ 19.12
 2021-
-12-14 | L. Marmet      | Gaggle Mail; linked-groups, 69 members             |  13.80 |  13.80 | $  0.00
-11-14 | L. Marmet      | cosmology.info + privacy+protection      →22-11-29 |  25.71 |  30.87 | $  0.00
-11-14 |                | Gaggle Mail; linked-groups, 69 members             |        |  13.80 | $  5.16
-11-11 | C. Clark       | Forum contributor                                  |  18.96 |        | $ 18.96
-10-14 | L. Marmet      | Gaggle Mail; linked-groups, 68 members             |  13.51 |  13.51 | $  0.00
- 9-14 | L. Marmet      | Gaggle Mail; linked-groups, 84 members             |  16.80 |  16.80 | $  0.00
- 8-14 | L. Marmet      | Gaggle Mail; linked-groups, 84 members             |   9.72 |  16.80 | $  0.00
- 7-14 |                | Gaggle Mail; linked-groups, 85 members             |        |  16.89 | $  7.08
- 7-13 | M. Edwards     | Forum contributor                                  |  23.97 |        | $ 23.97
- 6-14 | L. Marmet      | Gaggle Mail; linked-groups, 83 members             |  16.60 |  16.60 | $  0.00
- 5-14 | L. Marmet      | Gaggle Mail; linked-groups, 83 members             |  16.60 |  16.60 | $  0.00
- 4-29 | L. Marmet      | cosmologystatement.org privacy+protection →22-5-13 |   9.25 |  14.88 | $  0.00
- 4-14 |                | Gaggle Mail; linked-groups, 83 members             |        |  16.60 | $  5.63
- 3-14 |                | Gaggle Mail; linked-groups, 83 members             |        |  16.60 | $ 22.23
- 2-14 |                | Gaggle Mail; linked-groups, 83 members             |        |  16.60 | $ 38.83
- 1-18 |                | Basic web hosting on HostMonster; 3 years  →24-2-2 |        | 341.64 | $ 55.43
- 1-14 |                | Gaggle Mail; linked-groups, 84 members             |        |  16.62 | $397.07
- 1-12 | W. Zhang       | Forum contributor                                  |  18.92 |        | $413.69
+12-14 | L. Marmet      | Gaggle Mail; linked-groups, 69 members            |  13.80 - 13.80 | $  0.00
+11-14 | L. Marmet      | cosmology.info + privacy+protection     →22-11-29 |  25.71 - 30.87 | $  0.00
+11-14 |                | Gaggle Mail; linked-groups, 69 members            |        - 13.80 | $  5.16
+11-11 | C. Clark       | Forum contributor                                 |  18.96         | $ 18.96
+10-14 | L. Marmet      | Gaggle Mail; linked-groups, 68 members            |  13.51 - 13.51 | $  0.00
+ 9-14 | L. Marmet      | Gaggle Mail; linked-groups, 84 members            |  16.80 - 16.80 | $  0.00
+ 8-14 | L. Marmet      | Gaggle Mail; linked-groups, 84 members            |   9.72 - 16.80 | $  0.00
+ 7-14 |                | Gaggle Mail; linked-groups, 85 members            |        - 16.89 | $  7.08
+ 7-13 | M. Edwards     | Forum contributor                                 |  23.97         | $ 23.97
+ 6-14 | L. Marmet      | Gaggle Mail; linked-groups, 83 members            |  16.60 - 16.60 | $  0.00
+ 5-14 | L. Marmet      | Gaggle Mail; linked-groups, 83 members            |  16.60 - 16.60 | $  0.00
+ 4-29 | L. Marmet      | cosmologystatement.org privacy+protect.  →22-5-13 |   9.25 - 14.88 | $  0.00
+ 4-14 |                | Gaggle Mail; linked-groups, 83 members            |        - 16.60 | $  5.63
+ 3-14 |                | Gaggle Mail; linked-groups, 83 members            |        - 16.60 | $ 22.23
+ 2-14 |                | Gaggle Mail; linked-groups, 83 members            |        - 16.60 | $ 38.83
+ 1-18 |                | Basic web hosting on HostMonster; 3 years →24-2-2 |        -341.64 | $ 55.43
+ 1-14 |                | Gaggle Mail; linked-groups, 84 members            |        - 16.62 | $397.07
+ 1-12 | W. Zhang       | Forum contributor                                 |  18.92         | $413.69
 2020-
-12-31 | J.C. Wang      | Forum contributor                                  |  18.96 |        | $394.77
-12-17 | W. Cox         | Forum contributor                                  |  18.96 |        | $375.81
-12-14 |                | Gaggle Mail; linked-groups, 82 members             |        |  16.37 | $356.85
-12-12 | G. Borchardt   | Forum contributor                                  |  18.96 |        | $373.22
-11-14 |                | cosmology.info + privacy+protection      →21-11-29 |        |  30.87 | $354.26
-11-14 |                | Gaggle Mail; linked-groups, 85 members             |        |  17.00 | $385.13
-11-10 | S. Sorli       | Forum contributor                                  |  14.11 |        | $402.13
-10-21 | L. Naszvadi    | Forum contributor                                  |  18.92 |        | $388.02
-10-14 |                | Gaggle Mail; linked-groups, 85 members             |        |  17.00 | $369.10
-10- 9 | R. Fleming     | Forum contributor                                  |  14.14 |        | $386.10
- 9-22 | M. Mooney      | ACG support                                        |   0.90 |        | $371.96
- 9-16 | V. Netchitailo | Forum contributor                                  |  14.14 |        | $371.06
- 9-14 | B. Bligh       | Forum contributor                                  |  18.92 |        | $356.92
- 9-14 |                | Gaggle Mail; linked-groups, 92 members             |        |  18.21 | $338.00
- 9-11 | V. Petrikov    | Forum contributor                                  |  15.00 |        | $356.21
- 8-29 | J. Marsen      | Forum contributor                                  |  28.59 |        | $341.21
- 8-17 | S. Reucroft    | Forum contributor                                  |  14.14 |        | $312.62
- 8-16 | P. Berrigan    | Forum contributor                                  |  19.12 |        | $298.48
- 8-14 |                | Gaggle Mail; linked-groups, 77 members             |        |  15.40 | $279.36
- 8- 2 | J. Dotson      | Forum contributor                                  |  18.96 |        | $294.76
- 7-14 |                | Gaggle Mail; linked-groups, 77 members             |        |  15.34 | $275.80
- 6-14 |                | Gaggle Mail; linked-groups, 104 members            |        |  20.80 | $291.14
- 6- 9 | D. Marett      | Forum contributor                                  |  19.12 |        | $311.94
- 5-30 | T. Andersen    | Forum contributor                                  |  18.92 |        | $292.82
- 5-28 | R. Ravenhall   | Forum contributor + ACG support                    |  96.00 |        | $273.90
- 5-27 | A. Trépanier   | Forum contributor                                  |  28.83 |        | $177.90
- 5-27 | L. Rapanault   | Forum contributor                                  |  18.96 |        | $149.07
- 5-23 | O. Santavuori  | Forum contributor                                  |  18.92 |        | $130.11
- 5-14 |                | Gaggle Mail; linked-groups, 104 members            |        |  20.80 | $111.19
- 4-29 |                | cosmologystatement.org privacy+protection →21-5-13 |        |  32.87 | $131.99
- 4-14 |                | Gaggle Mail; linked-groups, 104 members            |        |  20.80 | $164.86
- 3-14 |                | Gaggle Mail; linked-groups, 112 members            |        |  22.40 | $185.66
- 2-14 |                | Gaggle Mail; linked-groups, 95 members             |        |   9.42 | $208.06
- 2- 6 |                | Gaggle Mail; 101 members                   →20-3-6 |        |  10.10 | $217.48
- 1-27 | Yvon Dufour    | Forum contributor           →25-7-29 + ACG support | 227.58 |        | $227.58
- 1- 6 | L. Marmet      | Gaggle Mail; 97 members                            |   9.70 |   9.70 | $  0.00
+12-31 | J.C. Wang      | Forum contributor                                 |  18.96         | $394.77
+12-17 | W. Cox         | Forum contributor                                 |  18.96         | $375.81
+12-14 |                | Gaggle Mail; linked-groups, 82 members            |        - 16.37 | $356.85
+12-12 | G. Borchardt   | Forum contributor                                 |  18.96         | $373.22
+11-14 |                | cosmology.info + privacy+protection     →21-11-29 |        - 30.87 | $354.26
+11-14 |                | Gaggle Mail; linked-groups, 85 members            |        - 17.00 | $385.13
+11-10 | S. Sorli       | Forum contributor                                 |  14.11         | $402.13
+10-21 | L. Naszvadi    | Forum contributor                                 |  18.92         | $388.02
+10-14 |                | Gaggle Mail; linked-groups, 85 members            |        - 17.00 | $369.10
+10- 9 | R. Fleming     | Forum contributor                                 |  14.14         | $386.10
+ 9-22 | M. Mooney      | ACG support                                       |   0.90         | $371.96
+ 9-16 | V. Netchitailo | Forum contributor                                 |  14.14         | $371.06
+ 9-14 | B. Bligh       | Forum contributor                                 |  18.92         | $356.92
+ 9-14 |                | Gaggle Mail; linked-groups, 92 members            |        - 18.21 | $338.00
+ 9-11 | V. Petrikov    | Forum contributor                                 |  15.00         | $356.21
+ 8-29 | J. Marsen      | Forum contributor                                 |  28.59         | $341.21
+ 8-17 | S. Reucroft    | Forum contributor                                 |  14.14         | $312.62
+ 8-16 | P. Berrigan    | Forum contributor                                 |  19.12         | $298.48
+ 8-14 |                | Gaggle Mail; linked-groups, 77 members            |        - 15.40 | $279.36
+ 8- 2 | J. Dotson      | Forum contributor                                 |  18.96         | $294.76
+ 7-14 |                | Gaggle Mail; linked-groups, 77 members            |        - 15.34 | $275.80
+ 6-14 |                | Gaggle Mail; linked-groups, 104 members           |        - 20.80 | $291.14
+ 6- 9 | D. Marett      | Forum contributor                                 |  19.12         | $311.94
+ 5-30 | T. Andersen    | Forum contributor                                 |  18.92         | $292.82
+ 5-28 | R. Ravenhall   | Forum contributor + ACG support                   |  96.00         | $273.90
+ 5-27 | A. Trépanier   | Forum contributor                                 |  28.83         | $177.90
+ 5-27 | L. Rapanault   | Forum contributor                                 |  18.96         | $149.07
+ 5-23 | O. Santavuori  | Forum contributor                                 |  18.92         | $130.11
+ 5-14 |                | Gaggle Mail; linked-groups, 104 members           |        - 20.80 | $111.19
+ 4-29 |                | cosmologystatement.org privacy+protect.  →21-5-13 |        - 32.87 | $131.99
+ 4-14 |                | Gaggle Mail; linked-groups, 104 members           |        - 20.80 | $164.86
+ 3-14 |                | Gaggle Mail; linked-groups, 112 members           |        - 22.40 | $185.66
+ 2-14 |                | Gaggle Mail; linked-groups, 95 members            |        -  9.42 | $208.06
+ 2- 6 |                | Gaggle Mail; 101 members                  →20-3-6 |        - 10.10 | $217.48
+ 1-27 | Yvon Dufour    | Forum contributor + ACG support          →25-7-29 | 227.58         | $227.58
+ 1- 6 | L. Marmet      | Gaggle Mail; 97 members                           |   9.70 -  9.70 | $  0.00
 2019-
-12- 6 | L. Marmet      | Gaggle Mail; 125 members                           |  12.47 |  12.47 | $  0.00
-11-15 | L. Marmet      | cosmology.info + privacy+protection      →20-11-29 |  30.87 |  30.87 | $  0.00
-11- 6 | L. Marmet      | Gaggle Mail; 138 members                           |  13.80 |  13.80 | $  0.00
- 5- 8 | L. Marmet      | cosmologystatement.org privacy+protection →20-5-13 |   8.45 |  14.88 | $  0.00
+12- 6 | L. Marmet      | Gaggle Mail; 125 members                          |  12.47 - 12.47 | $  0.00
+11-15 | L. Marmet      | cosmology.info + privacy+protection     →20-11-29 |  30.87 - 30.87 | $  0.00
+11- 6 | L. Marmet      | Gaggle Mail; 138 members                          |  13.80 - 13.80 | $  0.00
+ 5- 8 | L. Marmet      | cosmologystatement.org privacy+protect.  →20-5-13 |   8.45 - 14.88 | $  0.00
 2018-
-12-30 | W.H. White     | ACG support                                        |   6.43 |        | $  6.43
-11-14 | L. Marmet      | cosmology.info privacy+protection        →19-11-29 |  14.88 |  14.88 | $  0.00
-11-14 | L. Marmet      | cosmology.info registration              →19-11-29 |  15.99 |  15.99 | $  0.00
- 2- 2 | L. Marmet      | Basic web hosting on HostMonster; 3 years  →21-2-2 | 178.20 | 178.20 | $  0.00
+12-30 | W.H. White     | ACG support                                       |   6.43         | $  6.43
+11-14 | L. Marmet      | cosmology.info privacy+protection       →19-11-29 |  14.88 - 14.88 | $  0.00
+11-14 | L. Marmet      | cosmology.info registration             →19-11-29 |  15.99 - 15.99 | $  0.00
+ 2- 2 | L. Marmet      | HostMonster Basic web hosting; 3 year     →21-2-2 | 178.20 -178.20 | $  0.00
 2017-
- 8- 6 | L. Marmet      | cosmology.info registration              →18-11-29 |  27.87 |  27.87 | US$0.00
+ 8- 6 | L. Marmet      | cosmology.info registration             →18-11-29 |  27.87 - 27.87 | US$0.00
 ```
 
 ---
