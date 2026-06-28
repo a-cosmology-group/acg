@@ -33,7 +33,7 @@ __Theoretical Framework (Hosted on Zenodo)__: The list below represents the reco
   4. 	[Ancient orbital structures: simulating Local Group evolution under full Hyperspherical Expansion Acceleration](https://doi.org/10.5281/zenodo.20577082)
   5. 	[A new perspective on Hubble's law through a four-dimensional spatial model](https://doi.org/10.5281/zenodo.17797831)
   6. 	[Reevaluating the Necessity of Dark Matter and Dark Energy within Cosmological Models](https://doi.org/10.5281/zenodo.14986654)
-  7. 	[Non Keplerian MW–M31 dynamics under Hyperspherical Expansion Acceleration: a bound solution without Dark matter](https://doi.org/10.5281/zenodo.17797831)
+  7. 	[Non Keplerian MW–M31 dynamics under Hyperspherical Expansion Acceleration: a bound solution without Dark matter](https://doi.org/10.5281/zenodo.20791295)
 
 The broader implications of this speculative framework rest on the empirical robustness of Hubble’s law and the independent validation of stellar distances, but also on a set of necessary assumptions—discussed in the cited works—that remain conjectural. These include the predominant dynamical role of BAO and the CMB, a reconsideration of the Cosmological Principle, the status of the cosmological constant in its relation to Quantum Field Theory, the restoration of the link between entropy conservation and reversibility. Matter as a discontinuity implies the model’s global energy conservation associated with the CMB alone. Conversely, the gravity–expansion balance encoded in the newly introduced Hyperspherical Expansion Acceleration (HEA) imposes the non-conservative energy $$E_{HEA}$$ of matter.
 
