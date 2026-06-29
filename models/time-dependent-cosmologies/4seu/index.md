@@ -3,11 +3,12 @@ title: 4-Sphere Expanding Universe
 layout: default
 parent: Cosmological Models
 nav_order: 164
+math: mathjax3
 ---
 
 ## THE 4-SPHERE MODEL: INTRODUCTION
 
-Recent JWST detections — including the JADES GS z14 0 galaxy at $$z \approx 14.3$$— place unexpected pressure on FLRW based distance and age estimates, as such systems appear markedly more massive and more evolved than the cosmic ages predicted by the standard metric would allow.
+Recent JWST detections — including the JADES GS z14 0 galaxy at $$z \approx 14.3$$ — place unexpected pressure on FLRW based distance and age estimates, as such systems appear markedly more massive and more evolved than the cosmic ages predicted by the standard metric would allow.
 
 This motivates a re examination of the conceptual foundations linking expansion, redshift, and cosmological geometry. Here I explore an alternative framework in which the Universe is modeled as the three dimensional surface of a hypersphere $$(S^3)$$ expanding at a constant rate, with radius $$r=ct$$. In this scenario, matter appears as a discontinuity within a geometry governed by the CMB, preserving Hubble’s law while offering a finite yet unbounded Universe without invoking dark matter or dark energy. The model introduces a distinct interpretation of galactic recession and provides testable predictions through supernova distance measurements, including those accessible with JWST. 
 
