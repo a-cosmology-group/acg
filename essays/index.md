@@ -19,6 +19,17 @@ Comments on the Big Bang model, the scientific method, cosmologists, philosophy,
 </details>
 
 
+## [A Unified Dissipative Framework: Linking Cosmological Viscosity to Nuclear Binding Energy via Three-Dimensional Geometric Normalization](https://www.academia.edu/166991887/A_Unified_Dissipative_Framework_Linking_Cosmological_Viscosity_to_Nuclear_Binding_Energy_via_Geometric_Normalization)
+**by Sergey Yu. Paygachkin** - 2026 May 24
+
+We present a unified dissipative framework that connects cosmological observations to nuclear binding energies through a single dimensionless parameter interpreted as the viscosity of a vacuum substrate.  Calibrating the optico-hydrodynamic vacuum (OHV) distance metric on the Pantheon+ Type Ia supernova sample yields a result statistically comparable to flat ΛCDM.
+This result suggests a scale-invariant dissipative mechanism linking photon propagation at gigaparsec scales to energy localization at nuclear scales spanning 41 orders of magnitude. We discuss the physical interpretation, limitations, and falsifiable predictions of the framework.
+
+## [The Flow of Time and Processes in the Universe](./maltsev_a/20260511-ft-2.pdf)
+**by Alexander Maltsev** - 2026 May 11
+
+A new approach to explaining the accelerated expansion of the Universe is presented. An analysis of the question "How does time flow?" revealed that for time to flow, the rate of time must change. It is shown that the rate of time is accelerating. This results in the effect of accelerated expansion of the Universe and the need for "dark" matter. Acceleration increases the Doppler effect of the expansion of the Universe. Options for testing the theoretical conclusions are proposed.
+
 ## [A Quantum Approach to Relativistic Cosmology](./keys_r/quantum-approach-to-relativistic-cosmology.pdf)
 **by Roy Keys** - 2022 October 19
 
@@ -51,7 +62,7 @@ Few cosmologists will want to admit this, but the Big Bang model is in desperate
 
 The accelerating going away of the galaxies from the eyes of the observer happens because of the infinite – no edge – property of the universe. It does not mean the expansion of the space itself, as the Big Bang-theory concludes and supposes.
 
-See https://www.ollisantavuorikotisivut.fi/kirjat-ensin-filosofian-kirja-ja-kosmologia for more.
+See [http://santavuori.com/](http://santavuori.com/) for more.
 
 ## [Big Bang Cosmology Funeral](./sorli_as/big-bang-cosmology-funeral_sorli.pdf)
 **by A.S. Šorli** - 2020 March 4

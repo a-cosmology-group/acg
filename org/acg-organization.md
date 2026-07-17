@@ -58,8 +58,9 @@ Please allow for some time for new updates to appear.
 ```
 Date  | Supporter      | To                                                |   In   -  Out  |  Total
 2026-
+ 7- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 11.30 | $ 71.95
  6-28 | C. Marchesan   | Support A Cosmology Group                         |  54.55         | $ 83.25
- 6- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 11.30 | $ 28.70 
+ 6- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 11.30 | $ 28.70
  5-21 | H. Traunmüller | Support A Cosmology Group                         |  40.00         | $ 40.00
  5- 8 | L. Marmet      | WHC Renewal cosmologystatement.org       →27-5-12 |  35.01 - 35.01 | $  0.00
  5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members →26-6-7 |  11.30 - 11.30 | $  0.00
@@ -76,7 +77,7 @@ Date  | Supporter      | To                                                |   I
  8- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
  7- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
  6- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |  11.30 - 11.30 | $  0.00
- 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |   6.21 - 10.00 | $  0.00 
+ 5- 7 | L. Marmet      | Gaggle Mail; Single Group Qty 100 members         |   6.21 - 10.00 | $  0.00
  5- 4 |                | Domain Renewal cosmologystatement.org    →26-5-12 |        - 25.33 | $  3.79
  4- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 29.12
  3- 7 |                | Gaggle Mail; Single Group Qty 100 members         |        - 10.00 | $ 39.12
